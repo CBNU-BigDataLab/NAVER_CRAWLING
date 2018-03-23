@@ -1,0 +1,2293 @@
+Key,Title,Side Effects,% of Side Effects, Labels,% of Labels,ParentKey,Url
+nd0,"A - ALIMENTARY TRACT AND METABOLISM",1907,32.43,4051,13.39,null,
+nd1,"A01 - STOMATOLOGICAL PREPARATIONS",772,13.13,809,2.67,nd0,
+nd2,"A01A - STOMATOLOGICAL PREPARATIONS",772,13.13,809,2.67,nd1,
+nd3,"A01AB - Antiinfectives and antiseptics for local oral treatment",580,9.86,486,1.61,nd2,
+A01AB4,"Amphotericin B",301,5.12,10,0.03,nd3,http://sideeffects.embl.de/drugs/1972
+A01AB5,"Chlorhexidine",52,0.88,18,0.06,nd3,http://sideeffects.embl.de/drugs/2713
+A01AB6,"Clotrimazole",21,0.36,21,0.07,nd3,http://sideeffects.embl.de/drugs/2812
+A01AB7,"Doxycycline",150,2.55,177,0.59,nd3,http://sideeffects.embl.de/drugs/25880656
+A01AB8,"Metronidazole",212,3.61,155,0.51,nd3,http://sideeffects.embl.de/drugs/4173
+A01AB9,"Miconazole",57,0.97,7,0.02,nd3,http://sideeffects.embl.de/drugs/4189
+A01AB10,"Minocycline",136,2.31,70,0.23,nd3,http://sideeffects.embl.de/drugs/26275995
+A01AB11,"Natamycin",12,0.2,2,0.01,nd3,http://sideeffects.embl.de/drugs/441382
+A01AB12,"Neomycin",21,0.36,9,0.03,nd3,http://sideeffects.embl.de/drugs/4454
+A01AB13,"Tetracycline",37,0.63,17,0.06,nd3,http://sideeffects.embl.de/drugs/25880664
+nd14,"A01AC - Corticosteroids for local oral treatment",291,4.95,266,0.88,nd2,
+A01AC15,"Cortisol",197,3.35,113,0.37,nd14,http://sideeffects.embl.de/drugs/3640
+A01AC16,"Dexamethasone",215,3.66,124,0.41,nd14,http://sideeffects.embl.de/drugs/3003
+A01AC17,"Triamcinolone",150,2.55,29,0.1,nd14,http://sideeffects.embl.de/drugs/5544
+nd18,"A01AD - Other agents for local oral treatment",133,2.26,57,0.19,nd2,
+A01AD19,"Amlexanox",10,0.17,1,0.0,nd18,http://sideeffects.embl.de/drugs/2161
+A01AD20,"Aspirin",68,1.16,20,0.07,nd18,http://sideeffects.embl.de/drugs/2244
+A01AD21,"Benzydamine",9,0.15,1,0.0,nd18,http://sideeffects.embl.de/drugs/12555
+A01AD22,"Epinephrine",67,1.14,35,0.12,nd18,http://sideeffects.embl.de/drugs/838
+nd23,"A02 - DRUGS FOR ACID RELATED DISORDERS",704,11.97,667,2.2,nd0,
+nd24,"A02B - DRUGS FOR PEPTIC ULCER AND GASTRO-OESOPHAGEAL REFLUX DISEASE (GORD)",704,11.97,667,2.2,nd23,
+nd25,"A02BA - H",203,3.45,274,0.91,nd24,
+A02BA26,"Cimetidine",64,1.09,29,0.1,nd25,http://sideeffects.embl.de/drugs/2756
+A02BA27,"Famotidine",116,1.97,104,0.34,nd25,http://sideeffects.embl.de/drugs/3325
+A02BA28,"Nizatidine",61,1.04,20,0.07,nd25,http://sideeffects.embl.de/drugs/4513
+A02BA29,"Ranitidine",90,1.53,121,0.4,nd25,http://sideeffects.embl.de/drugs/5039
+nd30,"A02BB - Prostaglandins",99,1.68,22,0.07,nd24,
+A02BB31,"Misoprostol",99,1.68,22,0.07,nd30,http://sideeffects.embl.de/drugs/42955
+nd32,"A02BC - Proton pump inhibitors",620,10.54,371,1.23,nd24,
+A02BC33,"Lansoprazole",374,6.36,61,0.2,nd32,http://sideeffects.embl.de/drugs/3883
+A02BC34,"Omeprazole",250,4.25,126,0.42,nd32,http://sideeffects.embl.de/drugs/4594
+A02BC35,"Pantoprazole",323,5.49,146,0.48,nd32,http://sideeffects.embl.de/drugs/4679
+A02BC36,"Rabeprazole",285,4.85,38,0.13,nd32,http://sideeffects.embl.de/drugs/5029
+nd37,"A03 - DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS",457,7.77,316,1.04,nd0,
+nd38,"A03A - DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS",289,4.91,135,0.45,nd37,
+nd39,"A03AA - Synthetic anticholinergics, esters with tertiary amino group",88,1.5,62,0.2,nd38,
+A03AA40,"Dicyclomine",87,1.48,59,0.2,nd39,http://sideeffects.embl.de/drugs/3042
+A03AA41,"Mebeverine",14,0.24,3,0.01,nd39,http://sideeffects.embl.de/drugs/4031
+nd42,"A03AB - Synthetic anticholinergics, quaternary ammonium compounds",111,1.89,45,0.15,nd38,
+A03AB43,"Cantril",26,0.44,4,0.01,nd42,http://sideeffects.embl.de/drugs/4057
+A03AB44,"Glycopyrrolate",105,1.79,39,0.13,nd42,http://sideeffects.embl.de/drugs/3494
+A03AB45,"Propantheline",32,0.54,2,0.01,nd42,http://sideeffects.embl.de/drugs/4934
+nd46,"A03AD - Papaverine and derivatives",14,0.24,1,0.0,nd38,
+A03AD47,"Papaverine",14,0.24,1,0.0,nd46,http://sideeffects.embl.de/drugs/4680
+nd48,"A03AE - Serotonin receptor antagonists",191,3.25,25,0.08,nd38,
+A03AE49,"Alosetron",105,1.79,8,0.03,nd48,http://sideeffects.embl.de/drugs/2099
+A03AE50,"Prucalopride",38,0.65,2,0.01,nd48,http://sideeffects.embl.de/drugs/3052762
+A03AE51,"Tegaserod",109,1.85,15,0.05,nd48,http://sideeffects.embl.de/drugs/5487301
+nd52,"A03AX - Other drugs for functional gastrointestinal disorders",12,0.2,2,0.01,nd38,
+A03AX53,"Pinaverium bromide",12,0.2,2,0.01,nd52,http://sideeffects.embl.de/drugs/40703
+nd54,"A03B - BELLADONNA AND DERIVATIVES, PLAIN",195,3.32,97,0.32,nd37,
+nd55,"A03BA - Belladonna alkaloids, tertiary amines",178,3.03,85,0.28,nd54,
+A03BA56,"Atropine",178,3.03,85,0.28,nd55,http://sideeffects.embl.de/drugs/3661
+nd57,"A03BB - Belladonna alkaloids, semisynthetic, quaternary ammonium compounds",51,0.87,12,0.04,nd54,
+A03BB58,"Buscopan",34,0.58,4,0.01,nd57,http://sideeffects.embl.de/drugs/3636
+A03BB59,"N-methylscopolamine",25,0.43,8,0.03,nd57,http://sideeffects.embl.de/drugs/4120
+nd60,"A03F - PROPULSIVES",131,2.23,84,0.28,nd37,
+nd61,"A03FA - Propulsives",131,2.23,84,0.28,nd60,
+A03FA62,"Domperidone",42,0.71,10,0.03,nd61,http://sideeffects.embl.de/drugs/3151
+A03FA63,"Metoclopramide",106,1.8,74,0.24,nd61,http://sideeffects.embl.de/drugs/4168
+nd64,"A04 - ANTIEMETICS AND ANTINAUSEANTS",466,7.93,334,1.1,nd0,
+nd65,"A04A - ANTIEMETICS AND ANTINAUSEANTS",466,7.93,334,1.1,nd64,
+nd66,"A04AA - Serotonin (5HT3) antagonists",285,4.85,275,0.91,nd65,
+A04AA67,"Dolasetron",124,2.11,13,0.04,nd66,http://sideeffects.embl.de/drugs/3148
+A04AA68,"Granisetron",112,1.9,40,0.13,nd66,http://sideeffects.embl.de/drugs/3510
+A04AA69,"Ondansetron",110,1.87,212,0.7,nd66,http://sideeffects.embl.de/drugs/4595
+A04AA70,"Palonosetron",118,2.01,8,0.03,nd66,http://sideeffects.embl.de/drugs/148211
+A04AA71,"Tropisetron",29,0.49,2,0.01,nd66,http://sideeffects.embl.de/drugs/5595
+nd72,"A04AD - Other antiemetics",312,5.31,59,0.2,nd65,
+A04AD73,"Aprepitant",207,3.52,38,0.13,nd72,http://sideeffects.embl.de/drugs/151165
+A04AD74,"Delta 9-THC",46,0.78,9,0.03,nd72,http://sideeffects.embl.de/drugs/2978
+A04AD75,"Nabilone",127,2.16,7,0.02,nd72,http://sideeffects.embl.de/drugs/39860
+A04AD76,"Scopolamine",74,1.26,5,0.02,nd72,http://sideeffects.embl.de/drugs/5184
+nd77,"A05 - BILE AND LIVER THERAPY",207,3.52,37,0.12,nd0,
+nd78,"A05A - BILE THERAPY",207,3.52,37,0.12,nd77,
+nd79,"A05AA - Bile acid preparations",207,3.52,37,0.12,nd78,
+A05AA80,"Bile salt",14,0.24,2,0.01,nd79,http://sideeffects.embl.de/drugs/303
+A05AA81,"UDCA",203,3.45,35,0.12,nd79,http://sideeffects.embl.de/drugs/5645
+nd82,"A06 - DRUGS FOR CONSTIPATION",317,5.39,117,0.39,nd0,
+nd83,"A06A - DRUGS FOR CONSTIPATION",317,5.39,117,0.39,nd82,
+nd84,"A06AB - Contact laxatives",23,0.39,4,0.01,nd83,
+A06AB85,"Bisacodyl",23,0.39,4,0.01,nd84,http://sideeffects.embl.de/drugs/2391
+nd86,"A06AC - Bulk-forming laxatives",176,2.99,60,0.2,nd83,
+A06AC87,"Trazodone",176,2.99,60,0.2,nd86,http://sideeffects.embl.de/drugs/5533
+nd88,"A06AD - Osmotically acting laxatives",124,2.11,41,0.14,nd83,
+A06AD89,"Lactulose",16,0.27,27,0.09,nd88,http://sideeffects.embl.de/drugs/3872
+A06AD90,"Mannitol",115,1.96,14,0.05,nd88,http://sideeffects.embl.de/drugs/453
+nd91,"A06AG - Enemas",140,2.38,19,0.06,nd83,
+A06AG92,"Bisacodyl",23,0.39,4,0.01,nd91,http://sideeffects.embl.de/drugs/2391
+A06AG93,"Glycerol",24,0.41,1,0.0,nd91,http://sideeffects.embl.de/drugs/753
+A06AG94,"Mannitol",115,1.96,14,0.05,nd91,http://sideeffects.embl.de/drugs/453
+nd95,"A06AH - Peripheral opioid receptor antagonists",26,0.44,4,0.01,nd83,
+A06AH96,"Alvimopan",12,0.2,3,0.01,nd95,http://sideeffects.embl.de/drugs/5488547
+A06AH97,"Methylnaltrexone",16,0.27,1,0.0,nd95,http://sideeffects.embl.de/drugs/5361917
+nd98,"A06AX - Other drugs for constipation",89,1.51,8,0.03,nd83,
+A06AX99,"Glycerol",24,0.41,1,0.0,nd98,http://sideeffects.embl.de/drugs/753
+A06AX100,"Lubiprostone",73,1.24,7,0.02,nd98,http://sideeffects.embl.de/drugs/157920
+nd101,"A07 - ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS",905,15.39,847,2.8,nd0,
+nd102,"A07A - INTESTINAL ANTIINFECTIVES",440,7.48,153,0.51,nd101,
+nd103,"A07AA - Antibiotics",420,7.14,146,0.48,nd102,
+A07AA104,"Amphotericin B",301,5.12,10,0.03,nd103,http://sideeffects.embl.de/drugs/1972
+A07AA105,"Kanamycin",24,0.41,1,0.0,nd103,http://sideeffects.embl.de/drugs/815
+A07AA106,"Natamycin",12,0.2,2,0.01,nd103,http://sideeffects.embl.de/drugs/441382
+A07AA107,"Neomycin",21,0.36,9,0.03,nd103,http://sideeffects.embl.de/drugs/4454
+A07AA108,"Nystatin",21,0.36,52,0.17,nd103,http://sideeffects.embl.de/drugs/4568
+A07AA109,"Paromomycin",3,0.05,2,0.01,nd103,http://sideeffects.embl.de/drugs/4689
+A07AA110,"Polymyxin B",16,0.27,5,0.02,nd103,http://sideeffects.embl.de/drugs/4868
+A07AA111,"Rifaximin",119,2.02,7,0.02,nd103,http://sideeffects.embl.de/drugs/72111
+A07AA112,"Streptomycin",23,0.39,2,0.01,nd103,http://sideeffects.embl.de/drugs/5297
+A07AA113,"Vancocine",84,1.43,56,0.19,nd103,http://sideeffects.embl.de/drugs/5651
+nd114,"A07AC - Imidazole derivatives",57,0.97,7,0.02,nd102,
+A07AC115,"Miconazole",57,0.97,7,0.02,nd114,http://sideeffects.embl.de/drugs/4189
+nd116,"A07D - ANTIPROPULSIVES",42,0.71,41,0.14,nd101,
+nd117,"A07DA - Antipropulsives",42,0.71,41,0.14,nd116,
+A07DA118,"Loperamide",42,0.71,41,0.14,nd117,http://sideeffects.embl.de/drugs/3954
+nd119,"A07E - INTESTINAL ANTIINFLAMMATORY AGENTS",729,12.4,626,2.07,nd101,
+nd120,"A07EA - Corticosteroids acting locally",438,7.45,510,1.69,nd119,
+A07EA121,"Beclomethasone dipropionate",39,0.66,5,0.02,nd120,http://sideeffects.embl.de/drugs/2307
+A07EA122,"Budesonide",206,3.5,71,0.23,nd120,http://sideeffects.embl.de/drugs/2462
+A07EA123,"Cortisol",197,3.35,113,0.37,nd120,http://sideeffects.embl.de/drugs/3640
+A07EA124,"Dexamethasone",215,3.66,124,0.41,nd120,http://sideeffects.embl.de/drugs/3003
+A07EA125,"Prednisolone",109,1.85,48,0.16,nd120,http://sideeffects.embl.de/drugs/4894
+A07EA126,"Prednisone",219,3.72,149,0.49,nd120,http://sideeffects.embl.de/drugs/4900
+nd127,"A07EB - Antiallergic agents, excl. corticosteroids",99,1.68,20,0.07,nd119,
+A07EB128,"Sodium cromoglycate",99,1.68,20,0.07,nd127,http://sideeffects.embl.de/drugs/2881
+nd129,"A07EC - Aminosalicylic acid and similar agents",430,7.31,96,0.32,nd119,
+A07EC130,"5-ASA",347,5.9,58,0.19,nd129,http://sideeffects.embl.de/drugs/4075
+A07EC131,"Balsalazide",79,1.34,11,0.04,nd129,http://sideeffects.embl.de/drugs/5362070
+A07EC132,"Olsalazine",116,1.97,4,0.01,nd129,http://sideeffects.embl.de/drugs/5462337
+A07EC133,"Sulfasalazine",147,2.5,23,0.08,nd129,http://sideeffects.embl.de/drugs/5353980
+nd134,"A07X - OTHER ANTIDIARRHEALS",29,0.49,27,0.09,nd101,
+nd135,"A07XA - Other antidiarrheals",29,0.49,27,0.09,nd134,
+A07XA136,"Calcium",29,0.49,27,0.09,nd135,http://sideeffects.embl.de/drugs/271
+nd137,"A08 - ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS",441,7.5,147,0.49,nd0,
+nd138,"A08A - ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS",441,7.5,147,0.49,nd137,
+nd139,"A08AA - Centrally acting antiobesity products",351,5.97,128,0.42,nd138,
+A08AA140,"Diethylpropion",52,0.88,28,0.09,nd139,http://sideeffects.embl.de/drugs/7029
+A08AA141,"Phentermine",39,0.66,91,0.3,nd139,http://sideeffects.embl.de/drugs/4771
+A08AA142,"Phenylpropanolamine",35,0.6,4,0.01,nd139,http://sideeffects.embl.de/drugs/4786
+A08AA143,"Sibutramine",315,5.36,5,0.02,nd139,http://sideeffects.embl.de/drugs/5210
+nd144,"A08AB - Peripherally acting antiobesity products",142,2.41,17,0.06,nd138,
+A08AB145,"Orlistat",142,2.41,17,0.06,nd144,http://sideeffects.embl.de/drugs/4599
+nd146,"A08AX - Other antiobesity drugs",67,1.14,2,0.01,nd138,
+A08AX147,"Rimonabant",67,1.14,2,0.01,nd146,http://sideeffects.embl.de/drugs/104849
+nd148,"A09 - DIGESTIVES, INCL. ENZYMES",66,1.12,20,0.07,nd0,
+nd149,"A09A - DIGESTIVES, INCL. ENZYMES",66,1.12,20,0.07,nd148,
+nd150,"A09AB - Acid preparations",66,1.12,20,0.07,nd149,
+A09AB151,"Betaine",29,0.49,4,0.01,nd150,http://sideeffects.embl.de/drugs/247
+A09AB152,"Chloride",20,0.34,6,0.02,nd150,http://sideeffects.embl.de/drugs/312
+A09AB153,"Citric acid",25,0.43,10,0.03,nd150,http://sideeffects.embl.de/drugs/311
+nd154,"A10 - DRUGS USED IN DIABETES",648,11.02,851,2.81,nd0,
+nd155,"A10A - INSULINS AND ANALOGUES",357,6.07,113,0.37,nd154,
+nd156,"A10AB - Insulins and analogues for injection, fast-acting",210,3.57,94,0.31,nd155,
+A10AB157,"Humalog",51,0.87,33,0.11,nd156,http://sideeffects.embl.de/drugs/16132438
+A10AB158,"Insulin",161,2.74,35,0.12,nd156,http://sideeffects.embl.de/drugs/16129672
+A10AB159,"NovoLog",111,1.89,26,0.09,nd156,http://sideeffects.embl.de/drugs/16132418
+nd160,"A10AC - Insulins and analogues for injection, intermediate-acting",168,2.86,68,0.22,nd155,
+A10AC161,"Humalog",51,0.87,33,0.11,nd160,http://sideeffects.embl.de/drugs/16132438
+A10AC162,"Insulin",161,2.74,35,0.12,nd160,http://sideeffects.embl.de/drugs/16129672
+nd163,"A10AD - Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",210,3.57,94,0.31,nd155,
+A10AD164,"Humalog",51,0.87,33,0.11,nd163,http://sideeffects.embl.de/drugs/16132438
+A10AD165,"Insulin",161,2.74,35,0.12,nd163,http://sideeffects.embl.de/drugs/16129672
+A10AD166,"NovoLog",111,1.89,26,0.09,nd163,http://sideeffects.embl.de/drugs/16132418
+nd167,"A10AE - Insulins and analogues for injection, long-acting",328,5.58,54,0.18,nd155,
+A10AE168,"Insulin",161,2.74,35,0.12,nd167,http://sideeffects.embl.de/drugs/16129672
+A10AE169,"Insulin detemir",243,4.13,5,0.02,nd167,http://sideeffects.embl.de/drugs/16137271
+A10AE170,"Lantus",86,1.46,14,0.05,nd167,http://sideeffects.embl.de/drugs/44146714
+nd171,"A10AF - Insulins and analogues for inhalation",161,2.74,35,0.12,nd155,
+A10AF172,"Insulin",161,2.74,35,0.12,nd171,http://sideeffects.embl.de/drugs/16129672
+nd173,"A10B - BLOOD GLUCOSE LOWERING DRUGS, EXCL. INSULINS",487,8.28,738,2.44,nd154,
+nd174,"A10BA - Biguanides",119,2.02,239,0.79,nd173,
+A10BA175,"Metformin",119,2.02,239,0.79,nd174,http://sideeffects.embl.de/drugs/4091
+nd176,"A10BB - Sulfonylureas",293,4.98,258,0.85,nd173,
+A10BB177,"Chlorpropamide",31,0.53,2,0.01,nd176,http://sideeffects.embl.de/drugs/2727
+A10BB178,"Glibenclamide",86,1.46,64,0.21,nd176,http://sideeffects.embl.de/drugs/3488
+A10BB179,"Gliclazide",227,3.86,13,0.04,nd176,http://sideeffects.embl.de/drugs/3475
+A10BB180,"Glimepiride",105,1.79,68,0.22,nd176,http://sideeffects.embl.de/drugs/3476
+A10BB181,"Glipizide",83,1.41,105,0.35,nd176,http://sideeffects.embl.de/drugs/3478
+A10BB182,"Tolazamide",29,0.49,5,0.02,nd176,http://sideeffects.embl.de/drugs/5503
+A10BB183,"Tolbutamide",24,0.41,1,0.0,nd176,http://sideeffects.embl.de/drugs/5505
+nd184,"A10BF - Alpha glucosidase inhibitors",42,0.71,18,0.06,nd173,
+A10BF185,"Acarbose",39,0.66,17,0.06,nd184,http://sideeffects.embl.de/drugs/41774
+A10BF186,"Miglitol",21,0.36,1,0.0,nd184,http://sideeffects.embl.de/drugs/51577
+nd187,"A10BG - Thiazolidinediones",135,2.3,125,0.41,nd173,
+A10BG188,"Pioglitazone",105,1.79,102,0.34,nd187,http://sideeffects.embl.de/drugs/4829
+A10BG189,"Rosiglitazone",68,1.16,20,0.07,nd187,http://sideeffects.embl.de/drugs/77998
+A10BG190,"Troglitazone",21,0.36,3,0.01,nd187,http://sideeffects.embl.de/drugs/5591
+nd191,"A10BH - Dipeptidyl peptidase 4 (DPP-4) inhibitors",145,2.47,23,0.08,nd173,
+A10BH192,"Alogliptin",15,0.26,1,0.0,nd191,http://sideeffects.embl.de/drugs/11163584
+A10BH193,"Saxagliptin",51,0.87,4,0.01,nd191,http://sideeffects.embl.de/drugs/11235728
+A10BH194,"Sitagliptin",113,1.92,14,0.05,nd191,http://sideeffects.embl.de/drugs/4369359
+A10BH195,"Vildagliptin",37,0.63,4,0.01,nd191,http://sideeffects.embl.de/drugs/5251896
+nd196,"A10BX - Other blood glucose lowering drugs, excl. insulins",162,2.76,75,0.25,nd173,
+A10BX197,"Exenatide",104,1.77,7,0.02,nd196,http://sideeffects.embl.de/drugs/16156130
+A10BX198,"Liraglutide",57,0.97,2,0.01,nd196,http://sideeffects.embl.de/drugs/16134956
+A10BX199,"Nateglinide",38,0.65,20,0.07,nd196,http://sideeffects.embl.de/drugs/4443
+A10BX200,"Repaglinide",59,1.0,39,0.13,nd196,http://sideeffects.embl.de/drugs/4547
+A10BX201,"Symlin",15,0.26,7,0.02,nd196,http://sideeffects.embl.de/drugs/16132446
+nd202,"A11 - VITAMINS",121,2.06,73,0.24,nd0,
+nd203,"A11C - VITAMIN A AND D, INCL. COMBINATIONS OF THE TWO",99,1.68,59,0.2,nd202,
+nd204,"A11CA - Vitamin A, plain",2,0.03,1,0.0,nd203,
+A11CA205,"Retinol",2,0.03,1,0.0,nd204,http://sideeffects.embl.de/drugs/1071
+nd206,"A11CC - Vitamin D and analogues",99,1.68,58,0.19,nd203,
+A11CC207,"1,25(OH)2D3",87,1.48,31,0.1,nd206,http://sideeffects.embl.de/drugs/2524
+A11CC208,"Vitamin D2",23,0.39,27,0.09,nd206,http://sideeffects.embl.de/drugs/3249
+nd209,"A11D - VITAMIN B1, PLAIN AND IN COMBINATION WITH VITAMIN B6 AND B12",17,0.29,7,0.02,nd202,
+nd210,"A11DA - Vitamin B1, plain",17,0.29,7,0.02,nd209,
+A11DA211,"Thiamine",17,0.29,7,0.02,nd210,http://sideeffects.embl.de/drugs/1130
+nd212,"A11G - ASCORBIC ACID (VITAMIN C), INCL. COMBINATIONS",3,0.05,3,0.01,nd202,
+nd213,"A11GA - Ascorbic acid (vitamin C), plain",3,0.05,3,0.01,nd212,
+A11GA214,"Ascorbate",3,0.05,3,0.01,nd213,http://sideeffects.embl.de/drugs/11020241
+nd215,"A11H - OTHER PLAIN VITAMIN PREPARATIONS",24,0.41,4,0.01,nd202,
+nd216,"A11HA - Other plain vitamin preparations",24,0.41,4,0.01,nd215,
+A11HA217,"Dexpanthenol",11,0.19,1,0.0,nd216,http://sideeffects.embl.de/drugs/4678
+A11HA218,"Pyridoxine",5,0.09,2,0.01,nd216,http://sideeffects.embl.de/drugs/1054
+A11HA219,"TPGS",11,0.19,1,0.0,nd216,http://sideeffects.embl.de/drugs/71406
+nd220,"A12 - MINERAL SUPPLEMENTS",69,1.17,68,0.22,nd0,
+nd221,"A12A - CALCIUM",59,1.0,51,0.17,nd220,
+nd222,"A12AA - Calcium",59,1.0,51,0.17,nd221,
+A12AA223,"Calcium",29,0.49,27,0.09,nd222,http://sideeffects.embl.de/drugs/271
+A12AA224,"Glucose",37,0.63,24,0.08,nd222,http://sideeffects.embl.de/drugs/206
+nd225,"A12B - POTASSIUM",37,0.63,24,0.08,nd220,
+nd226,"A12BA - Potassium",37,0.63,24,0.08,nd225,
+A12BA227,"Glucose",37,0.63,24,0.08,nd226,http://sideeffects.embl.de/drugs/206
+nd228,"A12C - OTHER MINERAL SUPPLEMENTS",50,0.85,41,0.14,nd220,
+nd229,"A12CA - Sodium",37,0.63,24,0.08,nd228,
+A12CA230,"Glucose",37,0.63,24,0.08,nd229,http://sideeffects.embl.de/drugs/206
+nd231,"A12CB - Zinc",2,0.03,1,0.0,nd228,
+A12CB232,"Zinc sulfate",2,0.03,1,0.0,nd231,http://sideeffects.embl.de/drugs/24424
+nd233,"A12CC - Magnesium",12,0.2,16,0.05,nd228,
+A12CC234,"Magnesium",12,0.2,16,0.05,nd233,http://sideeffects.embl.de/drugs/888
+nd235,"A14 - ANABOLIC AGENTS FOR SYSTEMIC USE",37,0.63,20,0.07,nd0,
+nd236,"A14A - ANABOLIC STEROIDS",37,0.63,20,0.07,nd235,
+nd237,"A14AA - Androstan derivatives",36,0.61,18,0.06,nd236,
+A14AA238,"Oxandrolone",26,0.44,16,0.05,nd237,http://sideeffects.embl.de/drugs/5878
+A14AA239,"Oxymetholone",30,0.51,2,0.01,nd237,http://sideeffects.embl.de/drugs/4638
+nd240,"A14AB - Estren derivatives",23,0.39,2,0.01,nd236,
+A14AB241,"Nandrolone",23,0.39,2,0.01,nd240,http://sideeffects.embl.de/drugs/9904
+nd242,"A16 - OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS",291,4.95,41,0.14,nd0,
+nd243,"A16A - OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS",291,4.95,41,0.14,nd242,
+nd244,"A16AA - Amino acids and derivatives",187,3.18,25,0.08,nd243,
+A16AA245,"Betaine",29,0.49,4,0.01,nd244,http://sideeffects.embl.de/drugs/247
+A16AA246,"Carnitine",69,1.17,13,0.04,nd244,http://sideeffects.embl.de/drugs/85
+A16AA247,"Cysteamine",79,1.34,5,0.02,nd244,http://sideeffects.embl.de/drugs/6058
+A16AA248,"Glutamine",56,0.95,1,0.0,nd244,http://sideeffects.embl.de/drugs/738
+A16AA249,"N-carbamylglutamate",32,0.54,2,0.01,nd244,http://sideeffects.embl.de/drugs/121396
+nd250,"A16AB - Enzymes",12,0.2,1,0.0,nd243,
+A16AB251,"Sacrosidase",12,0.2,1,0.0,nd250,http://sideeffects.embl.de/drugs/135113
+nd252,"A16AX - Various alimentary tract and metabolism products",182,3.1,15,0.05,nd243,
+A16AX253,"4-PBA",48,0.82,2,0.01,nd252,http://sideeffects.embl.de/drugs/4775
+A16AX254,"Miglustat",77,1.31,6,0.02,nd252,http://sideeffects.embl.de/drugs/51634
+A16AX255,"NTBC",55,0.94,2,0.01,nd252,http://sideeffects.embl.de/drugs/115355
+A16AX256,"Tetrahydrobiopterin",48,0.82,5,0.02,nd252,http://sideeffects.embl.de/drugs/1125
+nd257,"B - BLOOD AND BLOOD FORMING ORGANS",902,15.34,799,2.64,null,
+nd258,"B01 - ANTITHROMBOTIC AGENTS",640,10.88,529,1.75,nd257,
+nd259,"B01A - ANTITHROMBOTIC AGENTS",640,10.88,529,1.75,nd258,
+nd260,"B01AA - Vitamin K antagonists",86,1.46,143,0.47,nd259,
+B01AA261,"Acenocoumarol",23,0.39,2,0.01,nd260,http://sideeffects.embl.de/drugs/40468184
+B01AA262,"Warfarin",77,1.31,141,0.47,nd260,http://sideeffects.embl.de/drugs/5001396
+nd263,"B01AB - Heparin group",187,3.18,94,0.31,nd259,
+B01AB264,"Dalteparin",163,2.77,42,0.14,nd263,http://sideeffects.embl.de/drugs/9812414
+B01AB265,"Heparin",45,0.77,38,0.13,nd263,http://sideeffects.embl.de/drugs/53477714
+B01AB266,"LMWH",57,0.97,14,0.05,nd263,http://sideeffects.embl.de/drugs/772
+nd267,"B01AC - Platelet aggregation inhibitors excl. heparin",449,7.64,238,0.79,nd259,
+B01AC268,"Aspirin",68,1.16,20,0.07,nd267,http://sideeffects.embl.de/drugs/2244
+B01AC269,"Clopidogrel",210,3.57,108,0.36,nd267,http://sideeffects.embl.de/drugs/2806
+B01AC270,"Dipyridamole",131,2.23,28,0.09,nd267,http://sideeffects.embl.de/drugs/3108
+B01AC271,"Eptifibatide",63,1.07,17,0.06,nd267,http://sideeffects.embl.de/drugs/123610
+B01AC272,"Iloprost",58,0.99,18,0.06,nd267,http://sideeffects.embl.de/drugs/54313
+B01AC273,"Prasugrel",60,1.02,5,0.02,nd267,http://sideeffects.embl.de/drugs/6918456
+B01AC274,"Prostacyclin",123,2.09,4,0.01,nd267,http://sideeffects.embl.de/drugs/159
+B01AC275,"Ticlopidine",71,1.21,8,0.03,nd267,http://sideeffects.embl.de/drugs/5472
+B01AC276,"Tirofiban",29,0.49,7,0.02,nd267,http://sideeffects.embl.de/drugs/5486
+B01AC277,"Treprostinil",87,1.48,23,0.08,nd267,http://sideeffects.embl.de/drugs/54786
+nd278,"B01AD - Enzymes",45,0.77,3,0.01,nd259,
+B01AD279,"Trans 4-cyclohexyl-L-proline",45,0.77,3,0.01,nd278,http://sideeffects.embl.de/drugs/9815559
+nd280,"B01AE - Direct thrombin inhibitors",246,4.18,31,0.1,nd259,
+B01AE281,"Argatroban",66,1.12,13,0.04,nd280,http://sideeffects.embl.de/drugs/2232
+B01AE282,"Bivalirudin",106,1.8,7,0.02,nd280,http://sideeffects.embl.de/drugs/16129704
+B01AE283,"Dabigatran etexilate",129,2.19,4,0.01,nd280,http://sideeffects.embl.de/drugs/213023
+B01AE284,"Refludan",93,1.58,4,0.01,nd280,http://sideeffects.embl.de/drugs/16132441
+B01AE285,"Revasc",52,0.88,3,0.01,nd280,http://sideeffects.embl.de/drugs/16129703
+nd286,"B01AX - Other antithrombotic agents",152,2.59,20,0.07,nd259,
+B01AX287,"Fondaparinux",95,1.62,17,0.06,nd286,http://sideeffects.embl.de/drugs/123611
+B01AX288,"Rivaroxaban",105,1.79,3,0.01,nd286,http://sideeffects.embl.de/drugs/6433119
+nd289,"B02 - ANTIHEMORRHAGICS",336,5.71,94,0.31,nd257,
+nd290,"B02A - ANTIFIBRINOLYTICS",184,3.13,32,0.11,nd289,
+nd291,"B02AA - Amino acids",114,1.94,30,0.1,nd290,
+B02AA292,"EACA",45,0.77,7,0.02,nd291,http://sideeffects.embl.de/drugs/564
+B02AA293,"Tranexamic acid",86,1.46,23,0.08,nd291,http://sideeffects.embl.de/drugs/5526
+nd294,"B02AB - Proteinase inhibitors",108,1.84,2,0.01,nd290,
+B02AB295,"BPTI",108,1.84,2,0.01,nd294,http://sideeffects.embl.de/drugs/16130295
+nd296,"B02B - VITAMIN K AND OTHER HEMOSTATICS",225,3.83,62,0.2,nd289,
+nd297,"B02BA - Vitamin K",22,0.37,23,0.08,nd296,
+B02BA298,"Vitamin K",22,0.37,23,0.08,nd297,http://sideeffects.embl.de/drugs/4812
+nd299,"B02BC - Local hemostatics",67,1.14,35,0.12,nd296,
+B02BC300,"Epinephrine",67,1.14,35,0.12,nd299,http://sideeffects.embl.de/drugs/838
+nd301,"B02BX - Other systemic hemostatics",168,2.86,4,0.01,nd296,
+B02BX302,"Eltrombopag",44,0.75,1,0.0,nd301,http://sideeffects.embl.de/drugs/9846180
+B02BX303,"SU5416",154,2.62,3,0.01,nd301,http://sideeffects.embl.de/drugs/123015
+nd304,"B03 - ANTIANEMIC PREPARATIONS",171,2.91,73,0.24,nd257,
+nd305,"B03A - IRON PREPARATIONS",97,1.65,4,0.01,nd304,
+nd306,"B03AA - Iron bivalent, oral preparations",3,0.05,3,0.01,nd305,
+B03AA307,"Ascorbate",3,0.05,3,0.01,nd306,http://sideeffects.embl.de/drugs/11020241
+nd308,"B03AB - Iron trivalent, oral preparations",95,1.62,1,0.0,nd305,
+B03AB309,"Iron sucrose",95,1.62,1,0.0,nd308,http://sideeffects.embl.de/drugs/6850789
+nd310,"B03AC - Iron, parenteral preparations",95,1.62,1,0.0,nd305,
+B03AC311,"Iron sucrose",95,1.62,1,0.0,nd310,http://sideeffects.embl.de/drugs/6850789
+nd312,"B03B - VITAMIN B12 AND FOLIC ACID",94,1.6,66,0.22,nd304,
+nd313,"B03BA - Vitamin B12 (cyanocobalamin and analogues)",80,1.36,19,0.06,nd312,
+B03BA314,"Cyanocobalamin",30,0.51,9,0.03,nd313,http://sideeffects.embl.de/drugs/2891
+B03BA315,"Hydroxocobalamin",64,1.09,10,0.03,nd313,http://sideeffects.embl.de/drugs/4479097
+nd316,"B03BB - Folic acid and derivatives",22,0.37,47,0.16,nd312,
+B03BB317,"Folate",22,0.37,47,0.16,nd316,http://sideeffects.embl.de/drugs/3405
+nd318,"B03X - OTHER ANTIANEMIC PREPARATIONS",46,0.78,3,0.01,nd304,
+nd319,"B03XA - Other antianemic preparations",46,0.78,3,0.01,nd318,
+B03XA320,"2-hydroxysuccinaldehyde",46,0.78,3,0.01,nd319,http://sideeffects.embl.de/drugs/4474778
+nd321,"B05 - BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS",248,4.22,87,0.29,nd257,
+nd322,"B05A - BLOOD AND RELATED PRODUCTS",24,0.41,2,0.01,nd321,
+nd323,"B05AA - Blood substitutes and plasma protein fractions",24,0.41,2,0.01,nd322,
+B05AA324,"Dextran",12,0.2,1,0.0,nd323,http://sideeffects.embl.de/drugs/102399
+B05AA325,"Pentastarch",14,0.24,1,0.0,nd323,http://sideeffects.embl.de/drugs/16213095
+nd326,"B05B - I.V. SOLUTIONS",119,2.02,16,0.05,nd321,
+nd327,"B05BB - Solutions affecting the electrolyte balance",11,0.19,2,0.01,nd326,
+B05BB328,"Tris",11,0.19,2,0.01,nd327,http://sideeffects.embl.de/drugs/6503
+nd329,"B05BC - Solutions producing osmotic diuresis",115,1.96,14,0.05,nd326,
+B05BC330,"Mannitol",115,1.96,14,0.05,nd329,http://sideeffects.embl.de/drugs/453
+nd331,"B05C - IRRIGATING SOLUTIONS",207,3.52,72,0.24,nd321,
+nd332,"B05CA - Antiinfectives",69,1.17,27,0.09,nd331,
+B05CA333,"Chlorhexidine",52,0.88,18,0.06,nd332,http://sideeffects.embl.de/drugs/2713
+B05CA334,"Neomycin",21,0.36,9,0.03,nd332,http://sideeffects.embl.de/drugs/4454
+nd335,"B05CB - Salt solutions",55,0.94,27,0.09,nd331,
+B05CB336,"Glucose",37,0.63,24,0.08,nd335,http://sideeffects.embl.de/drugs/206
+B05CB337,"Sodium bicarbonate",22,0.37,3,0.01,nd335,http://sideeffects.embl.de/drugs/10340
+nd338,"B05CX - Other irrigating solutions",143,2.43,42,0.14,nd331,
+B05CX339,"Glucose",37,0.63,24,0.08,nd338,http://sideeffects.embl.de/drugs/206
+B05CX340,"Glycine",36,0.61,4,0.01,nd338,http://sideeffects.embl.de/drugs/750
+B05CX341,"Mannitol",115,1.96,14,0.05,nd338,http://sideeffects.embl.de/drugs/453
+nd342,"B05X - I.V. SOLUTION ADDITIVES",97,1.65,40,0.13,nd321,
+nd343,"B05XA - Electrolyte solutions",73,1.24,35,0.12,nd342,
+B05XA344,"Chloride",20,0.34,6,0.02,nd343,http://sideeffects.embl.de/drugs/312
+B05XA345,"Glucose",37,0.63,24,0.08,nd343,http://sideeffects.embl.de/drugs/206
+B05XA346,"Sodium acetate",30,0.51,1,0.0,nd343,http://sideeffects.embl.de/drugs/517045
+B05XA347,"Sodium bicarbonate",22,0.37,3,0.01,nd343,http://sideeffects.embl.de/drugs/10340
+B05XA348,"ZnCl2",2,0.03,1,0.0,nd343,http://sideeffects.embl.de/drugs/5727
+nd349,"B05XB - Amino acids",27,0.46,3,0.01,nd342,
+B05XB350,"Arginine",27,0.46,3,0.01,nd349,http://sideeffects.embl.de/drugs/232
+nd351,"B05XX - Other i.v. solution additives",11,0.19,2,0.01,nd342,
+B05XX352,"Tris",11,0.19,2,0.01,nd351,http://sideeffects.embl.de/drugs/6503
+nd353,"B06 - OTHER HEMATOLOGICAL AGENTS",19,0.32,16,0.05,nd257,
+nd354,"B06A - OTHER HEMATOLOGICAL AGENTS",19,0.32,16,0.05,nd353,
+nd355,"B06AA - Enzymes",19,0.32,16,0.05,nd354,
+B06AA356,"Cytokinin",19,0.32,16,0.05,nd355,http://sideeffects.embl.de/drugs/3830
+nd357,"C - CARDIOVASCULAR SYSTEM",1988,33.81,5610,18.54,null,
+nd358,"C01 - CARDIAC THERAPY",1025,17.43,992,3.28,nd357,
+nd359,"C01A - CARDIAC GLYCOSIDES",54,0.92,75,0.25,nd358,
+nd360,"C01AA - Digitalis glycosides",54,0.92,75,0.25,nd359,
+C01AA361,"Digoxin",54,0.92,75,0.25,nd360,http://sideeffects.embl.de/drugs/3062
+nd362,"C01B - ANTIARRHYTHMICS, CLASS I AND III",639,10.87,322,1.06,nd358,
+nd363,"C01BA - Antiarrhythmics, class Ia",252,4.29,42,0.14,nd362,
+C01BA364,"Disopyramide",98,1.67,14,0.05,nd363,http://sideeffects.embl.de/drugs/3114
+C01BA365,"Procainamide",68,1.16,8,0.03,nd363,http://sideeffects.embl.de/drugs/4913
+C01BA366,"Quinidine",171,2.91,20,0.07,nd363,http://sideeffects.embl.de/drugs/1065
+nd367,"C01BB - Antiarrhythmics, class Ib",183,3.11,181,0.6,nd362,
+C01BB368,"Lidocaine",124,2.11,173,0.57,nd367,http://sideeffects.embl.de/drugs/3676
+C01BB369,"Mexiletine",87,1.48,8,0.03,nd367,http://sideeffects.embl.de/drugs/4178
+nd370,"C01BC - Antiarrhythmics, class Ic",339,5.77,35,0.12,nd362,
+C01BC371,"Flecainide",128,2.18,14,0.05,nd370,http://sideeffects.embl.de/drugs/3355
+C01BC372,"Propafenone",291,4.95,21,0.07,nd370,http://sideeffects.embl.de/drugs/4932
+nd373,"C01BD - Antiarrhythmics, class III",260,4.42,64,0.21,nd362,
+C01BD374,"Amiodarone",215,3.66,56,0.19,nd373,http://sideeffects.embl.de/drugs/2156
+C01BD375,"Bretylium",28,0.48,1,0.0,nd373,http://sideeffects.embl.de/drugs/2431
+C01BD376,"Dofetilide",50,0.85,1,0.0,nd373,http://sideeffects.embl.de/drugs/71329
+C01BD377,"Ibutilide",22,0.37,6,0.02,nd373,http://sideeffects.embl.de/drugs/60752
+nd378,"C01C - CARDIAC STIMULANTS EXCL. CARDIAC GLYCOSIDES",191,3.25,134,0.44,nd358,
+nd379,"C01CA - Adrenergic and dopaminergic agents",180,3.06,119,0.39,nd378,
+C01CA380,"Dobutamine",15,0.26,9,0.03,nd379,http://sideeffects.embl.de/drugs/36811
+C01CA381,"Dopamine",21,0.36,10,0.03,nd379,http://sideeffects.embl.de/drugs/681
+C01CA382,"Epinephrine",67,1.14,35,0.12,nd379,http://sideeffects.embl.de/drugs/838
+C01CA383,"Fenoldopam",40,0.68,3,0.01,nd379,http://sideeffects.embl.de/drugs/3340
+C01CA384,"Isoproterenol",27,0.46,7,0.02,nd379,http://sideeffects.embl.de/drugs/3779
+C01CA385,"Midodrine",60,1.02,22,0.07,nd379,http://sideeffects.embl.de/drugs/4195
+C01CA386,"Norepinephrine",19,0.32,11,0.04,nd379,http://sideeffects.embl.de/drugs/951
+C01CA387,"Phenylephrine",63,1.07,22,0.07,nd379,http://sideeffects.embl.de/drugs/4782
+nd388,"C01CE - Phosphodiesterase inhibitors",22,0.37,14,0.05,nd378,
+C01CE389,"Milrinone",22,0.37,14,0.05,nd388,http://sideeffects.embl.de/drugs/4197
+nd390,"C01CX - Other cardiac stimulants",24,0.41,1,0.0,nd378,
+C01CX391,"Levosimendan",24,0.41,1,0.0,nd390,http://sideeffects.embl.de/drugs/60867
+nd392,"C01D - VASODILATORS USED IN CARDIAC DISEASES",300,5.1,161,0.53,nd358,
+nd393,"C01DA - Organic nitrates",265,4.51,157,0.52,nd392,
+C01DA394,"Isosorbide dinitrate",18,0.31,30,0.1,nd393,http://sideeffects.embl.de/drugs/3780
+C01DA395,"Isosorbide-5-mononitrate",202,3.44,54,0.18,nd393,http://sideeffects.embl.de/drugs/27661
+C01DA396,"Nitroglycerin",103,1.75,73,0.24,nd393,http://sideeffects.embl.de/drugs/4510
+nd397,"C01DX - Other vasodilators used in cardiac diseases",95,1.62,4,0.01,nd392,
+C01DX398,"Nesiritide",30,0.51,2,0.01,nd397,http://sideeffects.embl.de/drugs/22834577
+C01DX399,"Nicorandil",77,1.31,2,0.01,nd397,http://sideeffects.embl.de/drugs/47528
+nd400,"C01E - OTHER CARDIAC PREPARATIONS",550,9.35,300,0.99,nd358,
+nd401,"C01EA - Prostaglandins",162,2.76,12,0.04,nd400,
+C01EA402,"PGE1",162,2.76,12,0.04,nd401,http://sideeffects.embl.de/drugs/214
+nd403,"C01EB - Other cardiac preparations",460,7.82,288,0.95,nd400,
+C01EB404,"Adenosine",94,1.6,34,0.11,nd403,http://sideeffects.embl.de/drugs/191
+C01EB405,"Hoe 140",9,0.15,1,0.0,nd403,http://sideeffects.embl.de/drugs/71362
+C01EB406,"Ibuprofen",282,4.8,166,0.55,nd403,http://sideeffects.embl.de/drugs/3672
+C01EB407,"Indomethacin",171,2.91,70,0.23,nd403,http://sideeffects.embl.de/drugs/3715
+C01EB408,"Ivabradine",42,0.71,2,0.01,nd403,http://sideeffects.embl.de/drugs/132999
+C01EB409,"Ranolazine",98,1.67,12,0.04,nd403,http://sideeffects.embl.de/drugs/56959
+C01EB410,"Regadenoson",107,1.82,3,0.01,nd403,http://sideeffects.embl.de/drugs/219024
+nd411,"C02 - ANTIHYPERTENSIVES",773,13.15,338,1.12,nd357,
+nd412,"C02A - ANTIADRENERGIC AGENTS, CENTRALLY ACTING",279,4.74,141,0.47,nd411,
+nd413,"C02AA - Rauwolfia alkaloids",88,1.5,3,0.01,nd412,
+C02AA414,"Rescinnamine",61,1.04,2,0.01,nd413,http://sideeffects.embl.de/drugs/5051
+C02AA415,"Reserpine",34,0.58,1,0.0,nd413,http://sideeffects.embl.de/drugs/5052
+nd416,"C02AB - Methyldopa",76,1.29,13,0.04,nd412,
+C02AB417,"Methyldopa",76,1.29,13,0.04,nd416,http://sideeffects.embl.de/drugs/4138
+nd418,"C02AC - Imidazoline receptor agonists",199,3.38,125,0.41,nd412,
+C02AC419,"Clonidine",159,2.7,109,0.36,nd418,http://sideeffects.embl.de/drugs/2803
+C02AC420,"Guanfacine",92,1.56,15,0.05,nd418,http://sideeffects.embl.de/drugs/3519
+C02AC421,"Moxonidine",25,0.43,1,0.0,nd418,http://sideeffects.embl.de/drugs/4810
+nd422,"C02B - ANTIADRENERGIC AGENTS, GANGLION-BLOCKING",22,0.37,3,0.01,nd411,
+nd423,"C02BB - Secondary and tertiary amines",22,0.37,3,0.01,nd422,
+C02BB424,"Mecamylamine",22,0.37,3,0.01,nd423,http://sideeffects.embl.de/drugs/4032
+nd425,"C02C - ANTIADRENERGIC AGENTS, PERIPHERALLY ACTING",226,3.84,83,0.27,nd411,
+nd426,"C02CA - Alpha-adrenoreceptor antagonists",226,3.84,83,0.27,nd425,
+C02CA427,"Doxazosin",215,3.66,63,0.21,nd426,http://sideeffects.embl.de/drugs/3157
+C02CA428,"Prazosin",55,0.94,20,0.07,nd426,http://sideeffects.embl.de/drugs/4893
+nd429,"C02D - ARTERIOLAR SMOOTH MUSCLE, AGENTS ACTING ON",158,2.69,89,0.29,nd411,
+nd430,"C02DA - Thiazide derivatives",72,1.22,2,0.01,nd429,
+C02DA431,"Diazoxide",72,1.22,2,0.01,nd430,http://sideeffects.embl.de/drugs/3019
+nd432,"C02DB - Hydrazinophthalazine derivatives",74,1.26,67,0.22,nd429,
+C02DB433,"Hydralazine",74,1.26,67,0.22,nd432,http://sideeffects.embl.de/drugs/3637
+nd434,"C02DC - Pyrimidine derivatives",37,0.63,18,0.06,nd429,
+C02DC435,"Minoxidil",37,0.63,18,0.06,nd434,http://sideeffects.embl.de/drugs/4201
+nd436,"C02DD - Nitroferricyanide derivatives",24,0.41,2,0.01,nd429,
+C02DD437,"Nitroprusside",24,0.41,2,0.01,nd436,http://sideeffects.embl.de/drugs/11947681
+nd438,"C02K - OTHER ANTIHYPERTENSIVES",498,8.47,22,0.07,nd411,
+nd439,"C02KB - Tyrosine hydroxylase inhibitors",37,0.63,1,0.0,nd438,
+C02KB440,"Alpha-methyl-p-tyrosine",37,0.63,1,0.0,nd439,http://sideeffects.embl.de/drugs/3125
+nd441,"C02KX - Antihypertensives for pulmonary arterial hypertension",484,8.23,21,0.07,nd438,
+C02KX442,"Ambrisentan",92,1.56,11,0.04,nd441,http://sideeffects.embl.de/drugs/197712
+C02KX443,"Bosentan",185,3.15,8,0.03,nd441,http://sideeffects.embl.de/drugs/104865
+C02KX444,"Sitaxsentan",380,6.46,2,0.01,nd441,http://sideeffects.embl.de/drugs/216235
+nd445,"C03 - DIURETICS",476,8.1,475,1.57,nd357,
+nd446,"C03A - LOW-CEILING DIURETICS, THIAZIDES",153,2.6,160,0.53,nd445,
+nd447,"C03AA - Thiazides, plain",153,2.6,160,0.53,nd446,
+C03AA448,"Bendrofluazide",27,0.46,2,0.01,nd447,http://sideeffects.embl.de/drugs/2315
+C03AA449,"Hydrochlorothiazide",139,2.36,144,0.48,nd447,http://sideeffects.embl.de/drugs/3639
+C03AA450,"Hydroflumethiazide",33,0.56,1,0.0,nd447,http://sideeffects.embl.de/drugs/3647
+C03AA451,"Methyclothiazide",45,0.77,1,0.0,nd447,http://sideeffects.embl.de/drugs/4121
+C03AA452,"Polythiazide",34,0.58,1,0.0,nd447,http://sideeffects.embl.de/drugs/4870
+C03AA453,"Thiazide",54,0.92,11,0.04,nd447,http://sideeffects.embl.de/drugs/2720
+nd454,"C03B - LOW-CEILING DIURETICS, EXCL. THIAZIDES",238,4.05,50,0.17,nd445,
+nd455,"C03BA - Sulfonamides, plain",238,4.05,50,0.17,nd454,
+C03BA456,"Chlorthalidone",53,0.9,11,0.04,nd455,http://sideeffects.embl.de/drugs/2732
+C03BA457,"Indapamide",203,3.45,24,0.08,nd455,http://sideeffects.embl.de/drugs/3702
+C03BA458,"Metolazone",86,1.46,15,0.05,nd455,http://sideeffects.embl.de/drugs/4170
+nd459,"C03C - HIGH-CEILING DIURETICS",206,3.5,172,0.57,nd445,
+nd460,"C03CA - Sulfonamides, plain",192,3.27,165,0.55,nd459,
+C03CA461,"Bumetanide",49,0.83,23,0.08,nd460,http://sideeffects.embl.de/drugs/2471
+C03CA462,"Furosemide",149,2.53,118,0.39,nd460,http://sideeffects.embl.de/drugs/3440
+C03CA463,"Torasemide",46,0.78,24,0.08,nd460,http://sideeffects.embl.de/drugs/41781
+nd464,"C03CC - Aryloxyacetic acid derivatives",34,0.58,7,0.02,nd459,
+C03CC465,"Ethacrynic acid",34,0.58,7,0.02,nd464,http://sideeffects.embl.de/drugs/3278
+nd466,"C03D - POTASSIUM-SPARING AGENTS",191,3.25,88,0.29,nd445,
+nd467,"C03DA - Aldosterone antagonists",146,2.48,73,0.24,nd466,
+C03DA468,"Eplerenone",112,1.9,15,0.05,nd467,http://sideeffects.embl.de/drugs/150310
+C03DA469,"Spironolactone",47,0.8,58,0.19,nd467,http://sideeffects.embl.de/drugs/5267
+nd470,"C03DB - Other potassium-sparing agents",86,1.46,15,0.05,nd466,
+C03DB471,"Amiloride",73,1.24,13,0.04,nd470,http://sideeffects.embl.de/drugs/16230
+C03DB472,"Triamterene",23,0.39,2,0.01,nd470,http://sideeffects.embl.de/drugs/5546
+nd473,"C03X - OTHER DIURETICS",98,1.67,5,0.02,nd445,
+nd474,"C03XA - Vasopressin antagonists",98,1.67,5,0.02,nd473,
+C03XA475,"Conivaptan",57,0.97,3,0.01,nd474,http://sideeffects.embl.de/drugs/151171
+C03XA476,"Tolvaptan",65,1.11,2,0.01,nd474,http://sideeffects.embl.de/drugs/216237
+nd477,"C04 - PERIPHERAL VASODILATORS",223,3.79,65,0.21,nd357,
+nd478,"C04A - PERIPHERAL VASODILATORS",223,3.79,65,0.21,nd477,
+nd479,"C04AA - 2-amino-1-phenylethanol derivatives",13,0.22,4,0.01,nd478,
+C04AA480,"Isoxsuprine",13,0.22,4,0.01,nd479,http://sideeffects.embl.de/drugs/3783
+nd481,"C04AB - Imidazoline derivatives",36,0.61,6,0.02,nd478,
+C04AB482,"Phentolamine",36,0.61,6,0.02,nd481,http://sideeffects.embl.de/drugs/5775
+nd483,"C04AC - Nicotinic acid and derivatives",152,2.59,23,0.08,nd478,
+C04AC484,"Niacin",152,2.59,23,0.08,nd483,http://sideeffects.embl.de/drugs/937
+nd485,"C04AD - Purine derivatives",89,1.51,31,0.1,nd478,
+C04AD486,"Pentoxifylline",89,1.51,31,0.1,nd485,http://sideeffects.embl.de/drugs/4740
+nd487,"C04AX - Other peripheral vasodilators",7,0.12,1,0.0,nd478,
+C04AX488,"Phenoxybenzamine",7,0.12,1,0.0,nd487,http://sideeffects.embl.de/drugs/4768
+nd489,"C05 - VASOPROTECTIVES",517,8.79,697,2.3,nd357,
+nd490,"C05A - AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE",470,7.99,653,2.16,nd489,
+nd491,"C05AA - Corticosteroids",338,5.75,364,1.2,nd490,
+C05AA492,"Cortisol",197,3.35,113,0.37,nd491,http://sideeffects.embl.de/drugs/3640
+C05AA493,"Dexamethasone",215,3.66,124,0.41,nd491,http://sideeffects.embl.de/drugs/3003
+C05AA494,"Fluocinolone acetonide",128,2.18,36,0.12,nd491,http://sideeffects.embl.de/drugs/3381
+C05AA495,"Fluocinonide",38,0.65,36,0.12,nd491,http://sideeffects.embl.de/drugs/3382
+C05AA496,"Fluorometholone",35,0.6,7,0.02,nd491,http://sideeffects.embl.de/drugs/3384
+C05AA497,"Prednisolone",109,1.85,48,0.16,nd491,http://sideeffects.embl.de/drugs/4894
+nd498,"C05AD - Local anesthetics",149,2.53,186,0.61,nd490,
+C05AD499,"Benzocaine",15,0.26,2,0.01,nd498,http://sideeffects.embl.de/drugs/2337
+C05AD500,"Lidocaine",124,2.11,173,0.57,nd498,http://sideeffects.embl.de/drugs/3676
+C05AD501,"Procaine",43,0.73,2,0.01,nd498,http://sideeffects.embl.de/drugs/4914
+C05AD502,"Tetracaine",31,0.53,9,0.03,nd498,http://sideeffects.embl.de/drugs/5411
+nd503,"C05AE - Muscle relaxants",104,1.77,103,0.34,nd490,
+C05AE504,"Isosorbide dinitrate",18,0.31,30,0.1,nd503,http://sideeffects.embl.de/drugs/3780
+C05AE505,"Nitroglycerin",103,1.75,73,0.24,nd503,http://sideeffects.embl.de/drugs/4510
+nd506,"C05B - ANTIVARICOSE THERAPY",104,1.77,44,0.15,nd489,
+nd507,"C05BA - Heparins or heparinoids for topical use",104,1.77,44,0.15,nd506,
+C05BA508,"Heparin",45,0.77,38,0.13,nd507,http://sideeffects.embl.de/drugs/53477714
+C05BA509,"Pentosan polysulfate",71,1.21,6,0.02,nd507,http://sideeffects.embl.de/drugs/37720
+nd510,"C07 - BETA BLOCKING AGENTS",598,10.17,828,2.74,nd357,
+nd511,"C07A - BETA BLOCKING AGENTS",598,10.17,828,2.74,nd510,
+nd512,"C07AA - Beta blocking agents, non-selective",289,4.91,228,0.75,nd511,
+C07AA513,"Carteolol",37,0.63,3,0.01,nd512,http://sideeffects.embl.de/drugs/2583
+C07AA514,"Nadolol",80,1.36,16,0.05,nd512,http://sideeffects.embl.de/drugs/4411
+C07AA515,"Oxprenolol",27,0.46,1,0.0,nd512,http://sideeffects.embl.de/drugs/4631
+C07AA516,"Penbutolol",33,0.56,1,0.0,nd512,http://sideeffects.embl.de/drugs/4724
+C07AA517,"Pindolol",77,1.31,11,0.04,nd512,http://sideeffects.embl.de/drugs/4828
+C07AA518,"Propranolol",95,1.62,86,0.28,nd512,http://sideeffects.embl.de/drugs/4946
+C07AA519,"Sotalol",112,1.9,45,0.15,nd512,http://sideeffects.embl.de/drugs/5253
+C07AA520,"Timolol",161,2.74,65,0.21,nd512,http://sideeffects.embl.de/drugs/5478
+nd521,"C07AB - Beta blocking agents, selective",423,7.19,413,1.37,nd511,
+C07AB522,"Acebutolol",113,1.92,16,0.05,nd521,http://sideeffects.embl.de/drugs/1978
+C07AB523,"Atenolol",109,1.85,117,0.39,nd521,http://sideeffects.embl.de/drugs/2249
+C07AB524,"Betaxolol",221,3.76,13,0.04,nd521,http://sideeffects.embl.de/drugs/2369
+C07AB525,"Bisoprolol",184,3.13,23,0.08,nd521,http://sideeffects.embl.de/drugs/2405
+C07AB526,"Celiprolol",39,0.66,1,0.0,nd521,http://sideeffects.embl.de/drugs/2663
+C07AB527,"Esmolol",102,1.73,13,0.04,nd521,http://sideeffects.embl.de/drugs/59768
+C07AB528,"Metoprolol",163,2.77,227,0.75,nd521,http://sideeffects.embl.de/drugs/4171
+C07AB529,"Nebivolol",45,0.77,3,0.01,nd521,http://sideeffects.embl.de/drugs/71301
+nd530,"C07AG - Alpha and beta blocking agents",272,4.63,187,0.62,nd511,
+C07AG531,"Carvedilol",215,3.66,140,0.46,nd530,http://sideeffects.embl.de/drugs/2585
+C07AG532,"Labetalol",107,1.82,47,0.16,nd530,http://sideeffects.embl.de/drugs/3869
+nd533,"C08 - CALCIUM CHANNEL BLOCKERS",519,8.83,562,1.86,nd357,
+nd534,"C08C - SELECTIVE CALCIUM CHANNEL BLOCKERS WITH MAINLY VASCULAR EFFECTS",415,7.06,285,0.94,nd533,
+nd535,"C08CA - Dihydropyridine derivatives",415,7.06,285,0.94,nd534,
+C08CA536,"Amlodipine",132,2.24,120,0.4,nd535,http://sideeffects.embl.de/drugs/2162
+C08CA537,"Felodipine",94,1.6,36,0.12,nd535,http://sideeffects.embl.de/drugs/3333
+C08CA538,"Isradipine",88,1.5,5,0.02,nd535,http://sideeffects.embl.de/drugs/3784
+C08CA539,"Lercanidipine",147,2.5,10,0.03,nd535,http://sideeffects.embl.de/drugs/65866
+C08CA540,"Nicardipine",89,1.51,22,0.07,nd535,http://sideeffects.embl.de/drugs/4473
+C08CA541,"Nifedipine",234,3.98,82,0.27,nd535,http://sideeffects.embl.de/drugs/4485
+C08CA542,"Nimodipine",51,0.87,7,0.02,nd535,http://sideeffects.embl.de/drugs/4497
+C08CA543,"Nisoldipine",129,2.19,3,0.01,nd535,http://sideeffects.embl.de/drugs/4499
+nd544,"C08D - SELECTIVE CALCIUM CHANNEL BLOCKERS WITH DIRECT CARDIAC EFFECTS",256,4.35,275,0.91,nd533,
+nd545,"C08DA - Phenylalkylamine derivatives",123,2.09,102,0.34,nd544,
+C08DA546,"Verapamil",123,2.09,102,0.34,nd545,http://sideeffects.embl.de/drugs/2520
+nd547,"C08DB - Benzothiazepine derivatives",201,3.42,173,0.57,nd544,
+C08DB548,"Diltiazem",201,3.42,173,0.57,nd547,http://sideeffects.embl.de/drugs/3075
+nd549,"C08E - NON-SELECTIVE CALCIUM CHANNEL BLOCKERS",85,1.45,2,0.01,nd533,
+nd550,"C08EA - Phenylalkylamine derivatives",62,1.05,1,0.0,nd549,
+C08EA551,"Bepridil",62,1.05,1,0.0,nd550,http://sideeffects.embl.de/drugs/2351
+nd552,"C08EX - Other non-selective calcium channel blockers",37,0.63,1,0.0,nd549,
+C08EX553,"Perhexiline",37,0.63,1,0.0,nd552,http://sideeffects.embl.de/drugs/4746
+nd554,"C09 - AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM",654,11.12,741,2.45,nd357,
+nd555,"C09A - ACE INHIBITORS, PLAIN",534,9.08,487,1.61,nd554,
+nd556,"C09AA - ACE inhibitors, plain",534,9.08,487,1.61,nd555,
+C09AA557,"Benazepril",90,1.53,14,0.05,nd556,http://sideeffects.embl.de/drugs/2311
+C09AA558,"CAS 76095-16-4",175,2.98,56,0.19,nd556,http://sideeffects.embl.de/drugs/3222
+C09AA559,"Captopril",124,2.11,62,0.2,nd556,http://sideeffects.embl.de/drugs/2550
+C09AA560,"Cilazapril",132,2.24,21,0.07,nd556,http://sideeffects.embl.de/drugs/2751
+C09AA561,"Fosinopril",221,3.76,20,0.07,nd556,http://sideeffects.embl.de/drugs/3419
+C09AA562,"Lisinopril",231,3.93,242,0.8,nd556,http://sideeffects.embl.de/drugs/3937
+C09AA563,"Perindopril",146,2.48,2,0.01,nd556,http://sideeffects.embl.de/drugs/60184
+C09AA564,"Quinapril",81,1.38,15,0.05,nd556,http://sideeffects.embl.de/drugs/5005
+C09AA565,"Ramipril",187,3.18,46,0.15,nd556,http://sideeffects.embl.de/drugs/5038
+C09AA566,"Trandolapril",180,3.06,9,0.03,nd556,http://sideeffects.embl.de/drugs/5525
+nd567,"C09C - ANGIOTENSIN II ANTAGONISTS, PLAIN",379,6.45,242,0.8,nd554,
+nd568,"C09CA - Angiotensin II antagonists, plain",379,6.45,242,0.8,nd567,
+C09CA569,"Candesartan",71,1.21,11,0.04,nd568,http://sideeffects.embl.de/drugs/2541
+C09CA570,"Eprosartan",118,2.01,4,0.01,nd568,http://sideeffects.embl.de/drugs/60878
+C09CA571,"Irbesartan",201,3.42,57,0.19,nd568,http://sideeffects.embl.de/drugs/3749
+C09CA572,"Losartan",166,2.82,99,0.33,nd568,http://sideeffects.embl.de/drugs/3961
+C09CA573,"Olmesartan medoxomil",50,0.85,8,0.03,nd568,http://sideeffects.embl.de/drugs/130881
+C09CA574,"Telmisartan",185,3.15,26,0.09,nd568,http://sideeffects.embl.de/drugs/65999
+C09CA575,"Valsartan",98,1.67,37,0.12,nd568,http://sideeffects.embl.de/drugs/5650
+nd576,"C09X - OTHER AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM",84,1.43,12,0.04,nd554,
+nd577,"C09XA - Renin-inhibitors",84,1.43,12,0.04,nd576,
+C09XA578,"Aliskiren",84,1.43,12,0.04,nd577,http://sideeffects.embl.de/drugs/216209
+nd579,"C10 - LIPID MODIFYING AGENTS",516,8.78,1211,4.0,nd357,
+nd580,"C10A - LIPID MODIFYING AGENTS, PLAIN",516,8.78,1211,4.0,nd579,
+nd581,"C10AA - HMG CoA reductase inhibitors",319,5.43,655,2.17,nd580,
+C10AA582,"Atorvastatin",198,3.37,133,0.44,nd581,http://sideeffects.embl.de/drugs/2250
+C10AA583,"Cerivastatin",99,1.68,20,0.07,nd581,http://sideeffects.embl.de/drugs/2676
+C10AA584,"Fluvastatin",141,2.4,24,0.08,nd581,http://sideeffects.embl.de/drugs/3403
+C10AA585,"Lovastatin",99,1.68,123,0.41,nd581,http://sideeffects.embl.de/drugs/3962
+C10AA586,"Pitavastatin",41,0.7,2,0.01,nd581,http://sideeffects.embl.de/drugs/132804
+C10AA587,"Pravastatin",152,2.59,118,0.39,nd581,http://sideeffects.embl.de/drugs/4889
+C10AA588,"Rosuvastatin",70,1.19,26,0.09,nd581,http://sideeffects.embl.de/drugs/129806
+C10AA589,"Simvastatin",121,2.06,209,0.69,nd581,http://sideeffects.embl.de/drugs/54454
+nd590,"C10AB - Fibrates",235,4.0,172,0.57,nd580,
+C10AB591,"Bezafibrate",51,0.87,1,0.0,nd590,http://sideeffects.embl.de/drugs/39042
+C10AB592,"Fenofibrate",193,3.28,88,0.29,nd590,http://sideeffects.embl.de/drugs/3339
+C10AB593,"Gemfibrozil",97,1.65,83,0.27,nd590,http://sideeffects.embl.de/drugs/3463
+nd594,"C10AC - Bile acid sequestrants",127,2.16,27,0.09,nd580,
+C10AC595,"Colesevelam",48,0.82,13,0.04,nd594,http://sideeffects.embl.de/drugs/160051
+C10AC596,"Colestipol",45,0.77,7,0.02,nd594,http://sideeffects.embl.de/drugs/62816
+C10AC597,"Colestyramine",82,1.39,7,0.02,nd594,http://sideeffects.embl.de/drugs/70695640
+nd598,"C10AD - Nicotinic acid and derivatives",159,2.7,24,0.08,nd580,
+C10AD599,"Acipimox",20,0.34,1,0.0,nd598,http://sideeffects.embl.de/drugs/5310993
+C10AD600,"Niacin",152,2.59,23,0.08,nd598,http://sideeffects.embl.de/drugs/937
+nd601,"C10AX - Other lipid modifying agents",150,2.55,333,1.1,nd580,
+C10AX602,"Ezetimibe",112,1.9,16,0.05,nd601,http://sideeffects.embl.de/drugs/150311
+C10AX603,"Thyroxine",57,0.97,317,1.05,nd601,http://sideeffects.embl.de/drugs/853
+nd604,"D - DERMATOLOGICALS",1600,27.21,3008,9.94,null,
+nd605,"D01 - ANTIFUNGALS FOR DERMATOLOGICAL USE",374,6.36,420,1.39,nd604,
+nd606,"D01A - ANTIFUNGALS FOR TOPICAL USE",374,6.36,420,1.39,nd605,
+nd607,"D01AA - Antibiotics",54,0.92,68,0.22,nd606,
+D01AA608,"Griseofulvin",29,0.49,14,0.05,nd607,http://sideeffects.embl.de/drugs/3512
+D01AA609,"Natamycin",12,0.2,2,0.01,nd607,http://sideeffects.embl.de/drugs/441382
+D01AA610,"Nystatin",21,0.36,52,0.17,nd607,http://sideeffects.embl.de/drugs/4568
+nd611,"D01AC - Imidazole and triazole derivatives",255,4.34,223,0.74,nd606,
+D01AC612,"Clotrimazole",21,0.36,21,0.07,nd611,http://sideeffects.embl.de/drugs/2812
+D01AC613,"Econazole",5,0.09,11,0.04,nd611,http://sideeffects.embl.de/drugs/3198
+D01AC614,"Fluconazole",134,2.28,114,0.38,nd611,http://sideeffects.embl.de/drugs/3365
+D01AC615,"Ketoconazole",110,1.87,51,0.17,nd611,http://sideeffects.embl.de/drugs/3823
+D01AC616,"Miconazole",57,0.97,7,0.02,nd611,http://sideeffects.embl.de/drugs/4189
+D01AC617,"Oxiconazole",11,0.19,8,0.03,nd611,http://sideeffects.embl.de/drugs/4623
+D01AC618,"Sertaconazole",9,0.15,2,0.01,nd611,http://sideeffects.embl.de/drugs/65863
+D01AC619,"Sulconazole",4,0.07,5,0.02,nd611,http://sideeffects.embl.de/drugs/5318
+D01AC620,"Thiabendazole",41,0.7,4,0.01,nd611,http://sideeffects.embl.de/drugs/5430
+nd621,"D01AE - Other antifungals for topical use",205,3.49,129,0.43,nd606,
+D01AE622,"5-fluorocytosine",56,0.95,7,0.02,nd621,http://sideeffects.embl.de/drugs/3366
+D01AE623,"Amorolfine",8,0.14,1,0.0,nd621,http://sideeffects.embl.de/drugs/2168
+D01AE624,"Butenafine",5,0.09,5,0.02,nd621,http://sideeffects.embl.de/drugs/2484
+D01AE625,"Ciclopirox",28,0.48,52,0.17,nd621,http://sideeffects.embl.de/drugs/2749
+D01AE626,"Naftifine",16,0.27,6,0.02,nd621,http://sideeffects.embl.de/drugs/47640
+D01AE627,"Salicylate",38,0.65,18,0.06,nd621,http://sideeffects.embl.de/drugs/338
+D01AE628,"Selenium sulfide",2,0.03,4,0.01,nd621,http://sideeffects.embl.de/drugs/24087
+D01AE629,"Terbinafine",138,2.35,36,0.12,nd621,http://sideeffects.embl.de/drugs/5402
+nd630,"D01B - ANTIFUNGALS FOR SYSTEMIC USE",149,2.53,50,0.17,nd605,
+nd631,"D01BA - Antifungals for systemic use",149,2.53,50,0.17,nd630,
+D01BA632,"Griseofulvin",29,0.49,14,0.05,nd631,http://sideeffects.embl.de/drugs/3512
+D01BA633,"Terbinafine",138,2.35,36,0.12,nd631,http://sideeffects.embl.de/drugs/5402
+nd634,"D03 - PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS",11,0.19,1,0.0,nd604,
+nd635,"D03A - CICATRIZANTS",11,0.19,1,0.0,nd634,
+nd636,"D03AX - Other cicatrizants",11,0.19,1,0.0,nd635,
+D03AX637,"Dexpanthenol",11,0.19,1,0.0,nd636,http://sideeffects.embl.de/drugs/4678
+nd638,"D04 - ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.",203,3.45,355,1.17,nd604,
+nd639,"D04A - ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.",203,3.45,355,1.17,nd638,
+nd640,"D04AA - Antihistamines for topical use",101,1.72,171,0.57,nd639,
+D04AA641,"Clemastine",43,0.73,6,0.02,nd640,http://sideeffects.embl.de/drugs/2781
+D04AA642,"Diphenhydramine",42,0.71,26,0.09,nd640,http://sideeffects.embl.de/drugs/3100
+D04AA643,"Mepyramine",1,0.02,1,0.0,nd640,http://sideeffects.embl.de/drugs/4992
+D04AA644,"Promethazine",84,1.43,138,0.46,nd640,http://sideeffects.embl.de/drugs/4927
+nd645,"D04AB - Anesthetics for topical use",140,2.38,184,0.61,nd639,
+D04AB646,"Benzocaine",15,0.26,2,0.01,nd645,http://sideeffects.embl.de/drugs/2337
+D04AB647,"Lidocaine",124,2.11,173,0.57,nd645,http://sideeffects.embl.de/drugs/3676
+D04AB648,"Tetracaine",31,0.53,9,0.03,nd645,http://sideeffects.embl.de/drugs/5411
+nd649,"D05 - ANTIPSORIATICS",320,5.44,92,0.3,nd604,
+nd650,"D05A - ANTIPSORIATICS FOR TOPICAL USE",141,2.4,84,0.28,nd649,
+nd651,"D05AD - Psoralens for topical use",39,0.66,9,0.03,nd650,
+D05AD652,"8-MOP",39,0.66,9,0.03,nd651,http://sideeffects.embl.de/drugs/4114
+nd653,"D05AX - Other antipsoriatics for topical use",123,2.09,75,0.25,nd650,
+D05AX654,"1,25(OH)2D3",87,1.48,31,0.1,nd653,http://sideeffects.embl.de/drugs/2524
+D05AX655,"Calcipotriol",17,0.29,28,0.09,nd653,http://sideeffects.embl.de/drugs/2522
+D05AX656,"Tazarotene",40,0.68,16,0.05,nd653,http://sideeffects.embl.de/drugs/5381
+nd657,"D05B - ANTIPSORIATICS FOR SYSTEMIC USE",249,4.23,17,0.06,nd649,
+nd658,"D05BA - Psoralens for systemic use",39,0.66,9,0.03,nd657,
+D05BA659,"8-MOP",39,0.66,9,0.03,nd658,http://sideeffects.embl.de/drugs/4114
+nd660,"D05BB - Retinoids for treatment of psoriasis",233,3.96,8,0.03,nd657,
+D05BB661,"Acitretin",233,3.96,8,0.03,nd660,http://sideeffects.embl.de/drugs/41317
+nd662,"D06 - ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE",621,10.56,586,1.94,nd604,
+nd663,"D06A - ANTIBIOTICS FOR TOPICAL USE",293,4.98,172,0.57,nd662,
+nd664,"D06AA - Tetracycline and derivatives",56,0.95,31,0.1,nd663,
+D06AA665,"Demeclocycline",45,0.77,13,0.04,nd664,http://sideeffects.embl.de/drugs/51601240
+D06AA666,"Oxytetracycline",27,0.46,1,0.0,nd664,http://sideeffects.embl.de/drugs/44134877
+D06AA667,"Tetracycline",37,0.63,17,0.06,nd664,http://sideeffects.embl.de/drugs/25880664
+nd668,"D06AX - Other antibiotics for topical use",263,4.47,141,0.47,nd663,
+D06AX669,"Amikacin",26,0.44,4,0.01,nd668,http://sideeffects.embl.de/drugs/2142
+D06AX670,"CAS 1405-87-4",6,0.1,7,0.02,nd668,http://sideeffects.embl.de/drugs/65281
+D06AX671,"Chloramphenicol",52,0.88,9,0.03,nd668,http://sideeffects.embl.de/drugs/298
+D06AX672,"Fusidic acid",55,0.94,2,0.01,nd668,http://sideeffects.embl.de/drugs/3443
+D06AX673,"Gentamicin",66,1.12,58,0.19,nd668,http://sideeffects.embl.de/drugs/3467
+D06AX674,"Mupirocin",41,0.7,41,0.14,nd668,http://sideeffects.embl.de/drugs/4264
+D06AX675,"Neomycin",21,0.36,9,0.03,nd668,http://sideeffects.embl.de/drugs/4454
+D06AX676,"Retapamulin",20,0.34,4,0.01,nd668,http://sideeffects.embl.de/drugs/6918462
+D06AX677,"Rifaximin",119,2.02,7,0.02,nd668,http://sideeffects.embl.de/drugs/72111
+nd678,"D06B - CHEMOTHERAPEUTICS FOR TOPICAL USE",473,8.04,414,1.37,nd662,
+nd679,"D06BA - Sulfonamides",46,0.78,14,0.05,nd678,
+D06BA680,"Mafenide acetate",25,0.43,3,0.01,nd679,http://sideeffects.embl.de/drugs/3998
+D06BA681,"Silver sulfadiazine",23,0.39,10,0.03,nd679,http://sideeffects.embl.de/drugs/5214
+D06BA682,"Sulfonamide",2,0.03,1,0.0,nd679,http://sideeffects.embl.de/drugs/5333
+nd683,"D06BB - Antivirals",347,5.9,245,0.81,nd678,
+D06BB684,"Acyclovir",150,2.55,180,0.6,nd683,http://sideeffects.embl.de/drugs/2022
+D06BB685,"IdUrd",5,0.09,1,0.0,nd683,http://sideeffects.embl.de/drugs/3687
+D06BB686,"Imiquimod",234,3.98,31,0.1,nd683,http://sideeffects.embl.de/drugs/57469
+D06BB687,"Penciclovir",51,0.87,22,0.07,nd683,http://sideeffects.embl.de/drugs/4725
+D06BB688,"Podophyllotoxin",38,0.65,10,0.03,nd683,http://sideeffects.embl.de/drugs/4865
+D06BB689,"Tadenan",6,0.1,1,0.0,nd683,http://sideeffects.embl.de/drugs/12620
+nd690,"D06BX - Other chemotherapeutics",212,3.61,155,0.51,nd678,
+D06BX691,"Metronidazole",212,3.61,155,0.51,nd690,http://sideeffects.embl.de/drugs/4173
+nd692,"D07 - CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS",598,10.17,787,2.6,nd604,
+nd693,"D07A - CORTICOSTEROIDS, PLAIN",598,10.17,787,2.6,nd692,
+nd694,"D07AA - Corticosteroids, weak (group I)",261,4.44,233,0.77,nd693,
+D07AA695,"Cortisol",197,3.35,113,0.37,nd694,http://sideeffects.embl.de/drugs/3640
+D07AA696,"Methylprednisolone",192,3.27,72,0.24,nd694,http://sideeffects.embl.de/drugs/4159
+D07AA697,"Prednisolone",109,1.85,48,0.16,nd694,http://sideeffects.embl.de/drugs/4894
+nd698,"D07AB - Corticosteroids, moderately potent (group II)",301,5.12,206,0.68,nd693,
+D07AB699,"Alclometasone",12,0.2,6,0.02,nd698,http://sideeffects.embl.de/drugs/4630253
+D07AB700,"Clobetasone butyrate",33,0.56,3,0.01,nd698,http://sideeffects.embl.de/drugs/2792
+D07AB701,"Clocortolone",11,0.19,3,0.01,nd698,http://sideeffects.embl.de/drugs/20969
+D07AB702,"Desonide",46,0.78,19,0.06,nd698,http://sideeffects.embl.de/drugs/12536
+D07AB703,"Dexamethasone",215,3.66,124,0.41,nd698,http://sideeffects.embl.de/drugs/3003
+D07AB704,"Flumethasone",11,0.19,12,0.04,nd698,http://sideeffects.embl.de/drugs/3375
+D07AB705,"Fluorometholone",35,0.6,7,0.02,nd698,http://sideeffects.embl.de/drugs/3384
+D07AB706,"Hydrocortisone butyrate",19,0.32,3,0.01,nd698,http://sideeffects.embl.de/drugs/3642
+D07AB707,"Triamcinolone",150,2.55,29,0.1,nd698,http://sideeffects.embl.de/drugs/5544
+nd708,"D07AC - Corticosteroids, potent (group III)",519,8.83,412,1.36,nd693,
+D07AC709,"Amcinonide",19,0.32,6,0.02,nd708,http://sideeffects.embl.de/drugs/2133
+D07AC710,"Beclomethasone dipropionate",39,0.66,5,0.02,nd708,http://sideeffects.embl.de/drugs/2307
+D07AC711,"Budesonide",206,3.5,71,0.23,nd708,http://sideeffects.embl.de/drugs/2462
+D07AC712,"Desoximetasone",27,0.46,27,0.09,nd708,http://sideeffects.embl.de/drugs/3000
+D07AC713,"Dexamethasone",215,3.66,124,0.41,nd708,http://sideeffects.embl.de/drugs/3003
+D07AC714,"Epitopic",40,0.68,3,0.01,nd708,http://sideeffects.embl.de/drugs/3060
+D07AC715,"Flumethasone",11,0.19,12,0.04,nd708,http://sideeffects.embl.de/drugs/3375
+D07AC716,"Fluocinolone acetonide",128,2.18,36,0.12,nd708,http://sideeffects.embl.de/drugs/3381
+D07AC717,"Fluocinonide",38,0.65,36,0.12,nd708,http://sideeffects.embl.de/drugs/3382
+D07AC718,"Flurandrenolone",14,0.24,3,0.01,nd708,http://sideeffects.embl.de/drugs/3392
+D07AC719,"Fluticasone",197,3.35,47,0.16,nd708,http://sideeffects.embl.de/drugs/62924
+D07AC720,"Mometasone",93,1.58,34,0.11,nd708,http://sideeffects.embl.de/drugs/123620
+D07AC721,"Prednicarbate",20,0.34,8,0.03,nd708,http://sideeffects.embl.de/drugs/52421
+nd722,"D07AD - Corticosteroids, very potent (group IV)",78,1.33,72,0.24,nd693,
+D07AD723,"Clobetasol",68,1.16,62,0.2,nd722,http://sideeffects.embl.de/drugs/32797
+D07AD724,"Halcinonide",25,0.43,10,0.03,nd722,http://sideeffects.embl.de/drugs/3553
+nd725,"D07X - CORTICOSTEROIDS, OTHER COMBINATIONS",348,5.92,394,1.3,nd692,
+nd726,"D07XA - Corticosteroids, weak, other combinations",217,3.69,161,0.53,nd725,
+D07XA727,"Cortisol",197,3.35,113,0.37,nd726,http://sideeffects.embl.de/drugs/3640
+D07XA728,"Prednisolone",109,1.85,48,0.16,nd726,http://sideeffects.embl.de/drugs/4894
+nd729,"D07XB - Corticosteroids, moderately potent, other combinations",273,4.64,172,0.57,nd725,
+D07XB730,"Dexamethasone",215,3.66,124,0.41,nd729,http://sideeffects.embl.de/drugs/3003
+D07XB731,"Flumethasone",11,0.19,12,0.04,nd729,http://sideeffects.embl.de/drugs/3375
+D07XB732,"Fluorometholone",35,0.6,7,0.02,nd729,http://sideeffects.embl.de/drugs/3384
+D07XB733,"Triamcinolone",150,2.55,29,0.1,nd729,http://sideeffects.embl.de/drugs/5544
+nd734,"D07XC - Corticosteroids, potent, other combinations",280,4.76,185,0.61,nd725,
+D07XC735,"Desoximetasone",27,0.46,27,0.09,nd734,http://sideeffects.embl.de/drugs/3000
+D07XC736,"Dexamethasone",215,3.66,124,0.41,nd734,http://sideeffects.embl.de/drugs/3003
+D07XC737,"Mometasone",93,1.58,34,0.11,nd734,http://sideeffects.embl.de/drugs/123620
+nd738,"D08 - ANTISEPTICS AND DISINFECTANTS",64,1.09,22,0.07,nd604,
+nd739,"D08A - ANTISEPTICS AND DISINFECTANTS",64,1.09,22,0.07,nd738,
+nd740,"D08AC - Biguanides and amidines",52,0.88,18,0.06,nd739,
+D08AC741,"Chlorhexidine",52,0.88,18,0.06,nd740,http://sideeffects.embl.de/drugs/2713
+nd742,"D08AE - Phenol and derivatives",4,0.07,3,0.01,nd739,
+D08AE743,"Hexachlorophene",3,0.05,2,0.01,nd742,http://sideeffects.embl.de/drugs/3598
+D08AE744,"Triclosan",1,0.02,1,0.0,nd742,http://sideeffects.embl.de/drugs/5564
+nd745,"D08AL - Silver compounds",11,0.19,1,0.0,nd739,
+D08AL746,"Silver nanoparticles",11,0.19,1,0.0,nd745,http://sideeffects.embl.de/drugs/23954
+nd747,"D09 - MEDICATED DRESSINGS",111,1.89,30,0.1,nd604,
+nd748,"D09A - MEDICATED DRESSINGS",111,1.89,30,0.1,nd747,
+nd749,"D09AA - Medicated dressings with antiinfectives",111,1.89,30,0.1,nd748,
+D09AA750,"Chlorhexidine",52,0.88,18,0.06,nd749,http://sideeffects.embl.de/drugs/2713
+D09AA751,"Fusidic acid",55,0.94,2,0.01,nd749,http://sideeffects.embl.de/drugs/3443
+D09AA752,"Neomycin",21,0.36,9,0.03,nd749,http://sideeffects.embl.de/drugs/4454
+D09AA753,"Triclosan",1,0.02,1,0.0,nd749,http://sideeffects.embl.de/drugs/5564
+nd754,"D10 - ANTI-ACNE PREPARATIONS",709,12.06,606,2.0,nd604,
+nd755,"D10A - ANTI-ACNE PREPARATIONS FOR TOPICAL USE",709,12.06,606,2.0,nd754,
+nd756,"D10AA - Corticosteroids, combinations for treatment of acne",286,4.86,203,0.67,nd755,
+D10AA757,"Dexamethasone",215,3.66,124,0.41,nd756,http://sideeffects.embl.de/drugs/3003
+D10AA758,"Fluorometholone",35,0.6,7,0.02,nd756,http://sideeffects.embl.de/drugs/3384
+D10AA759,"Methylprednisolone",192,3.27,72,0.24,nd756,http://sideeffects.embl.de/drugs/4159
+nd760,"D10AD - Retinoids for topical use in acne",422,7.18,136,0.45,nd755,
+D10AD761,"Adapalene",49,0.83,23,0.08,nd760,http://sideeffects.embl.de/drugs/60164
+D10AD762,"Retinoic acid",399,6.79,112,0.37,nd760,http://sideeffects.embl.de/drugs/5538
+D10AD763,"Retinol",2,0.03,1,0.0,nd760,http://sideeffects.embl.de/drugs/1071
+nd764,"D10AE - Peroxides",17,0.29,20,0.07,nd755,
+D10AE765,"Benzoyl",17,0.29,20,0.07,nd764,http://sideeffects.embl.de/drugs/7187
+nd766,"D10AF - Antiinfectives for treatment of acne",210,3.57,230,0.76,nd755,
+D10AF767,"Chloramphenicol",52,0.88,9,0.03,nd766,http://sideeffects.embl.de/drugs/298
+D10AF768,"Clindamycin",145,2.47,118,0.39,nd766,http://sideeffects.embl.de/drugs/2786
+D10AF769,"Erythromycin",58,0.99,103,0.34,nd766,http://sideeffects.embl.de/drugs/3255
+nd770,"D10AX - Other anti-acne preparations for topical use",62,1.05,17,0.06,nd755,
+D10AX771,"Azelaic acid",23,0.39,9,0.03,nd770,http://sideeffects.embl.de/drugs/2266
+D10AX772,"Dapsone",43,0.73,8,0.03,nd770,http://sideeffects.embl.de/drugs/2955
+nd773,"D10B - ANTI-ACNE PREPARATIONS FOR SYSTEMIC USE",399,6.79,112,0.37,nd754,
+nd774,"D10BA - Retinoids for treatment of acne",399,6.79,112,0.37,nd773,
+D10BA775,"Retinoic acid",399,6.79,112,0.37,nd774,http://sideeffects.embl.de/drugs/5538
+nd776,"D11 - OTHER DERMATOLOGICAL PREPARATIONS",928,15.78,463,1.53,nd604,
+nd777,"D11A - OTHER DERMATOLOGICAL PREPARATIONS",928,15.78,463,1.53,nd776,
+nd778,"D11AC - Medicated shampoos",2,0.03,1,0.0,nd777,
+D11AC779,"Selenium",2,0.03,1,0.0,nd778,http://sideeffects.embl.de/drugs/6326970
+nd780,"D11AH - Agents for dermatitis, excluding corticosteroids",601,10.22,89,0.29,nd777,
+D11AH781,"Pimecrolimus",110,1.87,10,0.03,nd780,http://sideeffects.embl.de/drugs/3055172
+D11AH782,"Sodium cromoglycate",99,1.68,20,0.07,nd780,http://sideeffects.embl.de/drugs/2881
+D11AH783,"Tacrolimus",528,8.98,59,0.2,nd780,http://sideeffects.embl.de/drugs/5372
+nd784,"D11AX - Other dermatologicals",631,10.73,373,1.23,nd777,
+D11AX785,"DFMO",50,0.85,3,0.01,nd784,http://sideeffects.embl.de/drugs/3009
+D11AX786,"Diclofenac",367,6.24,165,0.55,nd784,http://sideeffects.embl.de/drugs/3032
+D11AX787,"Finasteride",46,0.78,63,0.21,nd784,http://sideeffects.embl.de/drugs/3350
+D11AX788,"Minoxidil",37,0.63,18,0.06,nd784,http://sideeffects.embl.de/drugs/4201
+D11AX789,"Monobenzone",3,0.05,1,0.0,nd784,http://sideeffects.embl.de/drugs/7638
+D11AX790,"Quinol",5,0.09,11,0.04,nd784,http://sideeffects.embl.de/drugs/785
+D11AX791,"Retinoic acid",399,6.79,112,0.37,nd784,http://sideeffects.embl.de/drugs/5538
+nd792,"G - GENITO URINARY SYSTEM AND SEX HORMONES",1673,28.45,2078,6.87,null,
+nd793,"G01 - GYNECOLOGICAL ANTIINFECTIVES AND ANTISEPTICS",591,10.05,547,1.81,nd792,
+nd794,"G01A - ANTIINFECTIVES AND ANTISEPTICS, EXCL. COMBINATIONS WITH CORTICOSTEROIDS",591,10.05,547,1.81,nd793,
+nd795,"G01AA - Antibiotics",442,7.52,192,0.63,nd794,
+G01AA796,"Amphotericin B",301,5.12,10,0.03,nd795,http://sideeffects.embl.de/drugs/1972
+G01AA797,"Chloramphenicol",52,0.88,9,0.03,nd795,http://sideeffects.embl.de/drugs/298
+G01AA798,"Clindamycin",145,2.47,118,0.39,nd795,http://sideeffects.embl.de/drugs/2786
+G01AA799,"Natamycin",12,0.2,2,0.01,nd795,http://sideeffects.embl.de/drugs/441382
+G01AA800,"Nystatin",21,0.36,52,0.17,nd795,http://sideeffects.embl.de/drugs/4568
+G01AA801,"Oxytetracycline",27,0.46,1,0.0,nd795,http://sideeffects.embl.de/drugs/44134877
+nd802,"G01AD - Organic acids",16,0.27,22,0.07,nd794,
+G01AD803,"Acetate",5,0.09,11,0.04,nd802,http://sideeffects.embl.de/drugs/175
+G01AD804,"Ascorbate",3,0.05,3,0.01,nd802,http://sideeffects.embl.de/drugs/11020241
+G01AD805,"Lactate",9,0.15,8,0.03,nd802,http://sideeffects.embl.de/drugs/612
+nd806,"G01AF - Imidazole derivatives",298,5.07,256,0.85,nd794,
+G01AF807,"Butoconazole",6,0.1,3,0.01,nd806,http://sideeffects.embl.de/drugs/47471
+G01AF808,"Clotrimazole",21,0.36,21,0.07,nd806,http://sideeffects.embl.de/drugs/2812
+G01AF809,"Econazole",5,0.09,11,0.04,nd806,http://sideeffects.embl.de/drugs/3198
+G01AF810,"Ketoconazole",110,1.87,51,0.17,nd806,http://sideeffects.embl.de/drugs/3823
+G01AF811,"Metronidazole",212,3.61,155,0.51,nd806,http://sideeffects.embl.de/drugs/4173
+G01AF812,"Miconazole",57,0.97,7,0.02,nd806,http://sideeffects.embl.de/drugs/4189
+G01AF813,"Oxiconazole",11,0.19,8,0.03,nd806,http://sideeffects.embl.de/drugs/4623
+nd814,"G01AG - Triazole derivatives",23,0.39,25,0.08,nd794,
+G01AG815,"Terconazole",23,0.39,25,0.08,nd814,http://sideeffects.embl.de/drugs/5404
+nd816,"G01AX - Other antiinfectives and antiseptics",28,0.48,52,0.17,nd794,
+G01AX817,"Ciclopirox",28,0.48,52,0.17,nd816,http://sideeffects.embl.de/drugs/2749
+nd818,"G02 - OTHER GYNECOLOGICALS",602,10.24,445,1.47,nd792,
+nd819,"G02A - UTEROTONICS",204,3.47,54,0.18,nd818,
+nd820,"G02AB - Ergot alkaloids",50,0.85,19,0.06,nd819,
+G02AB821,"Ergonovine",34,0.58,1,0.0,nd820,http://sideeffects.embl.de/drugs/3250
+G02AB822,"Methylergometrine",36,0.61,18,0.06,nd820,http://sideeffects.embl.de/drugs/4140
+nd823,"G02AD - Prostaglandins",180,3.06,35,0.12,nd819,
+G02AD824,"Carboprost",67,1.14,1,0.0,nd823,http://sideeffects.embl.de/drugs/441332
+G02AD825,"Gemeprost",24,0.41,1,0.0,nd823,http://sideeffects.embl.de/drugs/3462
+G02AD826,"Misoprostol",99,1.68,22,0.07,nd823,http://sideeffects.embl.de/drugs/42955
+G02AD827,"PGE2",79,1.34,9,0.03,nd823,http://sideeffects.embl.de/drugs/158
+G02AD828,"Prostaglandin",24,0.41,2,0.01,nd823,http://sideeffects.embl.de/drugs/160
+nd829,"G02C - OTHER GYNECOLOGICALS",518,8.81,391,1.29,nd818,
+nd830,"G02CB - Prolactine inhibitors",214,3.64,33,0.11,nd829,
+G02CB831,"Bromocriptine",146,2.48,16,0.05,nd830,http://sideeffects.embl.de/drugs/2443
+G02CB832,"Cabergoline",112,1.9,16,0.05,nd830,http://sideeffects.embl.de/drugs/2512
+G02CB833,"Lisuride",59,1.0,1,0.0,nd830,http://sideeffects.embl.de/drugs/3938
+nd834,"G02CC - Antiinflammatory products for vaginal administration",411,6.99,355,1.17,nd829,
+G02CC835,"Benzydamine",9,0.15,1,0.0,nd834,http://sideeffects.embl.de/drugs/12555
+G02CC836,"Ibuprofen",282,4.8,166,0.55,nd834,http://sideeffects.embl.de/drugs/3672
+G02CC837,"Naproxen",302,5.14,188,0.62,nd834,http://sideeffects.embl.de/drugs/1301
+nd838,"G02CX - Other gynecologicals",28,0.48,3,0.01,nd829,
+G02CX839,"Atosiban",28,0.48,3,0.01,nd838,http://sideeffects.embl.de/drugs/68613
+nd840,"G03 - SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM",1033,17.57,468,1.55,nd792,
+nd841,"G03A - HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE",358,6.09,121,0.4,nd840,
+nd842,"G03AC - Progestogens",358,6.09,121,0.4,nd841,
+G03AC843,"Desogestrel",40,0.68,1,0.0,nd842,http://sideeffects.embl.de/drugs/40973
+G03AC844,"Implanon",120,2.04,6,0.02,nd842,http://sideeffects.embl.de/drugs/40976
+G03AC845,"Levonorgestrel",192,3.27,24,0.08,nd842,http://sideeffects.embl.de/drugs/4542
+G03AC846,"Medroxyprogesterone",168,2.86,34,0.11,nd842,http://sideeffects.embl.de/drugs/10631
+G03AC847,"Megestrol",76,1.29,28,0.09,nd842,http://sideeffects.embl.de/drugs/19090
+G03AC848,"Norethisterone",89,1.51,28,0.09,nd842,http://sideeffects.embl.de/drugs/4536
+nd849,"G03B - ANDROGENS",367,6.24,68,0.22,nd840,
+nd850,"G03BA - 3-oxoandrosten (4) derivatives",367,6.24,68,0.22,nd849,
+G03BA851,"Fluoxymesterone",24,0.41,2,0.01,nd850,http://sideeffects.embl.de/drugs/3387
+G03BA852,"Methyltestosterone",22,0.37,3,0.01,nd850,http://sideeffects.embl.de/drugs/4160
+G03BA853,"Testosterone",366,6.22,63,0.21,nd850,http://sideeffects.embl.de/drugs/5408
+nd854,"G03C - ESTROGENS",424,7.21,164,0.54,nd840,
+nd855,"G03CA - Natural and semisynthetic estrogens, plain",417,7.09,161,0.53,nd854,
+G03CA856,"Conjugated estrogens",145,2.47,23,0.08,nd855,http://sideeffects.embl.de/drugs/27993
+G03CA857,"Estradiol",404,6.87,131,0.43,nd855,http://sideeffects.embl.de/drugs/450
+G03CA858,"Estriol",27,0.46,6,0.02,nd855,http://sideeffects.embl.de/drugs/3269
+G03CA859,"Estrone",59,1.0,1,0.0,nd855,http://sideeffects.embl.de/drugs/698
+nd860,"G03CC - Estrogens, combinations with other drugs",73,1.24,7,0.02,nd854,
+G03CC861,"Estriol",27,0.46,6,0.02,nd860,http://sideeffects.embl.de/drugs/3269
+G03CC862,"Estrone",59,1.0,1,0.0,nd860,http://sideeffects.embl.de/drugs/698
+nd863,"G03CX - Other estrogens",48,0.82,3,0.01,nd854,
+G03CX864,"Tibolone",48,0.82,3,0.01,nd863,http://sideeffects.embl.de/drugs/5470
+nd865,"G03D - PROGESTOGENS",392,6.67,123,0.41,nd840,
+nd866,"G03DA - Pregnen (4) derivatives",345,5.87,67,0.22,nd865,
+G03DA867,"17-hydroxyprogesterone",43,0.73,1,0.0,nd866,http://sideeffects.embl.de/drugs/6238
+G03DA868,"Medroxyprogesterone",168,2.86,34,0.11,nd866,http://sideeffects.embl.de/drugs/10631
+G03DA869,"Progesterone",275,4.68,32,0.11,nd866,http://sideeffects.embl.de/drugs/4920
+nd870,"G03DB - Pregnadien derivatives",76,1.29,28,0.09,nd865,
+G03DB871,"Megestrol",76,1.29,28,0.09,nd870,http://sideeffects.embl.de/drugs/19090
+nd872,"G03DC - Estren derivatives",89,1.51,28,0.09,nd865,
+G03DC873,"Norethisterone",89,1.51,28,0.09,nd872,http://sideeffects.embl.de/drugs/4536
+nd874,"G03E - ANDROGENS AND FEMALE SEX HORMONES IN COMBINATION",22,0.37,3,0.01,nd840,
+nd875,"G03EK - Androgens and female sex hormones in combination with other drugs",22,0.37,3,0.01,nd874,
+G03EK876,"Methyltestosterone",22,0.37,3,0.01,nd875,http://sideeffects.embl.de/drugs/4160
+nd877,"G03G - GONADOTROPINS AND OTHER OVULATION STIMULANTS",377,6.41,59,0.2,nd840,
+nd878,"G03GA - Gonadotropins",236,4.01,49,0.16,nd877,
+G03GA879,"Metrodin",236,4.01,49,0.16,nd878,http://sideeffects.embl.de/drugs/62819
+nd880,"G03GB - Ovulation stimulants, synthetic",204,3.47,10,0.03,nd877,
+G03GB881,"Clomiphene citrate",204,3.47,10,0.03,nd880,http://sideeffects.embl.de/drugs/2800
+nd882,"G03H - ANTIANDROGENS",88,1.5,1,0.0,nd840,
+nd883,"G03HA - Antiandrogens, plain",88,1.5,1,0.0,nd882,
+G03HA884,"Cyproterone",88,1.5,1,0.0,nd883,http://sideeffects.embl.de/drugs/3015
+nd885,"G03X - OTHER SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM",211,3.59,22,0.07,nd840,
+nd886,"G03XA - Antigonadotropins and similar agents",91,1.55,6,0.02,nd885,
+G03XA887,"Danazol",91,1.55,6,0.02,nd886,http://sideeffects.embl.de/drugs/2949
+nd888,"G03XB - Progesterone receptor modulators",79,1.34,2,0.01,nd885,
+G03XB889,"Mifepristone",79,1.34,2,0.01,nd888,http://sideeffects.embl.de/drugs/4196
+nd890,"G03XC - Selective estrogen receptor modulators",102,1.73,14,0.05,nd885,
+G03XC891,"Bazedoxifene",38,0.65,1,0.0,nd890,http://sideeffects.embl.de/drugs/154256
+G03XC892,"Raloxifene",80,1.36,13,0.04,nd890,http://sideeffects.embl.de/drugs/5035
+nd893,"G04 - UROLOGICALS",708,12.04,618,2.04,nd792,
+nd894,"G04B - UROLOGICALS",638,10.85,398,1.32,nd893,
+nd895,"G04BA - Acidifiers",37,0.63,24,0.08,nd894,
+G04BA896,"Glucose",37,0.63,24,0.08,nd895,http://sideeffects.embl.de/drugs/206
+nd897,"G04BD - Drugs for urinary frequency and incontinence",293,4.98,187,0.62,nd894,
+G04BD898,"Darifenacin",80,1.36,13,0.04,nd897,http://sideeffects.embl.de/drugs/72054
+G04BD899,"Fesoterodine",70,1.19,6,0.02,nd897,http://sideeffects.embl.de/drugs/6918558
+G04BD900,"Flavoxate",17,0.29,8,0.03,nd897,http://sideeffects.embl.de/drugs/3354
+G04BD901,"Oxybutynin",195,3.32,91,0.3,nd897,http://sideeffects.embl.de/drugs/4634
+G04BD902,"Solifenacin",74,1.26,14,0.05,nd897,http://sideeffects.embl.de/drugs/154058
+G04BD903,"Tolterodine",45,0.77,43,0.14,nd897,http://sideeffects.embl.de/drugs/5512
+G04BD904,"Trospium chloride",106,1.8,12,0.04,nd897,http://sideeffects.embl.de/drugs/5596
+nd905,"G04BE - Drugs used in erectile dysfunction",482,8.2,156,0.52,nd894,
+G04BE906,"Apomorphine",47,0.8,4,0.01,nd905,http://sideeffects.embl.de/drugs/2215
+G04BE907,"PGE1",162,2.76,12,0.04,nd905,http://sideeffects.embl.de/drugs/214
+G04BE908,"Papaverine",14,0.24,1,0.0,nd905,http://sideeffects.embl.de/drugs/4680
+G04BE909,"Phentolamine",36,0.61,6,0.02,nd905,http://sideeffects.embl.de/drugs/5775
+G04BE910,"Sildenafil",302,5.14,50,0.17,nd905,http://sideeffects.embl.de/drugs/5212
+G04BE911,"Tadalafil",138,2.35,43,0.14,nd905,http://sideeffects.embl.de/drugs/110635
+G04BE912,"Vardenafil",147,2.5,40,0.13,nd905,http://sideeffects.embl.de/drugs/110634
+nd913,"G04BX - Other urologicals",39,0.66,31,0.1,nd894,
+G04BX914,"Acetohydroxamic acid",25,0.43,1,0.0,nd913,http://sideeffects.embl.de/drugs/1990
+G04BX915,"DMSO",2,0.03,1,0.0,nd913,http://sideeffects.embl.de/drugs/679
+G04BX916,"Phenylazo",17,0.29,29,0.1,nd913,http://sideeffects.embl.de/drugs/4756
+nd917,"G04C - DRUGS USED IN BENIGN PROSTATIC HYPERTROPHY",228,3.88,220,0.73,nd893,
+nd918,"G04CA - Alpha-adrenoreceptor antagonists",194,3.3,152,0.5,nd917,
+G04CA919,"Alfuzosin",86,1.46,20,0.07,nd918,http://sideeffects.embl.de/drugs/2092
+G04CA920,"Silodosin",48,0.82,6,0.02,nd918,http://sideeffects.embl.de/drugs/656628
+G04CA921,"Tamsulosin",103,1.75,75,0.25,nd918,http://sideeffects.embl.de/drugs/60146
+G04CA922,"Terazosin",103,1.75,51,0.17,nd918,http://sideeffects.embl.de/drugs/5401
+nd923,"G04CB - Testosterone-5-alpha reductase inhibitors",67,1.14,68,0.22,nd917,
+G04CB924,"Dutasteride",44,0.75,5,0.02,nd923,http://sideeffects.embl.de/drugs/152945
+G04CB925,"Finasteride",46,0.78,63,0.21,nd923,http://sideeffects.embl.de/drugs/3350
+nd926,"H - SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",952,16.19,1148,3.79,null,
+nd927,"H01 - PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES",604,10.27,160,0.53,nd926,
+nd928,"H01A - ANTERIOR PITUITARY LOBE HORMONES AND ANALOGUES",119,2.02,11,0.04,nd927,
+nd929,"H01AA - ACTH",102,1.73,10,0.03,nd928,
+H01AA930,"ACTH(1-39",60,1.02,1,0.0,nd929,http://sideeffects.embl.de/drugs/16132265
+H01AA931,"Cosyntropin",80,1.36,9,0.03,nd929,http://sideeffects.embl.de/drugs/16129617
+nd932,"H01AB - Thyrotropin",22,0.37,1,0.0,nd928,
+H01AB933,"Protirelin",22,0.37,1,0.0,nd932,http://sideeffects.embl.de/drugs/32281
+nd934,"H01B - POSTERIOR PITUITARY LOBE HORMONES",181,3.08,77,0.25,nd927,
+nd935,"H01BA - Vasopressin and analogues",159,2.7,65,0.21,nd934,
+H01BA936,"Argenine vasopressin",19,0.32,3,0.01,nd935,http://sideeffects.embl.de/drugs/8230
+H01BA937,"Desmopressin",125,2.13,54,0.18,nd935,http://sideeffects.embl.de/drugs/27991
+H01BA938,"Terlipressin",38,0.65,2,0.01,nd935,http://sideeffects.embl.de/drugs/72081
+H01BA939,"Vasopressin",22,0.37,6,0.02,nd935,http://sideeffects.embl.de/drugs/11979316
+nd940,"H01BB - Oxytocin and analogues",50,0.85,12,0.04,nd934,
+H01BB941,"Oxytocin injection",50,0.85,12,0.04,nd940,http://sideeffects.embl.de/drugs/5771
+nd942,"H01C - HYPOTHALAMIC HORMONES",465,7.91,72,0.24,nd927,
+nd943,"H01CA - Gonadotropin-releasing hormones",213,3.62,13,0.04,nd942,
+H01CA944,"Gonadorelin",46,0.78,3,0.01,nd943,http://sideeffects.embl.de/drugs/36523
+H01CA945,"Histrelin",120,2.04,6,0.02,nd943,http://sideeffects.embl.de/drugs/25077993
+H01CA946,"Nafarelin",101,1.72,4,0.01,nd943,http://sideeffects.embl.de/drugs/25077405
+nd947,"H01CB - Somatostatin and analogues",313,5.32,46,0.15,nd942,
+H01CB948,"Lanreotide",136,2.31,6,0.02,nd947,http://sideeffects.embl.de/drugs/71348
+H01CB949,"Octreotide",246,4.18,40,0.13,nd947,http://sideeffects.embl.de/drugs/54373
+nd950,"H01CC - Anti-gonadotropin-releasing hormones",59,1.0,13,0.04,nd942,
+H01CC951,"Cetrorelix",32,0.54,7,0.02,nd950,http://sideeffects.embl.de/drugs/25074886
+H01CC952,"Org 37462",40,0.68,6,0.02,nd950,http://sideeffects.embl.de/drugs/16130957
+nd953,"H02 - CORTICOSTEROIDS FOR SYSTEMIC USE",392,6.67,554,1.83,nd926,
+nd954,"H02A - CORTICOSTEROIDS FOR SYSTEMIC USE, PLAIN",392,6.67,554,1.83,nd953,
+nd955,"H02AA - Mineralocorticoids",70,1.19,11,0.04,nd954,
+H02AA956,"Fludrocortisone",70,1.19,11,0.04,nd955,http://sideeffects.embl.de/drugs/31378
+nd957,"H02AB - Glucocorticoids",390,6.63,543,1.79,nd954,
+H02AB958,"Cortisol",197,3.35,113,0.37,nd957,http://sideeffects.embl.de/drugs/3640
+H02AB959,"Cortisone",55,0.94,5,0.02,nd957,http://sideeffects.embl.de/drugs/222786
+H02AB960,"Dexamethasone",215,3.66,124,0.41,nd957,http://sideeffects.embl.de/drugs/3003
+H02AB961,"Methylprednisolone",192,3.27,72,0.24,nd957,http://sideeffects.embl.de/drugs/4159
+H02AB962,"Prednisolone",109,1.85,48,0.16,nd957,http://sideeffects.embl.de/drugs/4894
+H02AB963,"Prednisone",219,3.72,149,0.49,nd957,http://sideeffects.embl.de/drugs/4900
+H02AB964,"Rimexolone",28,0.48,3,0.01,nd957,http://sideeffects.embl.de/drugs/39507
+H02AB965,"Triamcinolone",150,2.55,29,0.1,nd957,http://sideeffects.embl.de/drugs/5544
+nd966,"H03 - THYROID THERAPY",123,2.09,356,1.18,nd926,
+nd967,"H03A - THYROID PREPARATIONS",62,1.05,319,1.05,nd966,
+nd968,"H03AA - Thyroid hormones",62,1.05,319,1.05,nd967,
+H03AA969,"Thyroxine",57,0.97,317,1.05,nd968,http://sideeffects.embl.de/drugs/853
+H03AA970,"Triiodothyronine",11,0.19,2,0.01,nd968,http://sideeffects.embl.de/drugs/861
+nd971,"H03B - ANTITHYROID PREPARATIONS",71,1.21,37,0.12,nd966,
+nd972,"H03BA - Thiouracils",45,0.77,11,0.04,nd971,
+H03BA973,"Propylthiouracil",45,0.77,11,0.04,nd972,http://sideeffects.embl.de/drugs/657298
+nd974,"H03BB - Sulfur-containing imidazole derivatives",55,0.94,26,0.09,nd971,
+H03BB975,"Carbimazole",41,0.7,1,0.0,nd974,http://sideeffects.embl.de/drugs/31072
+H03BB976,"Methimazole",29,0.49,25,0.08,nd974,http://sideeffects.embl.de/drugs/1349907
+nd977,"H04 - PANCREATIC HORMONES",10,0.17,6,0.02,nd926,
+nd978,"H04A - GLYCOGENOLYTIC HORMONES",10,0.17,6,0.02,nd977,
+nd979,"H04AA - Glycogenolytic hormones",10,0.17,6,0.02,nd978,
+H04AA980,"Glucagon",10,0.17,6,0.02,nd979,http://sideeffects.embl.de/drugs/16132283
+nd981,"H05 - CALCIUM HOMEOSTASIS",324,5.51,72,0.24,nd926,
+nd982,"H05A - PARATHYROID HORMONES AND ANALOGUES",107,1.82,13,0.04,nd981,
+nd983,"H05AA - Parathyroid hormones and analogues",107,1.82,13,0.04,nd982,
+H05AA984,"ALX 111",37,0.63,1,0.0,nd983,http://sideeffects.embl.de/drugs/3325225
+H05AA985,"Forteo",95,1.62,12,0.04,nd983,http://sideeffects.embl.de/drugs/16129682
+nd986,"H05B - ANTI-PARATHYROID AGENTS",289,4.91,59,0.2,nd981,
+nd987,"H05BA - Calcitonin preparations",174,2.96,15,0.05,nd986,
+H05BA988,"Salmon calcitonin acetate",174,2.96,15,0.05,nd987,http://sideeffects.embl.de/drugs/16129616
+nd989,"H05BX - Other anti-parathyroid agents",199,3.38,44,0.15,nd986,
+H05BX990,"Cinacalcet",54,0.92,11,0.04,nd989,http://sideeffects.embl.de/drugs/156418
+H05BX991,"Doxercalciferol",54,0.92,25,0.08,nd989,http://sideeffects.embl.de/drugs/4479094
+H05BX992,"Paricalcitol",174,2.96,8,0.03,nd989,http://sideeffects.embl.de/drugs/77996
+nd993,"J - ANTIINFECTIVES FOR SYSTEMIC USE",2183,37.13,4515,14.93,null,
+nd994,"J01 - ANTIBACTERIALS FOR SYSTEMIC USE",1413,24.03,2930,9.69,nd993,
+nd995,"J01A - TETRACYCLINES",332,5.65,288,0.95,nd994,
+nd996,"J01AA - Tetracyclines",332,5.65,288,0.95,nd995,
+J01AA997,"Demeclocycline",45,0.77,13,0.04,nd996,http://sideeffects.embl.de/drugs/51601240
+J01AA998,"Doxycycline",150,2.55,177,0.59,nd996,http://sideeffects.embl.de/drugs/25880656
+J01AA999,"Lymecycline",49,0.83,1,0.0,nd996,http://sideeffects.embl.de/drugs/54687131
+J01AA1000,"Minocycline",136,2.31,70,0.23,nd996,http://sideeffects.embl.de/drugs/26275995
+J01AA1001,"Oxytetracycline",27,0.46,1,0.0,nd996,http://sideeffects.embl.de/drugs/44134877
+J01AA1002,"Tetracycline",37,0.63,17,0.06,nd996,http://sideeffects.embl.de/drugs/25880664
+J01AA1003,"Tigecycline",162,2.76,9,0.03,nd996,http://sideeffects.embl.de/drugs/54681041
+nd1004,"J01B - AMPHENICOLS",52,0.88,9,0.03,nd994,
+nd1005,"J01BA - Amphenicols",52,0.88,9,0.03,nd1004,
+J01BA1006,"Chloramphenicol",52,0.88,9,0.03,nd1005,http://sideeffects.embl.de/drugs/298
+nd1007,"J01C - BETA-LACTAM ANTIBACTERIALS, PENICILLINS",252,4.29,300,0.99,nd994,
+nd1008,"J01CA - Penicillins with extended spectrum",146,2.48,213,0.7,nd1007,
+J01CA1009,"Amoxicillin",77,1.31,171,0.57,nd1008,http://sideeffects.embl.de/drugs/2171
+J01CA1010,"Ampicillin",26,0.44,36,0.12,nd1008,http://sideeffects.embl.de/drugs/2173
+J01CA1011,"Carbenicillin",25,0.43,1,0.0,nd1008,http://sideeffects.embl.de/drugs/2559
+J01CA1012,"Piperacillin",95,1.62,5,0.02,nd1008,http://sideeffects.embl.de/drugs/4834
+nd1013,"J01CE - Beta-lactamase sensitive penicillins",135,2.3,52,0.17,nd1007,
+J01CE1014,"Benzathine penicillin",90,1.53,2,0.01,nd1013,http://sideeffects.embl.de/drugs/15232
+J01CE1015,"Penicillin",124,2.11,17,0.06,nd1013,http://sideeffects.embl.de/drugs/2349
+J01CE1016,"Penicillin V",19,0.32,32,0.11,nd1013,http://sideeffects.embl.de/drugs/4730
+J01CE1017,"Procaine penicillin",29,0.49,1,0.0,nd1013,http://sideeffects.embl.de/drugs/22502
+nd1018,"J01CF - Beta-lactamase resistant penicillins",101,1.72,35,0.12,nd1007,
+J01CF1019,"Dicloxacillin",68,1.16,17,0.06,nd1018,http://sideeffects.embl.de/drugs/3040
+J01CF1020,"Flucloxacillin",61,1.04,3,0.01,nd1018,http://sideeffects.embl.de/drugs/3364
+J01CF1021,"Oxacillin",39,0.66,15,0.05,nd1018,http://sideeffects.embl.de/drugs/4607
+nd1022,"J01D - OTHER BETA-LACTAM ANTIBACTERIALS",565,9.61,633,2.09,nd994,
+nd1023,"J01DB - First-generation cephalosporins",108,1.84,210,0.69,nd1022,
+J01DB1024,"Cefadroxil",53,0.9,35,0.12,nd1023,http://sideeffects.embl.de/drugs/2610
+J01DB1025,"Cefazolin",75,1.28,70,0.23,nd1023,http://sideeffects.embl.de/drugs/2617
+J01DB1026,"Cephalexin",67,1.14,105,0.35,nd1023,http://sideeffects.embl.de/drugs/2666
+nd1027,"J01DC - Second-generation cephalosporins",196,3.33,154,0.51,nd1022,
+J01DC1028,"Cefaclor",129,2.19,20,0.07,nd1027,http://sideeffects.embl.de/drugs/2609
+J01DC1029,"Cefotetan",36,0.61,14,0.05,nd1027,http://sideeffects.embl.de/drugs/50614
+J01DC1030,"Cefoxitin",57,0.97,21,0.07,nd1027,http://sideeffects.embl.de/drugs/2637
+J01DC1031,"Cefprozil",52,0.88,44,0.15,nd1027,http://sideeffects.embl.de/drugs/2646
+J01DC1032,"Cefuroxime",112,1.9,55,0.18,nd1027,http://sideeffects.embl.de/drugs/2658
+nd1033,"J01DD - Third-generation cephalosporins",309,5.26,198,0.65,nd1022,
+J01DD1034,"Cefdinir",90,1.53,30,0.1,nd1033,http://sideeffects.embl.de/drugs/6398970
+J01DD1035,"Cefditoren",101,1.72,14,0.05,nd1033,http://sideeffects.embl.de/drugs/444006
+J01DD1036,"Cefixime",55,0.94,10,0.03,nd1033,http://sideeffects.embl.de/drugs/2675
+J01DD1037,"Cefotaxime",51,0.87,15,0.05,nd1033,http://sideeffects.embl.de/drugs/2631
+J01DD1038,"Cefpodoxime",161,2.74,10,0.03,nd1033,http://sideeffects.embl.de/drugs/54547
+J01DD1039,"Ceftazidime",80,1.36,30,0.1,nd1033,http://sideeffects.embl.de/drugs/2650
+J01DD1040,"Ceftizoxime",39,0.66,3,0.01,nd1033,http://sideeffects.embl.de/drugs/2655
+J01DD1041,"Ceftriaxone",99,1.68,83,0.27,nd1033,http://sideeffects.embl.de/drugs/2656
+J01DD1042,"Cephem",58,0.99,3,0.01,nd1033,http://sideeffects.embl.de/drugs/2654
+nd1043,"J01DE - Fourth-generation cephalosporins",85,1.45,28,0.09,nd1022,
+J01DE1044,"Cefepime",85,1.45,28,0.09,nd1043,http://sideeffects.embl.de/drugs/2622
+nd1045,"J01DF - Monobactams",77,1.31,20,0.07,nd1022,
+J01DF1046,"Aztreonam",77,1.31,20,0.07,nd1045,http://sideeffects.embl.de/drugs/2274
+nd1047,"J01DH - Carbapenems",327,5.56,23,0.08,nd1022,
+J01DH1048,"Doripenem",33,0.56,3,0.01,nd1047,http://sideeffects.embl.de/drugs/73303
+J01DH1049,"Ertapenem",271,4.61,14,0.05,nd1047,http://sideeffects.embl.de/drugs/150610
+J01DH1050,"Meropenem",131,2.23,6,0.02,nd1047,http://sideeffects.embl.de/drugs/60706
+nd1051,"J01E - SULFONAMIDES AND TRIMETHOPRIM",131,2.23,36,0.12,nd994,
+nd1052,"J01EA - Trimethoprim and derivatives",88,1.5,14,0.05,nd1051,
+J01EA1053,"Trimethoprim",88,1.5,14,0.05,nd1052,http://sideeffects.embl.de/drugs/5578
+nd1054,"J01EB - Short-acting sulfonamides",2,0.03,1,0.0,nd1051,
+J01EB1055,"Sulfonamide",2,0.03,1,0.0,nd1054,http://sideeffects.embl.de/drugs/5333
+nd1056,"J01EC - Intermediate-acting sulfonamides",89,1.51,20,0.07,nd1051,
+J01EC1057,"Sulfadiazine",61,1.04,19,0.06,nd1056,http://sideeffects.embl.de/drugs/5215
+J01EC1058,"Sulfamethoxazole",74,1.26,1,0.0,nd1056,http://sideeffects.embl.de/drugs/5329
+nd1059,"J01EE - Combinations of sulfonamides and trimethoprim, incl. derivatives",77,1.31,1,0.0,nd1051,
+J01EE1060,"Trimethoprim-sulfamethoxazole",77,1.31,1,0.0,nd1059,http://sideeffects.embl.de/drugs/358641
+nd1061,"J01F - MACROLIDES, LINCOSAMIDES AND STREPTOGRAMINS",434,7.38,493,1.63,nd994,
+nd1062,"J01FA - Macrolides",350,5.95,370,1.22,nd1061,
+J01FA1063,"Azithromycin",169,2.87,178,0.59,nd1062,http://sideeffects.embl.de/drugs/2269
+J01FA1064,"Clarithromycin",206,3.5,78,0.26,nd1062,http://sideeffects.embl.de/drugs/54688
+J01FA1065,"Erythromycin",58,0.99,103,0.34,nd1062,http://sideeffects.embl.de/drugs/3255
+J01FA1066,"Roxithromycin",38,0.65,6,0.02,nd1062,http://sideeffects.embl.de/drugs/5106
+J01FA1067,"Telithromycin",138,2.35,5,0.02,nd1062,http://sideeffects.embl.de/drugs/73658
+nd1068,"J01FF - Lincosamides",164,2.79,123,0.41,nd1061,
+J01FF1069,"Clindamycin",145,2.47,118,0.39,nd1068,http://sideeffects.embl.de/drugs/2786
+J01FF1070,"Lincomycin",51,0.87,5,0.02,nd1068,http://sideeffects.embl.de/drugs/3928
+nd1071,"J01G - AMINOGLYCOSIDE ANTIBACTERIALS",215,3.66,129,0.43,nd994,
+nd1072,"J01GA - Streptomycins",23,0.39,2,0.01,nd1071,
+J01GA1073,"Streptomycin",23,0.39,2,0.01,nd1072,http://sideeffects.embl.de/drugs/5297
+nd1074,"J01GB - Other aminoglycosides",210,3.57,127,0.42,nd1071,
+J01GB1075,"Amikacin",26,0.44,4,0.01,nd1074,http://sideeffects.embl.de/drugs/2142
+J01GB1076,"Gentamicin",66,1.12,58,0.19,nd1074,http://sideeffects.embl.de/drugs/3467
+J01GB1077,"Kanamycin",24,0.41,1,0.0,nd1074,http://sideeffects.embl.de/drugs/815
+J01GB1078,"Neomycin",21,0.36,9,0.03,nd1074,http://sideeffects.embl.de/drugs/4454
+J01GB1079,"Tobramycin",158,2.69,55,0.18,nd1074,http://sideeffects.embl.de/drugs/5496
+nd1080,"J01M - QUINOLONE ANTIBACTERIALS",883,15.02,686,2.27,nd994,
+nd1081,"J01MA - Fluoroquinolones",878,14.93,677,2.24,nd1080,
+J01MA1082,"Ciprofloxacin",454,7.72,291,0.96,nd1081,http://sideeffects.embl.de/drugs/2764
+J01MA1083,"Gatifloxacin",163,2.77,35,0.12,nd1081,http://sideeffects.embl.de/drugs/5379
+J01MA1084,"Gemifloxacin",140,2.38,18,0.06,nd1081,http://sideeffects.embl.de/drugs/72938
+J01MA1085,"Lomefloxacin",168,2.86,7,0.02,nd1081,http://sideeffects.embl.de/drugs/3948
+J01MA1086,"Moxifloxacin",396,6.73,58,0.19,nd1081,http://sideeffects.embl.de/drugs/4259
+J01MA1087,"Norfloxacin",152,2.59,10,0.03,nd1081,http://sideeffects.embl.de/drugs/4539
+J01MA1088,"Ofloxacin",435,7.4,254,0.84,nd1081,http://sideeffects.embl.de/drugs/4583
+J01MA1089,"Sparfloxacin",200,3.4,3,0.01,nd1081,http://sideeffects.embl.de/drugs/5257
+J01MA1090,"Trovafloxacin",182,3.1,1,0.0,nd1081,http://sideeffects.embl.de/drugs/62959
+nd1091,"J01MB - Other quinolones",52,0.88,9,0.03,nd1080,
+J01MB1092,"Cinoxacin",26,0.44,3,0.01,nd1091,http://sideeffects.embl.de/drugs/2762
+J01MB1093,"Nalidixic acid",42,0.71,6,0.02,nd1091,http://sideeffects.embl.de/drugs/4421
+nd1094,"J01X - OTHER ANTIBACTERIALS",499,8.49,356,1.18,nd994,
+nd1095,"J01XA - Glycopeptide antibacterials",184,3.13,62,0.2,nd1094,
+J01XA1096,"Dalbavancin",46,0.78,1,0.0,nd1095,http://sideeffects.embl.de/drugs/44567678
+J01XA1097,"Nuvocid",44,0.75,1,0.0,nd1095,http://sideeffects.embl.de/drugs/16129632
+J01XA1098,"Telavancin",120,2.04,4,0.01,nd1095,http://sideeffects.embl.de/drugs/3081362
+J01XA1099,"Vancocine",84,1.43,56,0.19,nd1095,http://sideeffects.embl.de/drugs/5651
+nd1100,"J01XB - Polymyxins",16,0.27,5,0.02,nd1094,
+J01XB1101,"Polymyxin B",16,0.27,5,0.02,nd1100,http://sideeffects.embl.de/drugs/4868
+nd1102,"J01XC - Steroid antibacterials",55,0.94,2,0.01,nd1094,
+J01XC1103,"Fusidic acid",55,0.94,2,0.01,nd1102,http://sideeffects.embl.de/drugs/3443
+nd1104,"J01XD - Imidazole derivatives",239,4.06,165,0.55,nd1094,
+J01XD1105,"Metronidazole",212,3.61,155,0.51,nd1104,http://sideeffects.embl.de/drugs/4173
+J01XD1106,"Tinidazole",80,1.36,10,0.03,nd1104,http://sideeffects.embl.de/drugs/5479
+nd1107,"J01XE - Nitrofuran derivatives",81,1.38,63,0.21,nd1094,
+J01XE1108,"Nitrofurantoin",81,1.38,63,0.21,nd1107,http://sideeffects.embl.de/drugs/4509
+nd1109,"J01XX - Other antibacterials",262,4.46,59,0.2,nd1094,
+J01XX1110,"CAS 1405-87-4",6,0.1,7,0.02,nd1109,http://sideeffects.embl.de/drugs/65281
+J01XX1111,"Fosfomycin",54,0.92,1,0.0,nd1109,http://sideeffects.embl.de/drugs/3417
+J01XX1112,"LY146032",175,2.98,19,0.06,nd1109,http://sideeffects.embl.de/drugs/16129629
+J01XX1113,"Linezolid",116,1.97,22,0.07,nd1109,http://sideeffects.embl.de/drugs/3929
+J01XX1114,"Methenamine silver",9,0.15,9,0.03,nd1109,http://sideeffects.embl.de/drugs/4101
+J01XX1115,"Spectinomycin",12,0.2,1,0.0,nd1109,http://sideeffects.embl.de/drugs/2021
+nd1116,"J02 - ANTIMYCOTICS FOR SYSTEMIC USE",889,15.12,357,1.18,nd993,
+nd1117,"J02A - ANTIMYCOTICS FOR SYSTEMIC USE",889,15.12,357,1.18,nd1116,
+nd1118,"J02AA - Antibiotics",301,5.12,10,0.03,nd1117,
+J02AA1119,"Amphotericin B",301,5.12,10,0.03,nd1118,http://sideeffects.embl.de/drugs/1972
+nd1120,"J02AB - Imidazole derivatives",141,2.4,58,0.19,nd1117,
+J02AB1121,"Ketoconazole",110,1.87,51,0.17,nd1120,http://sideeffects.embl.de/drugs/3823
+J02AB1122,"Miconazole",57,0.97,7,0.02,nd1120,http://sideeffects.embl.de/drugs/4189
+nd1123,"J02AC - Triazole derivatives",661,11.24,234,0.77,nd1117,
+J02AC1124,"Fluconazole",134,2.28,114,0.38,nd1123,http://sideeffects.embl.de/drugs/3365
+J02AC1125,"Itraconazole",199,3.38,29,0.1,nd1123,http://sideeffects.embl.de/drugs/3793
+J02AC1126,"Posaconazole",400,6.8,8,0.03,nd1123,http://sideeffects.embl.de/drugs/147912
+J02AC1127,"Voriconazole",368,6.26,83,0.27,nd1123,http://sideeffects.embl.de/drugs/71616
+nd1128,"J02AX - Other antimycotics for systemic use",357,6.07,55,0.18,nd1117,
+J02AX1129,"5-fluorocytosine",56,0.95,7,0.02,nd1128,http://sideeffects.embl.de/drugs/3366
+J02AX1130,"Anidulafungin",118,2.01,10,0.03,nd1128,http://sideeffects.embl.de/drugs/166548
+J02AX1131,"Cancidas",258,4.39,22,0.07,nd1128,http://sideeffects.embl.de/drugs/123623
+J02AX1132,"FK463",157,2.67,16,0.05,nd1128,http://sideeffects.embl.de/drugs/477468
+nd1133,"J04 - ANTIMYCOBACTERIALS",409,6.96,144,0.48,nd993,
+nd1134,"J04A - DRUGS FOR TREATMENT OF TUBERCULOSIS",372,6.33,133,0.44,nd1133,
+nd1135,"J04AA - Aminosalicylic acid and derivatives",47,0.8,2,0.01,nd1134,
+J04AA1136,"APAs",47,0.8,2,0.01,nd1135,http://sideeffects.embl.de/drugs/4649
+nd1137,"J04AB - Antibiotics",303,5.15,55,0.18,nd1134,
+J04AB1138,"Capreomycin",26,0.44,2,0.01,nd1137,http://sideeffects.embl.de/drugs/2547
+J04AB1139,"D-cycloserine",21,0.36,3,0.01,nd1137,http://sideeffects.embl.de/drugs/401
+J04AB1140,"Rifabutin",72,1.22,10,0.03,nd1137,http://sideeffects.embl.de/drugs/5361912
+J04AB1141,"Rifampicin",93,1.58,39,0.13,nd1137,http://sideeffects.embl.de/drugs/5381226
+J04AB1142,"Rifapentine",185,3.15,1,0.0,nd1137,http://sideeffects.embl.de/drugs/6323497
+nd1143,"J04AC - Hydrazides",42,0.71,39,0.13,nd1134,
+J04AC1144,"Isoniazid",42,0.71,39,0.13,nd1143,http://sideeffects.embl.de/drugs/3767
+nd1145,"J04AD - Thiocarbamide derivatives",33,0.56,2,0.01,nd1134,
+J04AD1146,"Ethionamide",33,0.56,2,0.01,nd1145,http://sideeffects.embl.de/drugs/2761171
+nd1147,"J04AK - Other drugs for treatment of tuberculosis",74,1.26,35,0.12,nd1134,
+J04AK1148,"Ethambutol",52,0.88,29,0.1,nd1147,http://sideeffects.embl.de/drugs/3279
+J04AK1149,"Pyrazinamide",34,0.58,6,0.02,nd1147,http://sideeffects.embl.de/drugs/1046
+nd1150,"J04B - DRUGS FOR TREATMENT OF LEPRA",81,1.38,11,0.04,nd1133,
+nd1151,"J04BA - Drugs for treatment of lepra",81,1.38,11,0.04,nd1150,
+J04BA1152,"Clofazimine",43,0.73,3,0.01,nd1151,http://sideeffects.embl.de/drugs/2794
+J04BA1153,"Dapsone",43,0.73,8,0.03,nd1151,http://sideeffects.embl.de/drugs/2955
+nd1154,"J05 - ANTIVIRALS FOR SYSTEMIC USE",1367,23.25,1084,3.58,nd993,
+nd1155,"J05A - DIRECT ACTING ANTIVIRALS",1367,23.25,1084,3.58,nd1154,
+nd1156,"J05AB - Nucleosides and nucleotides excl. reverse transcriptase inhibitors",713,12.13,377,1.25,nd1155,
+J05AB1157,"Acyclovir",150,2.55,180,0.6,nd1156,http://sideeffects.embl.de/drugs/2022
+J05AB1158,"Adenosine",94,1.6,34,0.11,nd1156,http://sideeffects.embl.de/drugs/191
+J05AB1159,"Cidofovir",250,4.25,4,0.01,nd1156,http://sideeffects.embl.de/drugs/60613
+J05AB1160,"Famciclovir",74,1.26,21,0.07,nd1156,http://sideeffects.embl.de/drugs/3324
+J05AB1161,"Ganciclovir",262,4.46,8,0.03,nd1156,http://sideeffects.embl.de/drugs/3454
+J05AB1162,"IdUrd",5,0.09,1,0.0,nd1156,http://sideeffects.embl.de/drugs/3687
+J05AB1163,"Penciclovir",51,0.87,22,0.07,nd1156,http://sideeffects.embl.de/drugs/4725
+J05AB1164,"Ribavirin",405,6.89,73,0.24,nd1156,http://sideeffects.embl.de/drugs/5064
+J05AB1165,"VACV",113,1.92,28,0.09,nd1156,http://sideeffects.embl.de/drugs/5647
+J05AB1166,"Valganciclovir",192,3.27,6,0.02,nd1156,http://sideeffects.embl.de/drugs/64147
+nd1167,"J05AC - Cyclic amines",53,0.9,7,0.02,nd1155,
+J05AC1168,"Rimantadine",53,0.9,7,0.02,nd1167,http://sideeffects.embl.de/drugs/5071
+nd1169,"J05AD - Phosphonic acid derivatives",152,2.59,4,0.01,nd1155,
+J05AD1170,"Foscarnet",152,2.59,4,0.01,nd1169,http://sideeffects.embl.de/drugs/3414
+nd1171,"J05AE - Protease inhibitors",689,11.72,212,0.7,nd1155,
+J05AE1172,"Amprenavir",61,1.04,11,0.04,nd1171,http://sideeffects.embl.de/drugs/2177
+J05AE1173,"Atazanavir",200,3.4,54,0.18,nd1171,http://sideeffects.embl.de/drugs/148192
+J05AE1174,"Darunavir",258,4.39,8,0.03,nd1171,http://sideeffects.embl.de/drugs/213039
+J05AE1175,"Fosamprenavir",58,0.99,4,0.01,nd1171,http://sideeffects.embl.de/drugs/131535
+J05AE1176,"Indinavir",194,3.3,63,0.21,nd1171,http://sideeffects.embl.de/drugs/3706
+J05AE1177,"Nelfinavir",105,1.79,44,0.15,nd1171,http://sideeffects.embl.de/drugs/4451
+J05AE1178,"Ritonavir",292,4.97,7,0.02,nd1171,http://sideeffects.embl.de/drugs/5076
+J05AE1179,"Saquinavir",337,5.73,11,0.04,nd1171,http://sideeffects.embl.de/drugs/60787
+J05AE1180,"Tipranavir",133,2.26,10,0.03,nd1171,http://sideeffects.embl.de/drugs/163296
+nd1181,"J05AF - Nucleoside and nucleotide reverse transcriptase inhibitors",543,9.23,279,0.92,nd1155,
+J05AF1182,"Abacavir",115,1.96,19,0.06,nd1181,http://sideeffects.embl.de/drugs/1971
+J05AF1183,"Adefovir dipivoxil",56,0.95,8,0.03,nd1181,http://sideeffects.embl.de/drugs/60871
+J05AF1184,"Didanosine",74,1.26,63,0.21,nd1181,http://sideeffects.embl.de/drugs/3043
+J05AF1185,"Emtricitabine",122,2.07,9,0.03,nd1181,http://sideeffects.embl.de/drugs/60877
+J05AF1186,"Entecavir",54,0.92,10,0.03,nd1181,http://sideeffects.embl.de/drugs/153941
+J05AF1187,"Lamivudine",189,3.21,49,0.16,nd1181,http://sideeffects.embl.de/drugs/3877
+J05AF1188,"Stavudine",113,1.92,33,0.11,nd1181,http://sideeffects.embl.de/drugs/5155
+J05AF1189,"Tenofovir disoproxil fumarate",112,1.9,21,0.07,nd1181,http://sideeffects.embl.de/drugs/119830
+J05AF1190,"Thymidine",92,1.56,4,0.01,nd1181,http://sideeffects.embl.de/drugs/1134
+J05AF1191,"Zalcitabine",267,4.54,10,0.03,nd1181,http://sideeffects.embl.de/drugs/5718
+J05AF1192,"Zidovudine",155,2.64,53,0.18,nd1181,http://sideeffects.embl.de/drugs/5726
+nd1193,"J05AG - Non-nucleoside reverse transcriptase inhibitors",422,7.18,123,0.41,nd1155,
+J05AG1194,"Delavirdine",242,4.12,9,0.03,nd1193,http://sideeffects.embl.de/drugs/5625
+J05AG1195,"Efavirenz",226,3.84,71,0.23,nd1193,http://sideeffects.embl.de/drugs/3203
+J05AG1196,"Etravirine",116,1.97,8,0.03,nd1193,http://sideeffects.embl.de/drugs/193962
+J05AG1197,"Nevirapine",98,1.67,35,0.12,nd1193,http://sideeffects.embl.de/drugs/4463
+nd1198,"J05AH - Neuraminidase inhibitors",127,2.16,45,0.15,nd1155,
+J05AH1199,"Oseltamivir",108,1.84,40,0.13,nd1198,http://sideeffects.embl.de/drugs/4603
+J05AH1200,"Zanamivir",57,0.97,5,0.02,nd1198,http://sideeffects.embl.de/drugs/5721
+nd1201,"J05AX - Other antivirals",444,7.55,37,0.12,nd1155,
+J05AX1202,"Enfuvirtide",129,2.19,14,0.05,nd1201,http://sideeffects.embl.de/drugs/16130199
+J05AX1203,"Maraviroc",244,4.15,12,0.04,nd1201,http://sideeffects.embl.de/drugs/483407
+J05AX1204,"Raltegravir",246,4.18,11,0.04,nd1201,http://sideeffects.embl.de/drugs/23668479
+nd1205,"L - ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS",2780,47.28,1876,6.2,null,
+nd1206,"L01 - ANTINEOPLASTIC AGENTS",2266,38.54,1175,3.88,nd1205,
+nd1207,"L01A - ALKYLATING AGENTS",753,12.81,136,0.45,nd1206,
+nd1208,"L01AA - Nitrogen mustard analogues",504,8.57,49,0.16,nd1207,
+L01AA1209,"Bendamustine",108,1.84,3,0.01,nd1208,http://sideeffects.embl.de/drugs/65628
+L01AA1210,"Chlorambucil",68,1.16,6,0.02,nd1208,http://sideeffects.embl.de/drugs/2708
+L01AA1211,"Cyclophosphamide",290,4.93,15,0.05,nd1208,http://sideeffects.embl.de/drugs/2907
+L01AA1212,"Ifosfamide",286,4.86,10,0.03,nd1208,http://sideeffects.embl.de/drugs/3690
+L01AA1213,"Melphalan",97,1.65,8,0.03,nd1208,http://sideeffects.embl.de/drugs/4053
+L01AA1214,"Nitrogen mustard",44,0.75,7,0.02,nd1208,http://sideeffects.embl.de/drugs/4033
+nd1215,"L01AB - Alkyl sulfonates",225,3.83,20,0.07,nd1207,
+L01AB1216,"Busulfan",225,3.83,20,0.07,nd1215,http://sideeffects.embl.de/drugs/2478
+nd1217,"L01AC - Ethylene imines",170,2.89,2,0.01,nd1207,
+L01AC1218,"Thiotepa",170,2.89,2,0.01,nd1217,http://sideeffects.embl.de/drugs/5453
+nd1219,"L01AD - Nitrosoureas",208,3.54,18,0.06,nd1207,
+L01AD1220,"BCNU",158,2.69,9,0.03,nd1219,http://sideeffects.embl.de/drugs/2578
+L01AD1221,"Fotemustine",30,0.51,1,0.0,nd1219,http://sideeffects.embl.de/drugs/104799
+L01AD1222,"Lomustine",35,0.6,5,0.02,nd1219,http://sideeffects.embl.de/drugs/3950
+L01AD1223,"Streptozotocin",50,0.85,3,0.01,nd1219,http://sideeffects.embl.de/drugs/5300
+nd1224,"L01AX - Other alkylating agents",236,4.01,47,0.16,nd1207,
+L01AX1225,"Dacarbazine",50,0.85,5,0.02,nd1224,http://sideeffects.embl.de/drugs/5281007
+L01AX1226,"Temozolomide",214,3.64,42,0.14,nd1224,http://sideeffects.embl.de/drugs/5394
+nd1227,"L01B - ANTIMETABOLITES",951,16.17,271,0.9,nd1206,
+nd1228,"L01BA - Folic acid analogues",341,5.8,81,0.27,nd1227,
+L01BA1229,"Methotrexate",272,4.63,63,0.21,nd1228,http://sideeffects.embl.de/drugs/4112
+L01BA1230,"Pemetrexed",106,1.8,16,0.05,nd1228,http://sideeffects.embl.de/drugs/60843
+L01BA1231,"Pralatrexate",36,0.61,1,0.0,nd1228,http://sideeffects.embl.de/drugs/148121
+L01BA1232,"Raltitrexed",46,0.78,1,0.0,nd1228,http://sideeffects.embl.de/drugs/104758
+nd1233,"L01BB - Purine analogues",401,6.82,41,0.14,nd1227,
+L01BB1234,"6-mercaptopurine",47,0.8,12,0.04,nd1233,http://sideeffects.embl.de/drugs/667490
+L01BB1235,"6-thioguanine",27,0.46,2,0.01,nd1233,http://sideeffects.embl.de/drugs/2723601
+L01BB1236,"Cladribine",173,2.94,9,0.03,nd1233,http://sideeffects.embl.de/drugs/1546
+L01BB1237,"Clofarabine",166,2.82,3,0.01,nd1233,http://sideeffects.embl.de/drugs/119182
+L01BB1238,"Fludarabine",144,2.45,13,0.04,nd1233,http://sideeffects.embl.de/drugs/3367
+L01BB1239,"Nelarabine",140,2.38,2,0.01,nd1233,http://sideeffects.embl.de/drugs/96312
+nd1240,"L01BC - Pyrimidine analogues",723,12.3,149,0.49,nd1227,
+L01BC1241,"5-aza-2'-deoxycytidine",198,3.37,7,0.02,nd1240,http://sideeffects.embl.de/drugs/16886
+L01BC1242,"5-FU",143,2.43,39,0.13,nd1240,http://sideeffects.embl.de/drugs/3385
+L01BC1243,"5-azacytidine",207,3.52,11,0.04,nd1240,http://sideeffects.embl.de/drugs/1805
+L01BC1244,"Capecitabine",427,7.26,35,0.12,nd1240,http://sideeffects.embl.de/drugs/60953
+L01BC1245,"Cytarabine",202,3.44,18,0.06,nd1240,http://sideeffects.embl.de/drugs/596
+L01BC1246,"Gemcitabine",159,2.7,39,0.13,nd1240,http://sideeffects.embl.de/drugs/3461
+nd1247,"L01C - PLANT ALKALOIDS AND OTHER NATURAL PRODUCTS",693,11.79,99,0.33,nd1206,
+nd1248,"L01CA - Vinca alkaloids and analogues",400,6.8,23,0.08,nd1247,
+L01CA1249,"Vinblastine",48,0.82,3,0.01,nd1248,http://sideeffects.embl.de/drugs/13342
+L01CA1250,"Vincristine",125,2.13,4,0.01,nd1248,http://sideeffects.embl.de/drugs/5978
+L01CA1251,"Vinflunine",278,4.73,2,0.01,nd1248,http://sideeffects.embl.de/drugs/157688
+L01CA1252,"Vinorelbine",149,2.53,14,0.05,nd1248,http://sideeffects.embl.de/drugs/5672
+nd1253,"L01CB - Podophyllotoxin derivatives",149,2.53,16,0.05,nd1247,
+L01CB1254,"Etoposide",128,2.18,12,0.04,nd1253,http://sideeffects.embl.de/drugs/3310
+L01CB1255,"Teniposide",59,1.0,4,0.01,nd1253,http://sideeffects.embl.de/drugs/5396
+nd1256,"L01CD - Taxanes",493,8.38,59,0.2,nd1247,
+L01CD1257,"Docetaxel",268,4.56,38,0.13,nd1256,http://sideeffects.embl.de/drugs/3143
+L01CD1258,"Paclitaxel",409,6.96,21,0.07,nd1256,http://sideeffects.embl.de/drugs/4666
+nd1259,"L01CX - Other plant alkaloids and natural products",87,1.48,1,0.0,nd1247,
+L01CX1260,"Trabectedin",87,1.48,1,0.0,nd1259,http://sideeffects.embl.de/drugs/3199
+nd1261,"L01D - CYTOTOXIC ANTIBIOTICS AND RELATED SUBSTANCES",638,10.85,125,0.41,nd1206,
+nd1262,"L01DA - Actinomycines",65,1.11,3,0.01,nd1261,
+L01DA1263,"Actinomycin D",65,1.11,3,0.01,nd1262,http://sideeffects.embl.de/drugs/2019
+nd1264,"L01DB - Anthracyclines and related substances",552,9.39,104,0.34,nd1261,
+L01DB1265,"Anthracycline",147,2.5,6,0.02,nd1264,http://sideeffects.embl.de/drugs/2958
+L01DB1266,"Doxorubicin",458,7.79,71,0.23,nd1264,http://sideeffects.embl.de/drugs/1690
+L01DB1267,"Idarubicin",82,1.39,14,0.05,nd1264,http://sideeffects.embl.de/drugs/3685
+L01DB1268,"Mitoxantrone",151,2.57,11,0.04,nd1264,http://sideeffects.embl.de/drugs/4212
+L01DB1269,"Valrubicin",40,0.68,2,0.01,nd1264,http://sideeffects.embl.de/drugs/41744
+nd1270,"L01DC - Other cytotoxic antibiotics",211,3.59,18,0.06,nd1261,
+L01DC1271,"Bleomycin hydrochloride",86,1.46,10,0.03,nd1270,http://sideeffects.embl.de/drugs/72466
+L01DC1272,"Ixabepilone",135,2.3,3,0.01,nd1270,http://sideeffects.embl.de/drugs/6445540
+L01DC1273,"Mitomycin C",52,0.88,5,0.02,nd1270,http://sideeffects.embl.de/drugs/5746
+nd1274,"L01X - OTHER ANTINEOPLASTIC AGENTS",1667,28.35,544,1.8,nd1206,
+nd1275,"L01XA - Platinum compounds",362,6.16,46,0.15,nd1274,
+L01XA1276,"Carboplatin",103,1.75,10,0.03,nd1275,http://sideeffects.embl.de/drugs/38904
+L01XA1277,"Cisplatin",136,2.31,10,0.03,nd1275,http://sideeffects.embl.de/drugs/2767
+L01XA1278,"Oxaliplatin",267,4.54,26,0.09,nd1275,http://sideeffects.embl.de/drugs/4609
+nd1279,"L01XB - Methylhydrazines",112,1.9,3,0.01,nd1274,
+L01XB1280,"Procarbazine",112,1.9,3,0.01,nd1279,http://sideeffects.embl.de/drugs/4915
+nd1281,"L01XC - Monoclonal antibodies",85,1.45,2,0.01,nd1274,
+L01XC1282,"Ofatumumab",85,1.45,2,0.01,nd1281,http://sideeffects.embl.de/drugs/5488383
+nd1283,"L01XD - Sensitizers used in photodynamic/radiation therapy",271,4.61,18,0.06,nd1274,
+L01XD1284,"5-aminolevulinic acid",83,1.41,11,0.04,nd1283,http://sideeffects.embl.de/drugs/137
+L01XD1285,"MTHPC",44,0.75,1,0.0,nd1283,http://sideeffects.embl.de/drugs/60751
+L01XD1286,"Methyl aminolevulinate",52,0.88,5,0.02,nd1283,http://sideeffects.embl.de/drugs/157921
+L01XD1287,"Photofrin II",178,3.03,1,0.0,nd1283,http://sideeffects.embl.de/drugs/3086257
+nd1288,"L01XE - Protein kinase inhibitors",920,15.65,125,0.41,nd1274,
+L01XE1289,"Dasatinib",271,4.61,17,0.06,nd1288,http://sideeffects.embl.de/drugs/3062316
+L01XE1290,"Erlotinib",134,2.28,21,0.07,nd1288,http://sideeffects.embl.de/drugs/176870
+L01XE1291,"Everolimus",375,6.38,7,0.02,nd1288,http://sideeffects.embl.de/drugs/6442177
+L01XE1292,"Gefitinib",114,1.94,5,0.02,nd1288,http://sideeffects.embl.de/drugs/123631
+L01XE1293,"Imatinib",331,5.63,51,0.17,nd1288,http://sideeffects.embl.de/drugs/5291
+L01XE1294,"Lapatinib",67,1.14,3,0.01,nd1288,http://sideeffects.embl.de/drugs/208908
+L01XE1295,"Nilotinib",333,5.66,6,0.02,nd1288,http://sideeffects.embl.de/drugs/644241
+L01XE1296,"Pazopanib",210,3.57,3,0.01,nd1288,http://sideeffects.embl.de/drugs/10113978
+L01XE1297,"Sorafenib",175,2.98,4,0.01,nd1288,http://sideeffects.embl.de/drugs/216239
+L01XE1298,"Sunitinib",305,5.19,5,0.02,nd1288,http://sideeffects.embl.de/drugs/3086686
+L01XE1299,"Temsirolimus",181,3.08,3,0.01,nd1288,http://sideeffects.embl.de/drugs/148191
+nd1300,"L01XX - Other antineoplastic agents",1137,19.34,350,1.16,nd1274,
+L01XX1301,"Amsacrine",94,1.6,2,0.01,nd1300,http://sideeffects.embl.de/drugs/2179
+L01XX1302,"Anagrelide",157,2.67,19,0.06,nd1300,http://sideeffects.embl.de/drugs/2182
+L01XX1303,"Arsenic trioxide",165,2.81,2,0.01,nd1300,http://sideeffects.embl.de/drugs/14888
+L01XX1304,"Bexarotene",245,4.17,11,0.04,nd1300,http://sideeffects.embl.de/drugs/82146
+L01XX1305,"Bortezomib",573,9.74,12,0.04,nd1300,http://sideeffects.embl.de/drugs/93860
+L01XX1306,"Celecoxib",308,5.24,82,0.27,nd1300,http://sideeffects.embl.de/drugs/2662
+L01XX1307,"Estramustine",50,0.85,2,0.01,nd1300,http://sideeffects.embl.de/drugs/18140
+L01XX1308,"Hexamethylmelamine",21,0.36,2,0.01,nd1300,http://sideeffects.embl.de/drugs/2123
+L01XX1309,"Hydroxyurea",110,1.87,21,0.07,nd1300,http://sideeffects.embl.de/drugs/3657
+L01XX1310,"Irinotecan",148,2.52,46,0.15,nd1300,http://sideeffects.embl.de/drugs/3750
+L01XX1311,"Mitotane",102,1.73,5,0.02,nd1300,http://sideeffects.embl.de/drugs/4211
+L01XX1312,"Pentostatin",153,2.6,1,0.0,nd1300,http://sideeffects.embl.de/drugs/4739
+L01XX1313,"Retinoic acid",399,6.79,112,0.37,nd1300,http://sideeffects.embl.de/drugs/5538
+L01XX1314,"Romidepsin",73,1.24,2,0.01,nd1300,http://sideeffects.embl.de/drugs/3425
+L01XX1315,"Topotecan",99,1.68,28,0.09,nd1300,http://sideeffects.embl.de/drugs/5515
+L01XX1316,"Vorinostat",60,1.02,3,0.01,nd1300,http://sideeffects.embl.de/drugs/5311
+nd1317,"L02 - ENDOCRINE THERAPY",854,14.52,395,1.31,nd1205,
+nd1318,"L02A - HORMONES AND RELATED AGENTS",691,11.75,212,0.7,nd1317,
+nd1319,"L02AA - Estrogens",404,6.87,131,0.43,nd1318,
+L02AA1320,"Estradiol",404,6.87,131,0.43,nd1319,http://sideeffects.embl.de/drugs/450
+nd1321,"L02AB - Progestogens",210,3.57,62,0.2,nd1318,
+L02AB1322,"Medroxyprogesterone",168,2.86,34,0.11,nd1321,http://sideeffects.embl.de/drugs/10631
+L02AB1323,"Megestrol",76,1.29,28,0.09,nd1321,http://sideeffects.embl.de/drugs/19090
+nd1324,"L02AE - Gonadotropin releasing hormone analogues",455,7.74,19,0.06,nd1318,
+L02AE1325,"Goserelin",213,3.62,6,0.02,nd1324,http://sideeffects.embl.de/drugs/47725
+L02AE1326,"Leuprorelin",258,4.39,7,0.02,nd1324,http://sideeffects.embl.de/drugs/3911
+L02AE1327,"Supremon",161,2.74,3,0.01,nd1324,http://sideeffects.embl.de/drugs/42615
+L02AE1328,"Triptorelin",172,2.93,3,0.01,nd1324,http://sideeffects.embl.de/drugs/25074470
+nd1329,"L02B - HORMONE ANTAGONISTS AND RELATED AGENTS",467,7.94,183,0.6,nd1317,
+nd1330,"L02BA - Anti-estrogens",245,4.17,38,0.13,nd1329,
+L02BA1331,"ICI 182,780",74,1.26,3,0.01,nd1330,http://sideeffects.embl.de/drugs/104741
+L02BA1332,"Tamoxifen",187,3.18,31,0.1,nd1330,http://sideeffects.embl.de/drugs/5376
+L02BA1333,"Toremifene",82,1.39,4,0.01,nd1330,http://sideeffects.embl.de/drugs/5516
+nd1334,"L02BB - Anti-androgens",219,3.72,48,0.16,nd1329,
+L02BB1335,"Bicalutamide",175,2.98,38,0.13,nd1334,http://sideeffects.embl.de/drugs/2375
+L02BB1336,"Flutamide",71,1.21,8,0.03,nd1334,http://sideeffects.embl.de/drugs/3397
+L02BB1337,"Nilutamide",71,1.21,2,0.01,nd1334,http://sideeffects.embl.de/drugs/4493
+nd1338,"L02BG - Aromatase inhibitors",249,4.23,93,0.31,nd1329,
+L02BG1339,"Aminoglutethimide",30,0.51,1,0.0,nd1338,http://sideeffects.embl.de/drugs/2145
+L02BG1340,"Anastrozole",143,2.43,43,0.14,nd1338,http://sideeffects.embl.de/drugs/2187
+L02BG1341,"Exemestane",109,1.85,14,0.05,nd1338,http://sideeffects.embl.de/drugs/60198
+L02BG1342,"Letrozole",152,2.59,35,0.12,nd1338,http://sideeffects.embl.de/drugs/3902
+nd1343,"L02BX - Other hormone antagonists and related agents",108,1.84,4,0.01,nd1329,
+L02BX1344,"Abarelix",21,0.36,1,0.0,nd1343,http://sideeffects.embl.de/drugs/16131215
+L02BX1345,"Degarelix",102,1.73,3,0.01,nd1343,http://sideeffects.embl.de/drugs/16136245
+nd1346,"L03 - IMMUNOSTIMULANTS",655,11.14,21,0.07,nd1205,
+nd1347,"L03A - IMMUNOSTIMULANTS",655,11.14,21,0.07,nd1346,
+nd1348,"L03AA - Colony stimulating factors",5,0.09,1,0.0,nd1347,
+L03AA1349,"Gamma-aminobutyric acid",5,0.09,1,0.0,nd1348,http://sideeffects.embl.de/drugs/119
+nd1350,"L03AB - Interferons",478,8.13,7,0.02,nd1347,
+L03AB1351,"K779",478,8.13,7,0.02,nd1350,http://sideeffects.embl.de/drugs/71306834
+nd1352,"L03AX - Other immunostimulants",417,7.09,13,0.04,nd1347,
+L03AX1353,"AMD3100",48,0.82,3,0.01,nd1352,http://sideeffects.embl.de/drugs/65014
+L03AX1354,"CGP 19835A",132,2.24,1,0.0,nd1352,http://sideeffects.embl.de/drugs/5479141
+L03AX1355,"Copolymer 1",340,5.78,6,0.02,nd1352,http://sideeffects.embl.de/drugs/3081884
+L03AX1356,"Histamine",95,1.62,3,0.01,nd1352,http://sideeffects.embl.de/drugs/774
+nd1357,"L04 - IMMUNOSUPPRESSANTS",1287,21.89,355,1.17,nd1205,
+nd1358,"L04A - IMMUNOSUPPRESSANTS",1287,21.89,355,1.17,nd1357,
+nd1359,"L04AA - Selective immunosuppressants",715,12.16,111,0.37,nd1358,
+L04AA1360,"Everolimus",375,6.38,7,0.02,nd1359,http://sideeffects.embl.de/drugs/6442177
+L04AA1361,"Ge-132",175,2.98,1,0.0,nd1359,http://sideeffects.embl.de/drugs/83030
+L04AA1362,"Leflunomide",211,3.59,42,0.14,nd1359,http://sideeffects.embl.de/drugs/3899
+L04AA1363,"Mycophenolic acid",352,5.99,33,0.11,nd1359,http://sideeffects.embl.de/drugs/4272
+L04AA1364,"Rapamycin",283,4.81,28,0.09,nd1359,http://sideeffects.embl.de/drugs/5040
+nd1365,"L04AC - Interleukin inhibitors",65,1.11,3,0.01,nd1358,
+L04AC1366,"Ustekinumab",65,1.11,3,0.01,nd1365,http://sideeffects.embl.de/drugs/121749
+nd1367,"L04AD - Calcineurin inhibitors",639,10.87,115,0.38,nd1358,
+L04AD1368,"Tacrolimus",528,8.98,59,0.2,nd1367,http://sideeffects.embl.de/drugs/5372
+L04AD1369,"V 1784",297,5.05,56,0.19,nd1367,http://sideeffects.embl.de/drugs/2909
+nd1370,"L04AX - Other immunosuppressants",765,13.01,126,0.42,nd1358,
+L04AX1371,"Azathioprine",83,1.41,22,0.07,nd1370,http://sideeffects.embl.de/drugs/2265
+L04AX1372,"Lenalidomide",460,7.82,9,0.03,nd1370,http://sideeffects.embl.de/drugs/216326
+L04AX1373,"Methotrexate",272,4.63,63,0.21,nd1370,http://sideeffects.embl.de/drugs/4112
+L04AX1374,"Thalidomide",348,5.92,32,0.11,nd1370,http://sideeffects.embl.de/drugs/5426
+nd1375,"M - MUSCULO-SKELETAL SYSTEM",1402,23.84,2102,6.95,null,
+nd1376,"M01 - ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS",1079,18.35,1213,4.01,nd1375,
+nd1377,"M01A - ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS, NON-STEROIDS",1040,17.69,1195,3.95,nd1376,
+nd1378,"M01AA - Butylpyrazolidines",285,4.85,38,0.13,nd1377,
+M01AA1379,"Rabeprazole",285,4.85,38,0.13,nd1378,http://sideeffects.embl.de/drugs/5029
+nd1380,"M01AB - Acetic acid derivatives and related substances",501,8.52,400,1.32,nd1377,
+M01AB1381,"Diclofenac",367,6.24,165,0.55,nd1380,http://sideeffects.embl.de/drugs/3032
+M01AB1382,"Etodolac",153,2.6,54,0.18,nd1380,http://sideeffects.embl.de/drugs/3308
+M01AB1383,"Indomethacin",171,2.91,70,0.23,nd1380,http://sideeffects.embl.de/drugs/3715
+M01AB1384,"Ketorolac",174,2.96,79,0.26,nd1380,http://sideeffects.embl.de/drugs/3826
+M01AB1385,"Sulindac",119,2.02,27,0.09,nd1380,http://sideeffects.embl.de/drugs/5352
+M01AB1386,"Tolmetin",45,0.77,5,0.02,nd1380,http://sideeffects.embl.de/drugs/5508
+nd1387,"M01AC - Oxicams",269,4.57,150,0.5,nd1377,
+M01AC1388,"Meloxicam",207,3.52,120,0.4,nd1387,http://sideeffects.embl.de/drugs/4051
+M01AC1389,"Piroxicam",142,2.41,29,0.1,nd1387,http://sideeffects.embl.de/drugs/23690938
+M01AC1390,"Tenoxicam",60,1.02,1,0.0,nd1387,http://sideeffects.embl.de/drugs/51508717
+nd1391,"M01AE - Propionic acid derivatives",522,8.88,433,1.43,nd1377,
+M01AE1392,"Fenoprofen",81,1.38,6,0.02,nd1391,http://sideeffects.embl.de/drugs/3342
+M01AE1393,"Flurbiprofen",211,3.59,19,0.06,nd1391,http://sideeffects.embl.de/drugs/3394
+M01AE1394,"Ibuprofen",282,4.8,166,0.55,nd1391,http://sideeffects.embl.de/drugs/3672
+M01AE1395,"Ketoprofen",133,2.26,23,0.08,nd1391,http://sideeffects.embl.de/drugs/3825
+M01AE1396,"Naproxen",302,5.14,188,0.62,nd1391,http://sideeffects.embl.de/drugs/1301
+M01AE1397,"Oxaprozin",115,1.96,29,0.1,nd1391,http://sideeffects.embl.de/drugs/4614
+M01AE1398,"Suprofen",11,0.19,1,0.0,nd1391,http://sideeffects.embl.de/drugs/5359
+M01AE1399,"Tiaprofenic acid",77,1.31,1,0.0,nd1391,http://sideeffects.embl.de/drugs/5468
+nd1400,"M01AG - Fenamates",139,2.36,9,0.03,nd1377,
+M01AG1401,"Meclofenamate",43,0.73,1,0.0,nd1400,http://sideeffects.embl.de/drugs/4036
+M01AG1402,"Mefenamic acid",127,2.16,8,0.03,nd1400,http://sideeffects.embl.de/drugs/4044
+nd1403,"M01AH - Coxibs",548,9.32,118,0.39,nd1377,
+M01AH1404,"Celecoxib",308,5.24,82,0.27,nd1403,http://sideeffects.embl.de/drugs/2662
+M01AH1405,"Etoricoxib",206,3.5,1,0.0,nd1403,http://sideeffects.embl.de/drugs/123619
+M01AH1406,"Parecoxib",84,1.43,1,0.0,nd1403,http://sideeffects.embl.de/drugs/119828
+M01AH1407,"Rofecoxib",194,3.3,26,0.09,nd1403,http://sideeffects.embl.de/drugs/5090
+M01AH1408,"Valdecoxib",266,4.52,8,0.03,nd1403,http://sideeffects.embl.de/drugs/119607
+nd1409,"M01AX - Other antiinflammatory and antirheumatic agents, non-steroids",111,1.89,47,0.16,nd1377,
+M01AX1410,"Benzydamine",9,0.15,1,0.0,nd1409,http://sideeffects.embl.de/drugs/12555
+M01AX1411,"Nabumetone",106,1.8,46,0.15,nd1409,http://sideeffects.embl.de/drugs/4409
+nd1412,"M01C - SPECIFIC ANTIRHEUMATIC AGENTS",161,2.74,18,0.06,nd1376,
+nd1413,"M01CB - Gold preparations",84,1.43,7,0.02,nd1412,
+M01CB1414,"Auranofin",44,0.75,2,0.01,nd1413,http://sideeffects.embl.de/drugs/6333887
+M01CB1415,"Gold sodium thiomalate",63,1.07,5,0.02,nd1413,http://sideeffects.embl.de/drugs/22318
+nd1416,"M01CC - Penicillamine and similar agents",105,1.79,11,0.04,nd1412,
+M01CC1417,"D-penicillamine",105,1.79,11,0.04,nd1416,http://sideeffects.embl.de/drugs/4727
+nd1418,"M02 - TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN",750,12.76,709,2.34,nd1375,
+nd1419,"M02A - TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN",750,12.76,709,2.34,nd1418,
+nd1420,"M02AA - Antiinflammatory preparations, non-steroids for topical use",733,12.47,705,2.33,nd1419,
+M02AA1421,"Benzydamine",9,0.15,1,0.0,nd1420,http://sideeffects.embl.de/drugs/12555
+M02AA1422,"Diclofenac",367,6.24,165,0.55,nd1420,http://sideeffects.embl.de/drugs/3032
+M02AA1423,"Flurbiprofen",211,3.59,19,0.06,nd1420,http://sideeffects.embl.de/drugs/3394
+M02AA1424,"Ibuprofen",282,4.8,166,0.55,nd1420,http://sideeffects.embl.de/drugs/3672
+M02AA1425,"Indomethacin",171,2.91,70,0.23,nd1420,http://sideeffects.embl.de/drugs/3715
+M02AA1426,"Ketoprofen",133,2.26,23,0.08,nd1420,http://sideeffects.embl.de/drugs/3825
+M02AA1427,"Meclofenamate",43,0.73,1,0.0,nd1420,http://sideeffects.embl.de/drugs/4036
+M02AA1428,"Naproxen",302,5.14,188,0.62,nd1420,http://sideeffects.embl.de/drugs/1301
+M02AA1429,"Piroxicam",142,2.41,29,0.1,nd1420,http://sideeffects.embl.de/drugs/23690938
+M02AA1430,"Rabeprazole",285,4.85,38,0.13,nd1420,http://sideeffects.embl.de/drugs/5029
+M02AA1431,"Tolmetin",45,0.77,5,0.02,nd1420,http://sideeffects.embl.de/drugs/5508
+nd1432,"M02AB - Capsaicin and similar agents",61,1.04,3,0.01,nd1419,
+M02AB1433,"Capsaicin",61,1.04,3,0.01,nd1432,http://sideeffects.embl.de/drugs/2548
+nd1434,"M02AX - Other topical products for joint and muscular pain",2,0.03,1,0.0,nd1419,
+M02AX1435,"DMSO",2,0.03,1,0.0,nd1434,http://sideeffects.embl.de/drugs/679
+nd1436,"M03 - MUSCLE RELAXANTS",440,7.48,478,1.58,nd1375,
+nd1437,"M03A - MUSCLE RELAXANTS, PERIPHERALLY ACTING AGENTS",96,1.63,48,0.16,nd1436,
+nd1438,"M03AB - Choline derivatives",37,0.63,5,0.02,nd1437,
+M03AB1439,"Succinylcholine",37,0.63,5,0.02,nd1438,http://sideeffects.embl.de/drugs/5314
+nd1440,"M03AC - Other quaternary ammonium compounds",76,1.29,43,0.14,nd1437,
+M03AC1441,"Atracurium",31,0.53,5,0.02,nd1440,http://sideeffects.embl.de/drugs/47319
+M03AC1442,"Cisatracurium",26,0.44,7,0.02,nd1440,http://sideeffects.embl.de/drugs/47320
+M03AC1443,"Mivacurium",23,0.39,2,0.01,nd1440,http://sideeffects.embl.de/drugs/71316
+M03AC1444,"Pancuronium",18,0.31,4,0.01,nd1440,http://sideeffects.embl.de/drugs/4675
+M03AC1445,"Rocuronium",28,0.48,10,0.03,nd1440,http://sideeffects.embl.de/drugs/60695
+M03AC1446,"Vecuronium",40,0.68,15,0.05,nd1440,http://sideeffects.embl.de/drugs/39764
+nd1447,"M03B - MUSCLE RELAXANTS, CENTRALLY ACTING AGENTS",369,6.28,414,1.37,nd1436,
+nd1448,"M03BA - Carbamic acid esters",50,0.85,129,0.43,nd1447,
+M03BA1449,"Carisoprodol",24,0.41,54,0.18,nd1448,http://sideeffects.embl.de/drugs/2576
+M03BA1450,"Methocarbamol",37,0.63,75,0.25,nd1448,http://sideeffects.embl.de/drugs/4107
+nd1451,"M03BB - Oxazol, thiazine, and triazine derivatives",12,0.2,18,0.06,nd1447,
+M03BB1452,"Chlorzoxazone",12,0.2,18,0.06,nd1451,http://sideeffects.embl.de/drugs/2733
+nd1453,"M03BC - Ethers, chemically close to antihistamines",24,0.41,28,0.09,nd1447,
+M03BC1454,"Orphenadrine",24,0.41,28,0.09,nd1453,http://sideeffects.embl.de/drugs/4601
+nd1455,"M03BX - Other centrally acting agents",352,5.99,239,0.79,nd1447,
+M03BX1456,"Baclofen",199,3.38,59,0.2,nd1455,http://sideeffects.embl.de/drugs/2284
+M03BX1457,"Cyclobenzaprine",120,2.04,111,0.37,nd1455,http://sideeffects.embl.de/drugs/2895
+M03BX1458,"Tizanidine",198,3.37,69,0.23,nd1455,http://sideeffects.embl.de/drugs/5487
+nd1459,"M03C - MUSCLE RELAXANTS, DIRECTLY ACTING AGENTS",89,1.51,16,0.05,nd1436,
+nd1460,"M03CA - Dantrolene and derivatives",89,1.51,16,0.05,nd1459,
+M03CA1461,"Dantrolene",89,1.51,16,0.05,nd1460,http://sideeffects.embl.de/drugs/2951
+nd1462,"M04 - ANTIGOUT PREPARATIONS",407,6.92,91,0.3,nd1375,
+nd1463,"M04A - ANTIGOUT PREPARATIONS",407,6.92,91,0.3,nd1462,
+nd1464,"M04AA - Preparations inhibiting uric acid production",363,6.17,68,0.22,nd1463,
+M04AA1465,"Allopurinol",218,3.71,63,0.21,nd1464,http://sideeffects.embl.de/drugs/2094
+M04AA1466,"Febuxostat",227,3.86,5,0.02,nd1464,http://sideeffects.embl.de/drugs/134018
+nd1467,"M04AB - Preparations increasing uric acid excretion",26,0.44,9,0.03,nd1463,
+M04AB1468,"Probenecid",26,0.44,9,0.03,nd1467,http://sideeffects.embl.de/drugs/4911
+nd1469,"M04AC - Preparations with no effect on uric acid metabolism",74,1.26,9,0.03,nd1463,
+M04AC1470,"Colchicine",74,1.26,9,0.03,nd1469,http://sideeffects.embl.de/drugs/2833
+nd1471,"M04AX - Other antigout preparations",55,0.94,5,0.02,nd1463,
+M04AX1472,"Rasburicase",55,0.94,5,0.02,nd1471,http://sideeffects.embl.de/drugs/102258
+nd1473,"M05 - DRUGS FOR TREATMENT OF BONE DISEASES",421,7.16,316,1.04,nd1375,
+nd1474,"M05B - DRUGS AFFECTING BONE STRUCTURE AND MINERALIZATION",421,7.16,316,1.04,nd1473,
+nd1475,"M05BA - Bisphosphonates",409,6.96,312,1.03,nd1474,
+M05BA1476,"Alendronate",79,1.34,122,0.4,nd1475,http://sideeffects.embl.de/drugs/2088
+M05BA1477,"Clodronate",54,0.92,4,0.01,nd1475,http://sideeffects.embl.de/drugs/25419
+M05BA1478,"Etidronate",53,0.9,13,0.04,nd1475,http://sideeffects.embl.de/drugs/3305
+M05BA1479,"Ibandronate",175,2.98,28,0.09,nd1475,http://sideeffects.embl.de/drugs/60852
+M05BA1480,"Pamidronate",157,2.67,32,0.11,nd1475,http://sideeffects.embl.de/drugs/4673
+M05BA1481,"Risedronate",146,2.48,47,0.16,nd1475,http://sideeffects.embl.de/drugs/5245
+M05BA1482,"Tiludronate",16,0.27,1,0.0,nd1475,http://sideeffects.embl.de/drugs/60936
+M05BA1483,"Zoledronic acid",213,3.62,65,0.21,nd1475,http://sideeffects.embl.de/drugs/68740
+nd1484,"M05BX - Other drugs affecting bone structure and mineralization",63,1.07,4,0.01,nd1474,
+M05BX1485,"Strontium ranelate",63,1.07,4,0.01,nd1484,http://sideeffects.embl.de/drugs/6918182
+nd1486,"N - NERVOUS SYSTEM",3153,53.62,7820,25.85,null,
+nd1487,"N01 - ANESTHETICS",851,14.47,473,1.56,nd1486,
+nd1488,"N01A - ANESTHETICS, GENERAL",692,11.77,204,0.67,nd1487,
+nd1489,"N01AB - Halogenated hydrocarbons",189,3.21,27,0.09,nd1488,
+N01AB1490,"Desflurane",113,1.92,5,0.02,nd1489,http://sideeffects.embl.de/drugs/42113
+N01AB1491,"Enflurane",14,0.24,1,0.0,nd1489,http://sideeffects.embl.de/drugs/3226
+N01AB1492,"Isoflurane",36,0.61,9,0.03,nd1489,http://sideeffects.embl.de/drugs/3763
+N01AB1493,"Sevoflurane",117,1.99,12,0.04,nd1489,http://sideeffects.embl.de/drugs/5206
+nd1494,"N01AF - Barbiturates, plain",31,0.53,6,0.02,nd1488,
+N01AF1495,"Methohexital",31,0.53,6,0.02,nd1494,http://sideeffects.embl.de/drugs/9034
+nd1496,"N01AH - Opioid anesthetics",528,8.98,122,0.4,nd1488,
+N01AH1497,"Alfentanil",71,1.21,7,0.02,nd1496,http://sideeffects.embl.de/drugs/51263
+N01AH1498,"Fentanyl",470,7.99,105,0.35,nd1496,http://sideeffects.embl.de/drugs/3345
+N01AH1499,"Remifentanil",126,2.14,4,0.01,nd1496,http://sideeffects.embl.de/drugs/60814
+N01AH1500,"Sufentanil",32,0.54,6,0.02,nd1496,http://sideeffects.embl.de/drugs/41693
+nd1501,"N01AX - Other general anesthetics",299,5.09,49,0.16,nd1488,
+N01AX1502,"Droperidol",42,0.71,7,0.02,nd1501,http://sideeffects.embl.de/drugs/3168
+N01AX1503,"Etomidate",19,0.32,10,0.03,nd1501,http://sideeffects.embl.de/drugs/36339
+N01AX1504,"Hydroxybutyrate",164,2.79,4,0.01,nd1501,http://sideeffects.embl.de/drugs/10413
+N01AX1505,"Ketamine",26,0.44,11,0.04,nd1501,http://sideeffects.embl.de/drugs/3821
+N01AX1506,"Nitrous oxide",23,0.39,1,0.0,nd1501,http://sideeffects.embl.de/drugs/948
+N01AX1507,"Propofol",146,2.48,16,0.05,nd1501,http://sideeffects.embl.de/drugs/4943
+nd1508,"N01B - ANESTHETICS, LOCAL",404,6.87,269,0.89,nd1487,
+nd1509,"N01BA - Esters of aminobenzoic acid",65,1.11,18,0.06,nd1508,
+N01BA1510,"Benzocaine",15,0.26,2,0.01,nd1509,http://sideeffects.embl.de/drugs/2337
+N01BA1511,"Chloroprocaine",34,0.58,5,0.02,nd1509,http://sideeffects.embl.de/drugs/8612
+N01BA1512,"Procaine",43,0.73,2,0.01,nd1509,http://sideeffects.embl.de/drugs/4914
+N01BA1513,"Tetracaine",31,0.53,9,0.03,nd1509,http://sideeffects.embl.de/drugs/5411
+nd1514,"N01BB - Amides",356,6.05,247,0.82,nd1508,
+N01BB1515,"Articaine",65,1.11,1,0.0,nd1514,http://sideeffects.embl.de/drugs/32169
+N01BB1516,"Bupivacaine",193,3.28,35,0.12,nd1514,http://sideeffects.embl.de/drugs/2474
+N01BB1517,"Lidocaine",124,2.11,173,0.57,nd1514,http://sideeffects.embl.de/drugs/3676
+N01BB1518,"Mepivacaine",53,0.9,12,0.04,nd1514,http://sideeffects.embl.de/drugs/4062
+N01BB1519,"Prilocaine",69,1.17,5,0.02,nd1514,http://sideeffects.embl.de/drugs/4906
+N01BB1520,"Ropivacaine",189,3.21,21,0.07,nd1514,http://sideeffects.embl.de/drugs/71273
+nd1521,"N01BC - Esters of benzoic acid",11,0.19,1,0.0,nd1508,
+N01BC1522,"Cocaine",11,0.19,1,0.0,nd1521,http://sideeffects.embl.de/drugs/2826
+nd1523,"N01BX - Other local anesthetics",61,1.04,3,0.01,nd1508,
+N01BX1524,"Capsaicin",61,1.04,3,0.01,nd1523,http://sideeffects.embl.de/drugs/2548
+nd1525,"N02 - ANALGESICS",1318,22.41,1062,3.51,nd1486,
+nd1526,"N02A - OPIOIDS",959,16.31,680,2.25,nd1525,
+nd1527,"N02AA - Natural opium alkaloids",418,7.11,360,1.19,nd1526,
+N02AA1528,"Dihydrocodeine",40,0.68,1,0.0,nd1527,http://sideeffects.embl.de/drugs/3063
+N02AA1529,"Hydromorphone",276,4.69,59,0.2,nd1527,http://sideeffects.embl.de/drugs/3648
+N02AA1530,"Morphine",270,4.59,172,0.57,nd1527,http://sideeffects.embl.de/drugs/4253
+N02AA1531,"Oxycodone",265,4.51,128,0.42,nd1527,http://sideeffects.embl.de/drugs/4635
+nd1532,"N02AB - Phenylpiperidine derivatives",487,8.28,129,0.43,nd1526,
+N02AB1533,"Fentanyl",470,7.99,105,0.35,nd1532,http://sideeffects.embl.de/drugs/3345
+N02AB1534,"Meperidine",76,1.29,24,0.08,nd1532,http://sideeffects.embl.de/drugs/4058
+nd1535,"N02AC - Diphenylpropylamine derivatives",60,1.02,4,0.01,nd1526,
+N02AC1536,"Propoxyphene",60,1.02,4,0.01,nd1535,http://sideeffects.embl.de/drugs/10100
+nd1537,"N02AD - Benzomorphan derivatives",62,1.05,3,0.01,nd1526,
+N02AD1538,"Pentazocine",62,1.05,3,0.01,nd1537,http://sideeffects.embl.de/drugs/4736
+nd1539,"N02AE - Oripavine derivatives",196,3.33,17,0.06,nd1526,
+N02AE1540,"Buprenorphine",196,3.33,17,0.06,nd1539,http://sideeffects.embl.de/drugs/2476
+nd1541,"N02AF - Morphinan derivatives",135,2.3,17,0.06,nd1526,
+N02AF1542,"Butorphanol",106,1.8,12,0.04,nd1541,http://sideeffects.embl.de/drugs/2487
+N02AF1543,"Nalbuphine",61,1.04,5,0.02,nd1541,http://sideeffects.embl.de/drugs/4419
+nd1544,"N02AX - Other opioids",571,9.71,150,0.5,nd1526,
+N02AX1545,"Tapentadol",109,1.85,13,0.04,nd1544,http://sideeffects.embl.de/drugs/6433091
+N02AX1546,"Tramadol",554,9.42,137,0.45,nd1544,http://sideeffects.embl.de/drugs/5523
+nd1547,"N02B - OTHER ANALGESICS AND ANTIPYRETICS",322,5.48,88,0.29,nd1525,
+nd1548,"N02BA - Salicylic acid and derivatives",136,2.31,64,0.21,nd1547,
+N02BA1549,"Aspirin",68,1.16,20,0.07,nd1548,http://sideeffects.embl.de/drugs/2244
+N02BA1550,"Diflunisal",69,1.17,7,0.02,nd1548,http://sideeffects.embl.de/drugs/3059
+N02BA1551,"Salicylate",38,0.65,18,0.06,nd1548,http://sideeffects.embl.de/drugs/338
+N02BA1552,"Salsalate",16,0.27,19,0.06,nd1548,http://sideeffects.embl.de/drugs/5161
+nd1553,"N02BE - Anilides",157,2.67,21,0.07,nd1547,
+N02BE1554,"Acetaminophen",157,2.67,21,0.07,nd1553,http://sideeffects.embl.de/drugs/1983
+nd1555,"N02BG - Other analgesics and antipyretics",152,2.59,3,0.01,nd1547,
+N02BG1556,"Nefopam",17,0.29,1,0.0,nd1555,http://sideeffects.embl.de/drugs/4450
+N02BG1557,"Ziconotide",146,2.48,2,0.01,nd1555,http://sideeffects.embl.de/drugs/16129690
+nd1558,"N02C - ANTIMIGRAINE PREPARATIONS",715,12.16,294,0.97,nd1525,
+nd1559,"N02CA - Ergot alkaloids",188,3.2,11,0.04,nd1558,
+N02CA1560,"Dihydroergotamine",102,1.73,7,0.02,nd1559,http://sideeffects.embl.de/drugs/3066
+N02CA1561,"Ergotamine",20,0.34,2,0.01,nd1559,http://sideeffects.embl.de/drugs/3251
+N02CA1562,"Lisuride",59,1.0,1,0.0,nd1559,http://sideeffects.embl.de/drugs/3938
+N02CA1563,"Methysergide",59,1.0,1,0.0,nd1559,http://sideeffects.embl.de/drugs/4163
+nd1564,"N02CC - Selective serotonin (5HT1) agonists",602,10.24,172,0.57,nd1558,
+N02CC1565,"Almotriptan",123,2.09,3,0.01,nd1564,http://sideeffects.embl.de/drugs/123606
+N02CC1566,"Eletriptan",217,3.69,10,0.03,nd1564,http://sideeffects.embl.de/drugs/77993
+N02CC1567,"Frovatriptan",131,2.23,4,0.01,nd1564,http://sideeffects.embl.de/drugs/77992
+N02CC1568,"Naratriptan",175,2.98,12,0.04,nd1564,http://sideeffects.embl.de/drugs/4440
+N02CC1569,"Rizatriptan",148,2.52,26,0.09,nd1564,http://sideeffects.embl.de/drugs/5078
+N02CC1570,"Sumatriptan",348,5.92,98,0.32,nd1564,http://sideeffects.embl.de/drugs/5358
+N02CC1571,"Zolmitriptan",219,3.72,19,0.06,nd1564,http://sideeffects.embl.de/drugs/5731
+nd1572,"N02CX - Other antimigraine preparations",162,2.76,111,0.37,nd1558,
+N02CX1573,"Clonidine",159,2.7,109,0.36,nd1572,http://sideeffects.embl.de/drugs/2803
+N02CX1574,"Pizotifen",16,0.27,2,0.01,nd1572,http://sideeffects.embl.de/drugs/27400
+nd1575,"N03 - ANTIEPILEPTICS",1427,24.27,1418,4.69,nd1486,
+nd1576,"N03A - ANTIEPILEPTICS",1427,24.27,1418,4.69,nd1575,
+nd1577,"N03AA - Barbiturates and derivatives",90,1.53,37,0.12,nd1576,
+N03AA1578,"Phenobarbital",66,1.12,16,0.05,nd1577,http://sideeffects.embl.de/drugs/4763
+N03AA1579,"Primidone",37,0.63,21,0.07,nd1577,http://sideeffects.embl.de/drugs/4909
+nd1580,"N03AB - Hydantoin derivatives",279,4.74,101,0.33,nd1576,
+N03AB1581,"Ethotoin",20,0.34,2,0.01,nd1580,http://sideeffects.embl.de/drugs/3292
+N03AB1582,"Fosphenytoin",185,3.15,5,0.02,nd1580,http://sideeffects.embl.de/drugs/56338
+N03AB1583,"Mephenytoin",53,0.9,1,0.0,nd1580,http://sideeffects.embl.de/drugs/4060
+N03AB1584,"Phenytoin",259,4.4,93,0.31,nd1580,http://sideeffects.embl.de/drugs/1775
+nd1585,"N03AC - Oxazolidine derivatives",46,0.78,1,0.0,nd1576,
+N03AC1586,"Trimethadione",46,0.78,1,0.0,nd1585,http://sideeffects.embl.de/drugs/5576
+nd1587,"N03AD - Succinimide derivatives",76,1.29,12,0.04,nd1576,
+N03AD1588,"Ethosuximide",64,1.09,11,0.04,nd1587,http://sideeffects.embl.de/drugs/3291
+N03AD1589,"Methsuximide",34,0.58,1,0.0,nd1587,http://sideeffects.embl.de/drugs/6476
+nd1590,"N03AE - Benzodiazepine derivatives",242,4.12,72,0.24,nd1576,
+N03AE1591,"Clonazepam",242,4.12,72,0.24,nd1590,http://sideeffects.embl.de/drugs/2802
+nd1592,"N03AF - Carboxamide derivatives",459,7.81,149,0.49,nd1576,
+N03AF1593,"Carbamazepine",304,5.17,91,0.3,nd1592,http://sideeffects.embl.de/drugs/2554
+N03AF1594,"Eslicarbazepine",49,0.83,1,0.0,nd1592,http://sideeffects.embl.de/drugs/114709
+N03AF1595,"Oxcarbazepine",268,4.56,55,0.18,nd1592,http://sideeffects.embl.de/drugs/34312
+N03AF1596,"Rufinamide",83,1.41,2,0.01,nd1592,http://sideeffects.embl.de/drugs/129228
+nd1597,"N03AG - Fatty acid derivatives",476,8.1,190,0.63,nd1576,
+N03AG1598,"Gamma-aminobutyric acid",5,0.09,1,0.0,nd1597,http://sideeffects.embl.de/drugs/119
+N03AG1599,"Tiagabine",242,4.12,12,0.04,nd1597,http://sideeffects.embl.de/drugs/5466
+N03AG1600,"Valproate",284,4.83,171,0.57,nd1597,http://sideeffects.embl.de/drugs/3121
+N03AG1601,"Vigabatrin",203,3.45,6,0.02,nd1597,http://sideeffects.embl.de/drugs/5665
+nd1602,"N03AX - Other antiepileptics",1142,19.42,856,2.83,nd1576,
+N03AX1603,"Felbamate",209,3.55,5,0.02,nd1602,http://sideeffects.embl.de/drugs/3331
+N03AX1604,"Gabapentin",449,7.64,273,0.9,nd1602,http://sideeffects.embl.de/drugs/3446
+N03AX1605,"Lacosamide",94,1.6,3,0.01,nd1602,http://sideeffects.embl.de/drugs/219078
+N03AX1606,"Lamotrigine",318,5.41,119,0.39,nd1602,http://sideeffects.embl.de/drugs/3878
+N03AX1607,"Levetiracetam",170,2.89,180,0.6,nd1602,http://sideeffects.embl.de/drugs/59708
+N03AX1608,"Pregabalin",729,12.4,58,0.19,nd1602,http://sideeffects.embl.de/drugs/125889
+N03AX1609,"Stiripentol",29,0.49,1,0.0,nd1602,http://sideeffects.embl.de/drugs/39524
+N03AX1610,"Topiramate",497,8.45,173,0.57,nd1602,http://sideeffects.embl.de/drugs/5514
+N03AX1611,"Zonisamide",238,4.05,44,0.15,nd1602,http://sideeffects.embl.de/drugs/5734
+nd1612,"N04 - ANTI-PARKINSON DRUGS",1145,19.47,380,1.26,nd1486,
+nd1613,"N04A - ANTICHOLINERGIC AGENTS",84,1.43,136,0.45,nd1612,
+nd1614,"N04AA - Tertiary amines",36,0.61,27,0.09,nd1613,
+N04AA1615,"Trihexyphenidyl",36,0.61,27,0.09,nd1614,http://sideeffects.embl.de/drugs/5572
+nd1616,"N04AB - Ethers chemically close to antihistamines",53,0.9,54,0.18,nd1613,
+N04AB1617,"Diphenhydramine",42,0.71,26,0.09,nd1616,http://sideeffects.embl.de/drugs/3100
+N04AB1618,"Orphenadrine",24,0.41,28,0.09,nd1616,http://sideeffects.embl.de/drugs/4601
+nd1619,"N04AC - Ethers of tropine or tropine derivatives",26,0.44,55,0.18,nd1613,
+N04AC1620,"Benztropine",26,0.44,55,0.18,nd1619,http://sideeffects.embl.de/drugs/2344
+nd1621,"N04B - DOPAMINERGIC AGENTS",1129,19.2,244,0.81,nd1612,
+nd1622,"N04BB - Adamantane derivatives",114,1.94,36,0.12,nd1621,
+N04BB1623,"Amantadine",114,1.94,36,0.12,nd1622,http://sideeffects.embl.de/drugs/2130
+nd1624,"N04BC - Dopamine agonists",983,16.72,151,0.5,nd1621,
+N04BC1625,"Apomorphine",47,0.8,4,0.01,nd1624,http://sideeffects.embl.de/drugs/2215
+N04BC1626,"Bromocriptine",146,2.48,16,0.05,nd1624,http://sideeffects.embl.de/drugs/2443
+N04BC1627,"Cabergoline",112,1.9,16,0.05,nd1624,http://sideeffects.embl.de/drugs/2512
+N04BC1628,"Pergolide",295,5.02,5,0.02,nd1624,http://sideeffects.embl.de/drugs/4745
+N04BC1629,"Pramipexole",608,10.34,55,0.18,nd1624,http://sideeffects.embl.de/drugs/4885
+N04BC1630,"Ropinirole",624,10.61,52,0.17,nd1624,http://sideeffects.embl.de/drugs/5095
+N04BC1631,"Rotigotine",117,1.99,3,0.01,nd1624,http://sideeffects.embl.de/drugs/57537
+nd1632,"N04BD - Monoamine oxidase B inhibitors",467,7.94,29,0.1,nd1621,
+N04BD1633,"Deprenyl",381,6.48,22,0.07,nd1632,http://sideeffects.embl.de/drugs/5195
+N04BD1634,"Rasagiline",246,4.18,7,0.02,nd1632,http://sideeffects.embl.de/drugs/122316
+nd1635,"N04BX - Other dopaminergic agents",302,5.14,28,0.09,nd1621,
+N04BX1636,"Entacapone",168,2.86,20,0.07,nd1635,http://sideeffects.embl.de/drugs/4659568
+N04BX1637,"Tolcapone",227,3.86,8,0.03,nd1635,http://sideeffects.embl.de/drugs/4659569
+nd1638,"N05 - PSYCHOLEPTICS",1529,26.0,2167,7.16,nd1486,
+nd1639,"N05A - ANTIPSYCHOTICS",1302,22.14,1250,4.13,nd1638,
+nd1640,"N05AA - Phenothiazines with aliphatic side-chain",92,1.56,23,0.08,nd1639,
+N05AA1641,"Chlorpromazine",87,1.48,22,0.07,nd1640,http://sideeffects.embl.de/drugs/2726
+N05AA1642,"Levomepromazine",16,0.27,1,0.0,nd1640,http://sideeffects.embl.de/drugs/3916
+nd1643,"N05AB - Phenothiazines with piperazine structure",184,3.13,101,0.33,nd1639,
+N05AB1644,"Fluphenazine",79,1.34,19,0.06,nd1643,http://sideeffects.embl.de/drugs/3372
+N05AB1645,"Perphenazine",111,1.89,24,0.08,nd1643,http://sideeffects.embl.de/drugs/4748
+N05AB1646,"Prochlorperazine",121,2.06,48,0.16,nd1643,http://sideeffects.embl.de/drugs/4917
+N05AB1647,"Trifluoperazine",107,1.82,10,0.03,nd1643,http://sideeffects.embl.de/drugs/5566
+nd1648,"N05AC - Phenothiazines with piperidine structure",122,2.07,7,0.02,nd1639,
+N05AC1649,"Propericiazine",77,1.31,2,0.01,nd1648,http://sideeffects.embl.de/drugs/4747
+N05AC1650,"Thioridazine",86,1.46,5,0.02,nd1648,http://sideeffects.embl.de/drugs/5452
+nd1651,"N05AD - Butyrophenone derivatives",166,2.82,65,0.21,nd1639,
+N05AD1652,"Droperidol",42,0.71,7,0.02,nd1651,http://sideeffects.embl.de/drugs/3168
+N05AD1653,"Haloperidol",155,2.64,58,0.19,nd1651,http://sideeffects.embl.de/drugs/3559
+nd1654,"N05AE - Indole derivatives",348,5.92,83,0.27,nd1639,
+N05AE1655,"Molindone",37,0.63,1,0.0,nd1654,http://sideeffects.embl.de/drugs/23897
+N05AE1656,"Ziprasidone",338,5.75,82,0.27,nd1654,http://sideeffects.embl.de/drugs/60853
+nd1657,"N05AF - Thioxanthene derivatives",183,3.11,15,0.05,nd1639,
+N05AF1658,"Thiothixene",70,1.19,14,0.05,nd1657,http://sideeffects.embl.de/drugs/5454
+N05AF1659,"Zuclopenthixol",164,2.79,1,0.0,nd1657,http://sideeffects.embl.de/drugs/12453
+nd1660,"N05AG - Diphenylbutylpiperidine derivatives",112,1.9,5,0.02,nd1639,
+N05AG1661,"Pimozide",112,1.9,5,0.02,nd1660,http://sideeffects.embl.de/drugs/16362
+nd1662,"N05AH - Diazepines, oxazepines, thiazepines and oxepines",634,10.78,422,1.39,nd1639,
+N05AH1663,"Asenapine",109,1.85,4,0.01,nd1662,http://sideeffects.embl.de/drugs/156326
+N05AH1664,"Clozapine",250,4.25,62,0.2,nd1662,http://sideeffects.embl.de/drugs/2818
+N05AH1665,"Loxapine",93,1.58,23,0.08,nd1662,http://sideeffects.embl.de/drugs/3964
+N05AH1666,"Olanzapine",405,6.89,182,0.6,nd1662,http://sideeffects.embl.de/drugs/4585
+N05AH1667,"Quetiapine",371,6.31,151,0.5,nd1662,http://sideeffects.embl.de/drugs/5002
+nd1668,"N05AL - Benzamides",81,1.38,5,0.02,nd1639,
+N05AL1669,"Amisulpride",81,1.38,5,0.02,nd1668,http://sideeffects.embl.de/drugs/2159
+nd1670,"N05AN - Lithium",111,1.89,57,0.19,nd1639,
+N05AN1671,"Lithium",111,1.89,57,0.19,nd1670,http://sideeffects.embl.de/drugs/28486
+nd1672,"N05AX - Other antipsychotics",1009,17.16,467,1.54,nd1639,
+N05AX1673,"Aripiprazole",769,13.08,169,0.56,nd1672,http://sideeffects.embl.de/drugs/60795
+N05AX1674,"Paliperidone",341,5.8,30,0.1,nd1672,http://sideeffects.embl.de/drugs/115237
+N05AX1675,"Risperidone",608,10.34,268,0.89,nd1672,http://sideeffects.embl.de/drugs/5073
+nd1676,"N05B - ANXIOLYTICS",423,7.19,550,1.82,nd1638,
+nd1677,"N05BA - Benzodiazepine derivatives",357,6.07,347,1.15,nd1676,
+N05BA1678,"Alprazolam",190,3.23,118,0.39,nd1677,http://sideeffects.embl.de/drugs/2118
+N05BA1679,"Bromazepam",59,1.0,3,0.01,nd1677,http://sideeffects.embl.de/drugs/2441
+N05BA1680,"Chlordiazepoxide",15,0.26,22,0.07,nd1677,http://sideeffects.embl.de/drugs/2712
+N05BA1681,"Clobazam",93,1.58,3,0.01,nd1677,http://sideeffects.embl.de/drugs/2789
+N05BA1682,"Diazepam",195,3.32,84,0.28,nd1677,http://sideeffects.embl.de/drugs/3016
+N05BA1683,"Lorazepam",110,1.87,108,0.36,nd1677,http://sideeffects.embl.de/drugs/3958
+N05BA1684,"Oxazepam",35,0.6,9,0.03,nd1677,http://sideeffects.embl.de/drugs/4616
+nd1685,"N05BB - Diphenylmethane derivatives",12,0.2,137,0.45,nd1676,
+N05BB1686,"Hydroxyzine",12,0.2,137,0.45,nd1685,http://sideeffects.embl.de/drugs/3658
+nd1687,"N05BC - Carbamates",48,0.82,6,0.02,nd1676,
+N05BC1688,"Meprobamate",48,0.82,6,0.02,nd1687,http://sideeffects.embl.de/drugs/4064
+nd1689,"N05BE - Azaspirodecanedione derivatives",148,2.52,60,0.2,nd1676,
+N05BE1690,"Buspirone",148,2.52,60,0.2,nd1689,http://sideeffects.embl.de/drugs/2477
+nd1691,"N05C - HYPNOTICS AND SEDATIVES",697,11.85,367,1.21,nd1638,
+nd1692,"N05CA - Barbiturates, plain",53,0.9,10,0.03,nd1691,
+N05CA1693,"Amobarbital",30,0.51,1,0.0,nd1692,http://sideeffects.embl.de/drugs/2163
+N05CA1694,"Methohexital",31,0.53,6,0.02,nd1692,http://sideeffects.embl.de/drugs/9034
+N05CA1695,"Pentobarbital",28,0.48,1,0.0,nd1692,http://sideeffects.embl.de/drugs/4737
+N05CA1696,"Secobarbital",29,0.49,2,0.01,nd1692,http://sideeffects.embl.de/drugs/5193
+nd1697,"N05CC - Aldehydes and derivatives",16,0.27,1,0.0,nd1691,
+N05CC1698,"Paraldehyde",16,0.27,1,0.0,nd1697,http://sideeffects.embl.de/drugs/31264
+nd1699,"N05CD - Benzodiazepine derivatives",348,5.92,144,0.48,nd1691,
+N05CD1700,"Estazolam",113,1.92,4,0.01,nd1699,http://sideeffects.embl.de/drugs/3261
+N05CD1701,"Flunitrazepam",34,0.58,1,0.0,nd1699,http://sideeffects.embl.de/drugs/3380
+N05CD1702,"Flurazepam",51,0.87,13,0.04,nd1699,http://sideeffects.embl.de/drugs/3393
+N05CD1703,"Lormetazepam",67,1.14,1,0.0,nd1699,http://sideeffects.embl.de/drugs/13314
+N05CD1704,"Midazolam",159,2.7,46,0.15,nd1699,http://sideeffects.embl.de/drugs/4192
+N05CD1705,"Nitrazepam",89,1.51,7,0.02,nd1699,http://sideeffects.embl.de/drugs/4506
+N05CD1706,"Quazepam",8,0.14,5,0.02,nd1699,http://sideeffects.embl.de/drugs/4999
+N05CD1707,"Temazepam",76,1.29,49,0.16,nd1699,http://sideeffects.embl.de/drugs/5391
+N05CD1708,"Triazolam",85,1.45,18,0.06,nd1699,http://sideeffects.embl.de/drugs/5556
+nd1709,"N05CF - Benzodiazepine related drugs",455,7.74,193,0.64,nd1691,
+N05CF1710,"Zaleplon",246,4.18,35,0.12,nd1709,http://sideeffects.embl.de/drugs/5719
+N05CF1711,"Zolpidem",280,4.76,116,0.38,nd1709,http://sideeffects.embl.de/drugs/5732
+N05CF1712,"Zopiclone",221,3.76,42,0.14,nd1709,http://sideeffects.embl.de/drugs/5735
+nd1713,"N05CH - Melatonin receptor agonists",130,2.21,8,0.03,nd1691,
+N05CH1714,"Melatonin",119,2.02,1,0.0,nd1713,http://sideeffects.embl.de/drugs/896
+N05CH1715,"Ramelteon",17,0.29,7,0.02,nd1713,http://sideeffects.embl.de/drugs/208902
+nd1716,"N05CM - Other hypnotics and sedatives",180,3.06,11,0.04,nd1691,
+N05CM1717,"Dexmedetomidine",126,2.14,6,0.02,nd1716,http://sideeffects.embl.de/drugs/60612
+N05CM1718,"Scopolamine",74,1.26,5,0.02,nd1716,http://sideeffects.embl.de/drugs/5184
+nd1719,"N06 - PSYCHOANALEPTICS",1711,29.1,2224,7.35,nd1486,
+nd1720,"N06A - ANTIDEPRESSANTS",1518,25.82,1746,5.77,nd1719,
+nd1721,"N06AA - Non-selective monoamine reuptake inhibitors",538,9.15,249,0.82,nd1720,
+N06AA1722,"Amitriptyline",104,1.77,71,0.23,nd1721,http://sideeffects.embl.de/drugs/2160
+N06AA1723,"Amoxapine",86,1.46,2,0.01,nd1721,http://sideeffects.embl.de/drugs/2170
+N06AA1724,"Clomipramine",384,6.53,17,0.06,nd1721,http://sideeffects.embl.de/drugs/2801
+N06AA1725,"Desipramine",91,1.55,21,0.07,nd1721,http://sideeffects.embl.de/drugs/2995
+N06AA1726,"Dothiepin",77,1.31,2,0.01,nd1721,http://sideeffects.embl.de/drugs/3155
+N06AA1727,"Doxepin",241,4.1,48,0.16,nd1721,http://sideeffects.embl.de/drugs/3158
+N06AA1728,"Imipramine",144,2.45,27,0.09,nd1721,http://sideeffects.embl.de/drugs/3696
+N06AA1729,"Maprotiline",146,2.48,2,0.01,nd1721,http://sideeffects.embl.de/drugs/4011
+N06AA1730,"Nortriptyline",121,2.06,51,0.17,nd1721,http://sideeffects.embl.de/drugs/4543
+N06AA1731,"Protriptyline",82,1.39,6,0.02,nd1721,http://sideeffects.embl.de/drugs/4976
+N06AA1732,"Trimipramine",77,1.31,2,0.01,nd1721,http://sideeffects.embl.de/drugs/5584
+nd1733,"N06AB - Selective serotonin reuptake inhibitors",1140,19.39,821,2.71,nd1720,
+N06AB1734,"Citalopram",771,13.11,284,0.94,nd1733,http://sideeffects.embl.de/drugs/2771
+N06AB1735,"Fluoxetine",480,8.16,164,0.54,nd1733,http://sideeffects.embl.de/drugs/3386
+N06AB1736,"Fluvoxamine",405,6.89,44,0.15,nd1733,http://sideeffects.embl.de/drugs/3404
+N06AB1737,"Paroxetine",540,9.18,137,0.45,nd1733,http://sideeffects.embl.de/drugs/4691
+N06AB1738,"Sertraline",368,6.26,192,0.63,nd1733,http://sideeffects.embl.de/drugs/5203
+nd1739,"N06AF - Monoamine oxidase inhibitors, non-selective",117,1.99,17,0.06,nd1720,
+N06AF1740,"Isocarboxazid",37,0.63,2,0.01,nd1739,http://sideeffects.embl.de/drugs/3759
+N06AF1741,"Phenelzine",58,0.99,9,0.03,nd1739,http://sideeffects.embl.de/drugs/3675
+N06AF1742,"Tranylcypromine",68,1.16,6,0.02,nd1739,http://sideeffects.embl.de/drugs/5530
+nd1743,"N06AG - Monoamine oxidase A inhibitors",76,1.29,4,0.01,nd1720,
+N06AG1744,"Moclobemide",76,1.29,4,0.01,nd1743,http://sideeffects.embl.de/drugs/4235
+nd1745,"N06AX - Other antidepressants",946,16.09,655,2.17,nd1720,
+N06AX1746,"Agomelatine",56,0.95,3,0.01,nd1745,http://sideeffects.embl.de/drugs/82148
+N06AX1747,"Bupropion",474,8.06,186,0.61,nd1745,http://sideeffects.embl.de/drugs/444
+N06AX1748,"Desvenlafaxine",99,1.68,14,0.05,nd1745,http://sideeffects.embl.de/drugs/125017
+N06AX1749,"Duloxetine",307,5.22,89,0.29,nd1745,http://sideeffects.embl.de/drugs/60834
+N06AX1750,"Mianserin",65,1.11,1,0.0,nd1745,http://sideeffects.embl.de/drugs/4184
+N06AX1751,"Milnacipran",129,2.19,8,0.03,nd1745,http://sideeffects.embl.de/drugs/55480
+N06AX1752,"Mirtazapine",300,5.1,111,0.37,nd1745,http://sideeffects.embl.de/drugs/4205
+N06AX1753,"Nefazodone",215,3.66,9,0.03,nd1745,http://sideeffects.embl.de/drugs/4449
+N06AX1754,"Reboxetine",156,2.65,2,0.01,nd1745,http://sideeffects.embl.de/drugs/65856
+N06AX1755,"Trazodone",176,2.99,60,0.2,nd1745,http://sideeffects.embl.de/drugs/5533
+N06AX1756,"Venlafaxine",498,8.47,172,0.57,nd1745,http://sideeffects.embl.de/drugs/5656
+nd1757,"N06B - PSYCHOSTIMULANTS, AGENTS USED FOR ADHD AND NOOTROPICS",462,7.86,264,0.87,nd1719,
+nd1758,"N06BA - Centrally acting sympathomimetics",439,7.47,248,0.82,nd1757,
+N06BA1759,"Amphetamine",123,2.09,30,0.1,nd1758,http://sideeffects.embl.de/drugs/3007
+N06BA1760,"Atomoxetine",151,2.57,43,0.14,nd1758,http://sideeffects.embl.de/drugs/54840
+N06BA1761,"Methamphetamine",18,0.31,3,0.01,nd1758,http://sideeffects.embl.de/drugs/1206
+N06BA1762,"Methylphenidate",305,5.19,129,0.43,nd1758,http://sideeffects.embl.de/drugs/4158
+N06BA1763,"Modafinil",179,3.04,43,0.14,nd1758,http://sideeffects.embl.de/drugs/4236
+nd1764,"N06BC - Xanthine derivatives",48,0.82,16,0.05,nd1757,
+N06BC1765,"Caffeine",48,0.82,16,0.05,nd1764,http://sideeffects.embl.de/drugs/2519
+nd1766,"N06D - ANTI-DEMENTIA DRUGS",666,11.33,214,0.71,nd1719,
+nd1767,"N06DA - Anticholinesterases",546,9.29,172,0.57,nd1766,
+N06DA1768,"Donepezil",291,4.95,85,0.28,nd1767,http://sideeffects.embl.de/drugs/3152
+N06DA1769,"Galantamine",159,2.7,41,0.14,nd1767,http://sideeffects.embl.de/drugs/3449
+N06DA1770,"Rivastigmine",416,7.07,46,0.15,nd1767,http://sideeffects.embl.de/drugs/5077
+nd1771,"N06DX - Other anti-dementia drugs",413,7.02,42,0.14,nd1766,
+N06DX1772,"Chloroquine",61,1.04,15,0.05,nd1771,http://sideeffects.embl.de/drugs/2719
+N06DX1773,"Memantine",383,6.51,27,0.09,nd1771,http://sideeffects.embl.de/drugs/4054
+nd1774,"N07 - OTHER NERVOUS SYSTEM DRUGS",956,16.26,235,0.78,nd1486,
+nd1775,"N07A - PARASYMPATHOMIMETICS",495,8.42,73,0.24,nd1774,
+nd1776,"N07AA - Anticholinesterases",102,1.73,22,0.07,nd1775,
+N07AA1777,"Neostigmine",65,1.11,8,0.03,nd1776,http://sideeffects.embl.de/drugs/4456
+N07AA1778,"Pyridostigmine",63,1.07,14,0.05,nd1776,http://sideeffects.embl.de/drugs/4991
+nd1779,"N07AB - Choline esters",36,0.61,26,0.09,nd1775,
+N07AB1780,"Bethanechol",22,0.37,19,0.06,nd1779,http://sideeffects.embl.de/drugs/2370
+N07AB1781,"Carbachol",22,0.37,7,0.02,nd1779,http://sideeffects.embl.de/drugs/2551
+nd1782,"N07AX - Other parasympathomimetics",440,7.48,25,0.08,nd1775,
+N07AX1783,"Cevimeline",374,6.36,7,0.02,nd1782,http://sideeffects.embl.de/drugs/2684
+N07AX1784,"Pilocarpine",183,3.11,18,0.06,nd1782,http://sideeffects.embl.de/drugs/4819
+nd1785,"N07B - DRUGS USED IN ADDICTIVE DISORDERS",604,10.27,135,0.45,nd1774,
+nd1786,"N07BA - Drugs used in nicotine dependence",347,5.9,43,0.14,nd1785,
+N07BA1787,"Nicotine",152,2.59,16,0.05,nd1786,http://sideeffects.embl.de/drugs/942
+N07BA1788,"Varenicline",281,4.78,27,0.09,nd1786,http://sideeffects.embl.de/drugs/170361
+nd1789,"N07BB - Drugs used in alcohol dependence",353,6.0,34,0.11,nd1785,
+N07BB1790,"Acamprosate",188,3.2,7,0.02,nd1789,http://sideeffects.embl.de/drugs/71158
+N07BB1791,"Disulfiram",32,0.54,9,0.03,nd1789,http://sideeffects.embl.de/drugs/3117
+N07BB1792,"Naltrexone",223,3.79,18,0.06,nd1789,http://sideeffects.embl.de/drugs/4428
+nd1793,"N07BC - Drugs used in opioid dependence",247,4.2,58,0.19,nd1785,
+N07BC1794,"Buprenorphine",196,3.33,17,0.06,nd1793,http://sideeffects.embl.de/drugs/2476
+N07BC1795,"Methadone",101,1.72,41,0.14,nd1793,http://sideeffects.embl.de/drugs/4095
+nd1796,"N07C - ANTIVERTIGO PREPARATIONS",35,0.6,4,0.01,nd1774,
+nd1797,"N07CA - Antivertigo preparations",35,0.6,4,0.01,nd1796,
+N07CA1798,"Betahistine",35,0.6,4,0.01,nd1797,http://sideeffects.embl.de/drugs/2366
+nd1799,"N07X - OTHER NERVOUS SYSTEM DRUGS",431,7.33,23,0.08,nd1774,
+nd1800,"N07XX - Other nervous system drugs",431,7.33,23,0.08,nd1799,
+N07XX1801,"Hydroxybutyrate",164,2.79,4,0.01,nd1800,http://sideeffects.embl.de/drugs/10413
+N07XX1802,"Riluzole",354,6.02,17,0.06,nd1800,http://sideeffects.embl.de/drugs/5070
+N07XX1803,"Tetrabenazine",65,1.11,2,0.01,nd1800,http://sideeffects.embl.de/drugs/6018
+nd1804,"P - ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS",571,9.71,335,1.11,null,
+nd1805,"P01 - ANTIPROTOZOALS",514,8.74,269,0.89,nd1804,
+nd1806,"P01A - AGENTS AGAINST AMOEBIASIS AND OTHER PROTOZOAL DISEASES",275,4.68,180,0.6,nd1805,
+nd1807,"P01AB - Nitroimidazole derivatives",239,4.06,165,0.55,nd1806,
+P01AB1808,"Metronidazole",212,3.61,155,0.51,nd1807,http://sideeffects.embl.de/drugs/4173
+P01AB1809,"Tinidazole",80,1.36,10,0.03,nd1807,http://sideeffects.embl.de/drugs/5479
+nd1810,"P01AX - Other agents against amoebiasis and other protozoal diseases",97,1.65,15,0.05,nd1806,
+P01AX1811,"Atovaquone",63,1.07,5,0.02,nd1810,http://sideeffects.embl.de/drugs/74989
+P01AX1812,"Nitazoxanide",49,0.83,9,0.03,nd1810,http://sideeffects.embl.de/drugs/41684
+P01AX1813,"Trimetrexate",20,0.34,1,0.0,nd1810,http://sideeffects.embl.de/drugs/5582
+nd1814,"P01B - ANTIMALARIALS",338,5.75,86,0.28,nd1805,
+nd1815,"P01BA - Aminoquinolines",141,2.4,38,0.13,nd1814,
+P01BA1816,"Chloroquine",61,1.04,15,0.05,nd1815,http://sideeffects.embl.de/drugs/2719
+P01BA1817,"Hydroxychloroquine",114,1.94,16,0.05,nd1815,http://sideeffects.embl.de/drugs/3652
+P01BA1818,"Primaquine",7,0.12,7,0.02,nd1815,http://sideeffects.embl.de/drugs/4908
+nd1819,"P01BB - Biguanides",24,0.41,1,0.0,nd1814,
+P01BB1820,"Proguanil",24,0.41,1,0.0,nd1819,http://sideeffects.embl.de/drugs/4923
+nd1821,"P01BC - Methanolquinolines",244,4.15,39,0.13,nd1814,
+P01BC1822,"Mefloquine",133,2.26,19,0.06,nd1821,http://sideeffects.embl.de/drugs/4046
+P01BC1823,"Quinidine",171,2.91,20,0.07,nd1821,http://sideeffects.embl.de/drugs/1065
+nd1824,"P01BD - Diaminopyrimidines",14,0.24,6,0.02,nd1814,
+P01BD1825,"Pyrimethamine",14,0.24,6,0.02,nd1824,http://sideeffects.embl.de/drugs/4993
+nd1826,"P01BX - Other antimalarials",47,0.8,2,0.01,nd1814,
+P01BX1827,"Halofantrine",47,0.8,2,0.01,nd1826,http://sideeffects.embl.de/drugs/37392
+nd1828,"P01C - AGENTS AGAINST LEISHMANIASIS AND TRYPANOSOMIASIS",50,0.85,3,0.01,nd1805,
+nd1829,"P01CX - Other agents against leishmaniasis and trypanosomiasis",50,0.85,3,0.01,nd1828,
+P01CX1830,"DFMO",50,0.85,3,0.01,nd1829,http://sideeffects.embl.de/drugs/3009
+nd1831,"P02 - ANTHELMINTICS",135,2.3,34,0.11,nd1804,
+nd1832,"P02B - ANTITREMATODALS",34,0.58,4,0.01,nd1831,
+nd1833,"P02BA - Quinoline derivatives and related substances",34,0.58,4,0.01,nd1832,
+P02BA1834,"Praziquantel",34,0.58,4,0.01,nd1833,http://sideeffects.embl.de/drugs/4891
+nd1835,"P02C - ANTINEMATODAL AGENTS",124,2.11,30,0.1,nd1831,
+nd1836,"P02CA - Benzimidazole derivatives",61,1.04,8,0.03,nd1835,
+P02CA1837,"Albendazole",29,0.49,2,0.01,nd1836,http://sideeffects.embl.de/drugs/2082
+P02CA1838,"Mebendazole",10,0.17,2,0.01,nd1836,http://sideeffects.embl.de/drugs/4030
+P02CA1839,"Thiabendazole",41,0.7,4,0.01,nd1836,http://sideeffects.embl.de/drugs/5430
+nd1840,"P02CC - Tetrahydropyrimidine derivatives",12,0.2,1,0.0,nd1835,
+P02CC1841,"Pyrantel",12,0.2,1,0.0,nd1840,http://sideeffects.embl.de/drugs/4989
+nd1842,"P02CF - Avermectines",85,1.45,21,0.07,nd1835,
+P02CF1843,"Ivermectin",85,1.45,21,0.07,nd1842,http://sideeffects.embl.de/drugs/6435110
+nd1844,"P03 - ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS",54,0.92,32,0.11,nd1804,
+nd1845,"P03A - ECTOPARASITICIDES, INCL. SCABICIDES",54,0.92,32,0.11,nd1844,
+nd1846,"P03AA - Sulfur containing products",32,0.54,9,0.03,nd1845,
+P03AA1847,"Disulfiram",32,0.54,9,0.03,nd1846,http://sideeffects.embl.de/drugs/3117
+nd1848,"P03AB - Chlorine containing products",10,0.17,6,0.02,nd1845,
+P03AB1849,"Lindane",10,0.17,6,0.02,nd1848,http://sideeffects.embl.de/drugs/727
+nd1850,"P03AC - Pyrethrines, incl. synthetic compounds",13,0.22,9,0.03,nd1845,
+P03AC1851,"Permethrin",13,0.22,9,0.03,nd1850,http://sideeffects.embl.de/drugs/40159
+nd1852,"P03AX - Other ectoparasiticides, incl. scabicides",8,0.14,8,0.03,nd1845,
+P03AX1853,"Benzyl benzoate",4,0.07,1,0.0,nd1852,http://sideeffects.embl.de/drugs/2345
+P03AX1854,"Malathion",4,0.07,7,0.02,nd1852,http://sideeffects.embl.de/drugs/4004
+nd1855,"R - RESPIRATORY SYSTEM",1108,18.84,1733,5.73,null,
+nd1856,"R01 - NASAL PREPARATIONS",690,11.73,614,2.03,nd1855,
+nd1857,"R01A - DECONGESTANTS AND OTHER NASAL PREPARATIONS FOR TOPICAL USE",680,11.56,610,2.02,nd1856,
+nd1858,"R01AA - Sympathomimetics, plain",153,2.6,81,0.27,nd1857,
+R01AA1859,"Ephedrine",48,0.82,9,0.03,nd1858,http://sideeffects.embl.de/drugs/5032
+R01AA1860,"Epinephrine",67,1.14,35,0.12,nd1858,http://sideeffects.embl.de/drugs/838
+R01AA1861,"Naphazoline",24,0.41,11,0.04,nd1858,http://sideeffects.embl.de/drugs/4436
+R01AA1862,"Phenylephrine",63,1.07,22,0.07,nd1858,http://sideeffects.embl.de/drugs/4782
+R01AA1863,"Tetrahydrozoline",13,0.22,2,0.01,nd1858,http://sideeffects.embl.de/drugs/5419
+R01AA1864,"Tramazoline",33,0.56,2,0.01,nd1858,http://sideeffects.embl.de/drugs/5524
+nd1865,"R01AB - Sympathomimetics, combinations excl. corticosteroids",112,1.9,44,0.15,nd1857,
+R01AB1866,"Ephedrine",48,0.82,9,0.03,nd1865,http://sideeffects.embl.de/drugs/5032
+R01AB1867,"Naphazoline",24,0.41,11,0.04,nd1865,http://sideeffects.embl.de/drugs/4436
+R01AB1868,"Phenylephrine",63,1.07,22,0.07,nd1865,http://sideeffects.embl.de/drugs/4782
+R01AB1869,"Tetrahydrozoline",13,0.22,2,0.01,nd1865,http://sideeffects.embl.de/drugs/5419
+nd1870,"R01AC - Antiallergic agents, excl. corticosteroids",235,4.0,62,0.2,nd1857,
+R01AC1871,"Azelastine",104,1.77,17,0.06,nd1870,http://sideeffects.embl.de/drugs/2267
+R01AC1872,"Levocabastine",16,0.27,1,0.0,nd1870,http://sideeffects.embl.de/drugs/3915
+R01AC1873,"Nedocromil sodium",48,0.82,7,0.02,nd1870,http://sideeffects.embl.de/drugs/50294
+R01AC1874,"Olopatadine",95,1.62,17,0.06,nd1870,http://sideeffects.embl.de/drugs/60864
+R01AC1875,"Sodium cromoglycate",99,1.68,20,0.07,nd1870,http://sideeffects.embl.de/drugs/2881
+nd1876,"R01AD - Corticosteroids",497,8.45,370,1.22,nd1857,
+R01AD1877,"Beclomethasone dipropionate",39,0.66,5,0.02,nd1876,http://sideeffects.embl.de/drugs/2307
+R01AD1878,"Budesonide",206,3.5,71,0.23,nd1876,http://sideeffects.embl.de/drugs/2462
+R01AD1879,"Dexamethasone",215,3.66,124,0.41,nd1876,http://sideeffects.embl.de/drugs/3003
+R01AD1880,"Flunisolide",106,1.8,8,0.03,nd1876,http://sideeffects.embl.de/drugs/3379
+R01AD1881,"Fluticasone",197,3.35,47,0.16,nd1876,http://sideeffects.embl.de/drugs/62924
+R01AD1882,"Fluticasone furoate",57,0.97,4,0.01,nd1876,http://sideeffects.embl.de/drugs/9854489
+R01AD1883,"Mometasone",93,1.58,34,0.11,nd1876,http://sideeffects.embl.de/drugs/123620
+R01AD1884,"Prednisolone",109,1.85,48,0.16,nd1876,http://sideeffects.embl.de/drugs/4894
+R01AD1885,"Triamcinolone",150,2.55,29,0.1,nd1876,http://sideeffects.embl.de/drugs/5544
+nd1886,"R01AX - Other nasal preparations",167,2.84,97,0.32,nd1857,
+R01AX1887,"Ipratropium bromide",138,2.35,46,0.15,nd1886,http://sideeffects.embl.de/drugs/3746
+R01AX1888,"Mupirocin",41,0.7,41,0.14,nd1886,http://sideeffects.embl.de/drugs/4264
+R01AX1889,"Neomycin",21,0.36,9,0.03,nd1886,http://sideeffects.embl.de/drugs/4454
+R01AX1890,"Retinol",2,0.03,1,0.0,nd1886,http://sideeffects.embl.de/drugs/1071
+nd1891,"R01B - NASAL DECONGESTANTS FOR SYSTEMIC USE",109,1.85,35,0.12,nd1856,
+nd1892,"R01BA - Sympathomimetics",109,1.85,35,0.12,nd1891,
+R01BA1893,"Ephedrine",48,0.82,9,0.03,nd1892,http://sideeffects.embl.de/drugs/5032
+R01BA1894,"Phenylephrine",63,1.07,22,0.07,nd1892,http://sideeffects.embl.de/drugs/4782
+R01BA1895,"Phenylpropanolamine",35,0.6,4,0.01,nd1892,http://sideeffects.embl.de/drugs/4786
+nd1896,"R02 - THROAT PREPARATIONS",341,5.8,229,0.76,nd1855,
+nd1897,"R02A - THROAT PREPARATIONS",341,5.8,229,0.76,nd1896,
+nd1898,"R02AA - Antiseptics",52,0.88,18,0.06,nd1897,
+R02AA1899,"Chlorhexidine",52,0.88,18,0.06,nd1898,http://sideeffects.embl.de/drugs/2713
+nd1900,"R02AB - Antibiotics",25,0.43,16,0.05,nd1897,
+R02AB1901,"CAS 1405-87-4",6,0.1,7,0.02,nd1900,http://sideeffects.embl.de/drugs/65281
+R02AB1902,"Neomycin",21,0.36,9,0.03,nd1900,http://sideeffects.embl.de/drugs/4454
+nd1903,"R02AD - Anesthetics, local",135,2.3,176,0.58,nd1897,
+R02AD1904,"Benzocaine",15,0.26,2,0.01,nd1903,http://sideeffects.embl.de/drugs/2337
+R02AD1905,"Cocaine",11,0.19,1,0.0,nd1903,http://sideeffects.embl.de/drugs/2826
+R02AD1906,"Lidocaine",124,2.11,173,0.57,nd1903,http://sideeffects.embl.de/drugs/3676
+nd1907,"R02AX - Other throat preparations",211,3.59,19,0.06,nd1897,
+R02AX1908,"Flurbiprofen",211,3.59,19,0.06,nd1907,http://sideeffects.embl.de/drugs/3394
+nd1909,"R03 - DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES",816,13.88,839,2.77,nd1855,
+nd1910,"R03A - ADRENERGICS, INHALANTS",363,6.17,221,0.73,nd1909,
+nd1911,"R03AA - Alpha- and beta-adrenoreceptor agonists",67,1.14,35,0.12,nd1910,
+R03AA1912,"Epinephrine",67,1.14,35,0.12,nd1911,http://sideeffects.embl.de/drugs/838
+nd1913,"R03AB - Non-selective beta-adrenoreceptor agonists",57,0.97,12,0.04,nd1910,
+R03AB1914,"Isoproterenol",27,0.46,7,0.02,nd1913,http://sideeffects.embl.de/drugs/3779
+R03AB1915,"Metaproterenol",43,0.73,5,0.02,nd1913,http://sideeffects.embl.de/drugs/4086
+nd1916,"R03AC - Selective beta-2-adrenoreceptor agonists",318,5.41,174,0.58,nd1910,
+R03AC1917,"Formoterol",159,2.7,14,0.05,nd1916,http://sideeffects.embl.de/drugs/3410
+R03AC1918,"Indacaterol",48,0.82,5,0.02,nd1916,http://sideeffects.embl.de/drugs/6433117
+R03AC1919,"Pirbuterol",44,0.75,4,0.01,nd1916,http://sideeffects.embl.de/drugs/4845
+R03AC1920,"Salbutamol",192,3.27,134,0.44,nd1916,http://sideeffects.embl.de/drugs/2083
+R03AC1921,"Salmeterol",125,2.13,6,0.02,nd1916,http://sideeffects.embl.de/drugs/5152
+R03AC1922,"Terbutaline",26,0.44,11,0.04,nd1916,http://sideeffects.embl.de/drugs/5403
+nd1923,"R03B - OTHER DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES, INHALANTS",600,10.2,411,1.36,nd1909,
+nd1924,"R03BA - Glucocorticoids",499,8.49,331,1.09,nd1923,
+R03BA1925,"Beclomethasone dipropionate",39,0.66,5,0.02,nd1924,http://sideeffects.embl.de/drugs/2307
+R03BA1926,"Budesonide",206,3.5,71,0.23,nd1924,http://sideeffects.embl.de/drugs/2462
+R03BA1927,"Ciclesonide",90,1.53,13,0.04,nd1924,http://sideeffects.embl.de/drugs/444033
+R03BA1928,"Dexamethasone",215,3.66,124,0.41,nd1924,http://sideeffects.embl.de/drugs/3003
+R03BA1929,"Flunisolide",106,1.8,8,0.03,nd1924,http://sideeffects.embl.de/drugs/3379
+R03BA1930,"Fluticasone",197,3.35,47,0.16,nd1924,http://sideeffects.embl.de/drugs/62924
+R03BA1931,"Mometasone",93,1.58,34,0.11,nd1924,http://sideeffects.embl.de/drugs/123620
+R03BA1932,"Triamcinolone",150,2.55,29,0.1,nd1924,http://sideeffects.embl.de/drugs/5544
+nd1933,"R03BB - Anticholinergics",181,3.08,53,0.18,nd1923,
+R03BB1934,"Ipratropium bromide",138,2.35,46,0.15,nd1933,http://sideeffects.embl.de/drugs/3746
+R03BB1935,"Tiotropium",99,1.68,7,0.02,nd1933,http://sideeffects.embl.de/drugs/60830
+nd1936,"R03BC - Antiallergic agents, excl. corticosteroids",126,2.14,27,0.09,nd1923,
+R03BC1937,"Nedocromil sodium",48,0.82,7,0.02,nd1936,http://sideeffects.embl.de/drugs/50294
+R03BC1938,"Sodium cromoglycate",99,1.68,20,0.07,nd1936,http://sideeffects.embl.de/drugs/2881
+nd1939,"R03C - ADRENERGICS FOR SYSTEMIC USE",236,4.01,170,0.56,nd1909,
+nd1940,"R03CA - Alpha- and beta-adrenoreceptor agonists",48,0.82,9,0.03,nd1939,
+R03CA1941,"Ephedrine",48,0.82,9,0.03,nd1940,http://sideeffects.embl.de/drugs/5032
+nd1942,"R03CB - Non-selective beta-adrenoreceptor agonists",57,0.97,12,0.04,nd1939,
+R03CB1943,"Isoproterenol",27,0.46,7,0.02,nd1942,http://sideeffects.embl.de/drugs/3779
+R03CB1944,"Metaproterenol",43,0.73,5,0.02,nd1942,http://sideeffects.embl.de/drugs/4086
+nd1945,"R03CC - Selective beta-2-adrenoreceptor agonists",206,3.5,149,0.49,nd1939,
+R03CC1946,"Pirbuterol",44,0.75,4,0.01,nd1945,http://sideeffects.embl.de/drugs/4845
+R03CC1947,"Salbutamol",192,3.27,134,0.44,nd1945,http://sideeffects.embl.de/drugs/2083
+R03CC1948,"Terbutaline",26,0.44,11,0.04,nd1945,http://sideeffects.embl.de/drugs/5403
+nd1949,"R03D - OTHER SYSTEMIC DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES",229,3.89,198,0.65,nd1909,
+nd1950,"R03DA - Xanthines",90,1.53,56,0.19,nd1949,
+R03DA1951,"Aminophylline",55,0.94,6,0.02,nd1950,http://sideeffects.embl.de/drugs/9433
+R03DA1952,"Choline theophyllinate",41,0.7,1,0.0,nd1950,http://sideeffects.embl.de/drugs/20585
+R03DA1953,"Dyphylline",24,0.41,1,0.0,nd1950,http://sideeffects.embl.de/drugs/3182
+R03DA1954,"Theophylline",74,1.26,48,0.16,nd1950,http://sideeffects.embl.de/drugs/2153
+nd1955,"R03DC - Leukotriene receptor antagonists",141,2.4,137,0.45,nd1949,
+R03DC1956,"Montelukast",115,1.96,125,0.41,nd1955,http://sideeffects.embl.de/drugs/4248
+R03DC1957,"Zafirlukast",58,0.99,12,0.04,nd1955,http://sideeffects.embl.de/drugs/5717
+nd1958,"R03DX - Other systemic drugs for obstructive airway diseases",65,1.11,5,0.02,nd1949,
+R03DX1959,"Amlexanox",10,0.17,1,0.0,nd1958,http://sideeffects.embl.de/drugs/2161
+R03DX1960,"Roflumilast",59,1.0,4,0.01,nd1958,http://sideeffects.embl.de/drugs/449193
+nd1961,"R05 - COUGH AND COLD PREPARATIONS",230,3.91,101,0.33,nd1855,
+nd1962,"R05C - EXPECTORANTS, EXCL. COMBINATIONS WITH COUGH SUPPRESSANTS",141,2.4,33,0.11,nd1961,
+nd1963,"R05CA - Expectorants",8,0.14,2,0.01,nd1962,
+R05CA1964,"Guaifenesin",8,0.14,2,0.01,nd1963,http://sideeffects.embl.de/drugs/3516
+nd1965,"R05CB - Mucolytics",139,2.36,31,0.1,nd1962,
+R05CB1966,"Bromhexine",14,0.24,1,0.0,nd1965,http://sideeffects.embl.de/drugs/2442
+R05CB1967,"Mesna",76,1.29,13,0.04,nd1965,http://sideeffects.embl.de/drugs/598
+R05CB1968,"N-acetylcysteine",51,0.87,16,0.05,nd1965,http://sideeffects.embl.de/drugs/581
+R05CB1969,"Tiopronin",48,0.82,1,0.0,nd1965,http://sideeffects.embl.de/drugs/5483
+nd1970,"R05D - COUGH SUPPRESSANTS, EXCL. COMBINATIONS WITH EXPECTORANTS",143,2.43,68,0.22,nd1961,
+nd1971,"R05DA - Opium alkaloids and derivatives",134,2.28,13,0.04,nd1970,
+R05DA1972,"Codeine",87,1.48,8,0.03,nd1971,http://sideeffects.embl.de/drugs/2828
+R05DA1973,"Dextromethorphan",26,0.44,1,0.0,nd1971,http://sideeffects.embl.de/drugs/3008
+R05DA1974,"Hydrocodone",69,1.17,4,0.01,nd1971,http://sideeffects.embl.de/drugs/22258
+nd1975,"R05DB - Other cough suppressants",20,0.34,55,0.18,nd1970,
+R05DB1976,"Benzonatate",20,0.34,55,0.18,nd1975,http://sideeffects.embl.de/drugs/7699
+nd1977,"R06 - ANTIHISTAMINES FOR SYSTEMIC USE",356,6.05,404,1.34,nd1855,
+nd1978,"R06A - ANTIHISTAMINES FOR SYSTEMIC USE",356,6.05,404,1.34,nd1977,
+nd1979,"R06AA - Aminoalkyl ethers",44,0.75,40,0.13,nd1978,
+R06AA1980,"Carbinoxamine",43,0.73,8,0.03,nd1979,http://sideeffects.embl.de/drugs/2564
+R06AA1981,"Clemastine",43,0.73,6,0.02,nd1979,http://sideeffects.embl.de/drugs/2781
+R06AA1982,"Diphenhydramine",42,0.71,26,0.09,nd1979,http://sideeffects.embl.de/drugs/3100
+nd1983,"R06AB - Substituted alkylamines",53,0.9,3,0.01,nd1978,
+R06AB1984,"Chlorpheniramine",53,0.9,3,0.01,nd1983,http://sideeffects.embl.de/drugs/2725
+nd1985,"R06AC - Substituted ethylene diamines",1,0.02,1,0.0,nd1978,
+R06AC1986,"Mepyramine",1,0.02,1,0.0,nd1985,http://sideeffects.embl.de/drugs/4992
+nd1987,"R06AD - Phenothiazine derivatives",84,1.43,138,0.46,nd1978,
+R06AD1988,"Promethazine",84,1.43,138,0.46,nd1987,http://sideeffects.embl.de/drugs/4927
+nd1989,"R06AE - Piperazine derivatives",238,4.05,95,0.31,nd1978,
+R06AE1990,"Cetirizine",219,3.72,52,0.17,nd1989,http://sideeffects.embl.de/drugs/2678
+R06AE1991,"Cyclizine",53,0.9,3,0.01,nd1989,http://sideeffects.embl.de/drugs/6726
+R06AE1992,"Monamine",6,0.1,40,0.13,nd1989,http://sideeffects.embl.de/drugs/4034
+nd1993,"R06AX - Other antihistamines for systemic use",205,3.49,127,0.42,nd1978,
+R06AX1994,"Azelastine",104,1.77,17,0.06,nd1993,http://sideeffects.embl.de/drugs/2267
+R06AX1995,"Cyproheptadine",54,0.92,17,0.06,nd1993,http://sideeffects.embl.de/drugs/2913
+R06AX1996,"Desloratadine",62,1.05,36,0.12,nd1993,http://sideeffects.embl.de/drugs/124087
+R06AX1997,"Epinastine",12,0.2,9,0.03,nd1993,http://sideeffects.embl.de/drugs/3241
+R06AX1998,"Fexofenadine",56,0.95,36,0.12,nd1993,http://sideeffects.embl.de/drugs/3348
+R06AX1999,"Ketotifen",35,0.6,4,0.01,nd1993,http://sideeffects.embl.de/drugs/3827
+R06AX2000,"Loratadine",58,0.99,8,0.03,nd1993,http://sideeffects.embl.de/drugs/3957
+nd2001,"R07 - OTHER RESPIRATORY SYSTEM PRODUCTS",58,0.99,7,0.02,nd1855,
+nd2002,"R07A - OTHER RESPIRATORY SYSTEM PRODUCTS",58,0.99,7,0.02,nd2001,
+nd2003,"R07AB - Respiratory stimulants",39,0.66,5,0.02,nd2002,
+R07AB2004,"Doxapram",39,0.66,5,0.02,nd2003,http://sideeffects.embl.de/drugs/3156
+nd2005,"R07AX - Other respiratory system products",23,0.39,2,0.01,nd2002,
+R07AX2006,"Nitric oxide",23,0.39,2,0.01,nd2005,http://sideeffects.embl.de/drugs/145068
+nd2007,"S - SENSORY ORGANS",1804,30.68,3346,11.06,null,
+nd2008,"S01 - OPHTHALMOLOGICALS",1797,30.56,3328,11.0,nd2007,
+nd2009,"S01A - ANTIINFECTIVES",1095,18.62,1515,5.01,nd2008,
+nd2010,"S01AA - Antibiotics",452,7.69,497,1.64,nd2009,
+S01AA2011,"Amikacin",26,0.44,4,0.01,nd2010,http://sideeffects.embl.de/drugs/2142
+S01AA2012,"Ampicillin",26,0.44,36,0.12,nd2010,http://sideeffects.embl.de/drugs/2173
+S01AA2013,"Azithromycin",169,2.87,178,0.59,nd2010,http://sideeffects.embl.de/drugs/2269
+S01AA2014,"Chloramphenicol",52,0.88,9,0.03,nd2010,http://sideeffects.embl.de/drugs/298
+S01AA2015,"Erythromycin",58,0.99,103,0.34,nd2010,http://sideeffects.embl.de/drugs/3255
+S01AA2016,"Fusidic acid",55,0.94,2,0.01,nd2010,http://sideeffects.embl.de/drugs/3443
+S01AA2017,"Gentamicin",66,1.12,58,0.19,nd2010,http://sideeffects.embl.de/drugs/3467
+S01AA2018,"Kanamycin",24,0.41,1,0.0,nd2010,http://sideeffects.embl.de/drugs/815
+S01AA2019,"Natamycin",12,0.2,2,0.01,nd2010,http://sideeffects.embl.de/drugs/441382
+S01AA2020,"Neomycin",21,0.36,9,0.03,nd2010,http://sideeffects.embl.de/drugs/4454
+S01AA2021,"Oxytetracycline",27,0.46,1,0.0,nd2010,http://sideeffects.embl.de/drugs/44134877
+S01AA2022,"Penicillin",124,2.11,17,0.06,nd2010,http://sideeffects.embl.de/drugs/2349
+S01AA2023,"Polymyxin B",16,0.27,5,0.02,nd2010,http://sideeffects.embl.de/drugs/4868
+S01AA2024,"Tetracycline",37,0.63,17,0.06,nd2010,http://sideeffects.embl.de/drugs/25880664
+S01AA2025,"Tobramycin",158,2.69,55,0.18,nd2010,http://sideeffects.embl.de/drugs/5496
+nd2026,"S01AB - Sulfonamides",18,0.31,43,0.14,nd2009,
+S01AB2027,"Sulfacetamide",18,0.31,43,0.14,nd2026,http://sideeffects.embl.de/drugs/5320
+nd2028,"S01AD - Antivirals",464,7.89,301,1.0,nd2009,
+S01AD2029,"Acyclovir",150,2.55,180,0.6,nd2028,http://sideeffects.embl.de/drugs/2022
+S01AD2030,"Adenosine",94,1.6,34,0.11,nd2028,http://sideeffects.embl.de/drugs/191
+S01AD2031,"Famciclovir",74,1.26,21,0.07,nd2028,http://sideeffects.embl.de/drugs/3324
+S01AD2032,"Ganciclovir",262,4.46,8,0.03,nd2028,http://sideeffects.embl.de/drugs/3454
+S01AD2033,"IdUrd",5,0.09,1,0.0,nd2028,http://sideeffects.embl.de/drugs/3687
+S01AD2034,"Trifluorothymidine",12,0.2,4,0.01,nd2028,http://sideeffects.embl.de/drugs/6256
+S01AD2035,"Zidovudine",155,2.64,53,0.18,nd2028,http://sideeffects.embl.de/drugs/5726
+nd2036,"S01AX - Other antiinfectives",830,14.12,674,2.23,nd2009,
+S01AX2037,"Chlorhexidine",52,0.88,18,0.06,nd2036,http://sideeffects.embl.de/drugs/2713
+S01AX2038,"Ciprofloxacin",454,7.72,291,0.96,nd2036,http://sideeffects.embl.de/drugs/2764
+S01AX2039,"Gatifloxacin",163,2.77,35,0.12,nd2036,http://sideeffects.embl.de/drugs/5379
+S01AX2040,"Lomefloxacin",168,2.86,7,0.02,nd2036,http://sideeffects.embl.de/drugs/3948
+S01AX2041,"Moxifloxacin",396,6.73,58,0.19,nd2036,http://sideeffects.embl.de/drugs/4259
+S01AX2042,"Norfloxacin",152,2.59,10,0.03,nd2036,http://sideeffects.embl.de/drugs/4539
+S01AX2043,"Ofloxacin",435,7.4,254,0.84,nd2036,http://sideeffects.embl.de/drugs/4583
+S01AX2044,"Silver nanoparticles",11,0.19,1,0.0,nd2036,http://sideeffects.embl.de/drugs/23954
+nd2045,"S01B - ANTIINFLAMMATORY AGENTS",759,12.91,808,2.67,nd2008,
+nd2046,"S01BA - Corticosteroids, plain",381,6.48,403,1.33,nd2045,
+S01BA2047,"Alclometasone",12,0.2,6,0.02,nd2046,http://sideeffects.embl.de/drugs/4630253
+S01BA2048,"Clobetasone butyrate",33,0.56,3,0.01,nd2046,http://sideeffects.embl.de/drugs/2792
+S01BA2049,"Cortisol",197,3.35,113,0.37,nd2046,http://sideeffects.embl.de/drugs/3640
+S01BA2050,"Cortisone",55,0.94,5,0.02,nd2046,http://sideeffects.embl.de/drugs/222786
+S01BA2051,"Desonide",46,0.78,19,0.06,nd2046,http://sideeffects.embl.de/drugs/12536
+S01BA2052,"Dexamethasone",215,3.66,124,0.41,nd2046,http://sideeffects.embl.de/drugs/3003
+S01BA2053,"Fluocinolone acetonide",128,2.18,36,0.12,nd2046,http://sideeffects.embl.de/drugs/3381
+S01BA2054,"Fluorometholone",35,0.6,7,0.02,nd2046,http://sideeffects.embl.de/drugs/3384
+S01BA2055,"Loteprednol etabonate",28,0.48,7,0.02,nd2046,http://sideeffects.embl.de/drugs/54808
+S01BA2056,"Medrysone",19,0.32,3,0.01,nd2046,http://sideeffects.embl.de/drugs/4043
+S01BA2057,"Prednisolone",109,1.85,48,0.16,nd2046,http://sideeffects.embl.de/drugs/4894
+S01BA2058,"Rimexolone",28,0.48,3,0.01,nd2046,http://sideeffects.embl.de/drugs/39507
+S01BA2059,"Triamcinolone",150,2.55,29,0.1,nd2046,http://sideeffects.embl.de/drugs/5544
+nd2060,"S01BC - Antiinflammatory agents, non-steroids",574,9.76,405,1.34,nd2045,
+S01BC2061,"Bromfenac",37,0.63,16,0.05,nd2060,http://sideeffects.embl.de/drugs/60726
+S01BC2062,"Diclofenac",367,6.24,165,0.55,nd2060,http://sideeffects.embl.de/drugs/3032
+S01BC2063,"Flurbiprofen",211,3.59,19,0.06,nd2060,http://sideeffects.embl.de/drugs/3394
+S01BC2064,"Indomethacin",171,2.91,70,0.23,nd2060,http://sideeffects.embl.de/drugs/3715
+S01BC2065,"Ketorolac",174,2.96,79,0.26,nd2060,http://sideeffects.embl.de/drugs/3826
+S01BC2066,"Nepafenac",64,1.09,9,0.03,nd2060,http://sideeffects.embl.de/drugs/151075
+S01BC2067,"Piroxicam",142,2.41,29,0.1,nd2060,http://sideeffects.embl.de/drugs/23690938
+S01BC2068,"Salicylate",38,0.65,18,0.06,nd2060,http://sideeffects.embl.de/drugs/338
+nd2069,"S01C - ANTIINFLAMMATORY AGENTS AND ANTIINFECTIVES IN COMBINATION",280,4.76,292,0.97,nd2008,
+nd2070,"S01CB - Corticosteroids/antiinfectives/mydriatics in combination",280,4.76,292,0.97,nd2069,
+S01CB2071,"Cortisol",197,3.35,113,0.37,nd2070,http://sideeffects.embl.de/drugs/3640
+S01CB2072,"Dexamethasone",215,3.66,124,0.41,nd2070,http://sideeffects.embl.de/drugs/3003
+S01CB2073,"Fluorometholone",35,0.6,7,0.02,nd2070,http://sideeffects.embl.de/drugs/3384
+S01CB2074,"Prednisolone",109,1.85,48,0.16,nd2070,http://sideeffects.embl.de/drugs/4894
+nd2075,"S01E - ANTIGLAUCOMA PREPARATIONS AND MIOTICS",716,12.18,434,1.43,nd2008,
+nd2076,"S01EA - Sympathomimetics in glaucoma therapy",327,5.56,183,0.6,nd2075,
+S01EA2077,"Apraclonidine",95,1.62,10,0.03,nd2076,http://sideeffects.embl.de/drugs/2216
+S01EA2078,"Brimonidine",148,2.52,28,0.09,nd2076,http://sideeffects.embl.de/drugs/2435
+S01EA2079,"Clonidine",159,2.7,109,0.36,nd2076,http://sideeffects.embl.de/drugs/2803
+S01EA2080,"Dipivefrin",7,0.12,1,0.0,nd2076,http://sideeffects.embl.de/drugs/3105
+S01EA2081,"Epinephrine",67,1.14,35,0.12,nd2076,http://sideeffects.embl.de/drugs/838
+nd2082,"S01EB - Parasympathomimetics",232,3.95,41,0.14,nd2075,
+S01EB2083,"Acetylcholine",8,0.14,3,0.01,nd2082,http://sideeffects.embl.de/drugs/187
+S01EB2084,"Carbachol",22,0.37,7,0.02,nd2082,http://sideeffects.embl.de/drugs/2551
+S01EB2085,"Echothiophate",11,0.19,3,0.01,nd2082,http://sideeffects.embl.de/drugs/10547
+S01EB2086,"Neostigmine",65,1.11,8,0.03,nd2082,http://sideeffects.embl.de/drugs/4456
+S01EB2087,"Physostigmine",5,0.09,2,0.01,nd2082,http://sideeffects.embl.de/drugs/4811
+S01EB2088,"Pilocarpine",183,3.11,18,0.06,nd2082,http://sideeffects.embl.de/drugs/4819
+nd2089,"S01EC - Carbonic anhydrase inhibitors",310,5.27,66,0.22,nd2075,
+S01EC2090,"Acetazolamide",58,0.99,29,0.1,nd2089,http://sideeffects.embl.de/drugs/1986
+S01EC2091,"Brinzolamide",172,2.93,6,0.02,nd2089,http://sideeffects.embl.de/drugs/68844
+S01EC2092,"Dichlorphenamide",35,0.6,1,0.0,nd2089,http://sideeffects.embl.de/drugs/3038
+S01EC2093,"Dorzolamide",156,2.65,23,0.08,nd2089,http://sideeffects.embl.de/drugs/3154
+S01EC2094,"Methazolamide",45,0.77,7,0.02,nd2089,http://sideeffects.embl.de/drugs/1798
+nd2095,"S01ED - Beta blocking agents",287,4.88,87,0.29,nd2075,
+S01ED2096,"Betaxolol",221,3.76,13,0.04,nd2095,http://sideeffects.embl.de/drugs/2369
+S01ED2097,"Carteolol",37,0.63,3,0.01,nd2095,http://sideeffects.embl.de/drugs/2583
+S01ED2098,"Levobunolol",43,0.73,5,0.02,nd2095,http://sideeffects.embl.de/drugs/3914
+S01ED2099,"Metipranolol",32,0.54,1,0.0,nd2095,http://sideeffects.embl.de/drugs/31477
+S01ED2100,"Timolol",161,2.74,65,0.21,nd2095,http://sideeffects.embl.de/drugs/5478
+nd2101,"S01EE - Prostaglandin analogues",231,3.93,57,0.19,nd2075,
+S01EE2102,"Bimatoprost",108,1.84,15,0.05,nd2101,http://sideeffects.embl.de/drugs/127909
+S01EE2103,"Latanoprost",58,0.99,22,0.07,nd2101,http://sideeffects.embl.de/drugs/3890
+S01EE2104,"Tafluprost",36,0.61,2,0.01,nd2101,http://sideeffects.embl.de/drugs/6433101
+S01EE2105,"Travoprost",172,2.93,17,0.06,nd2101,http://sideeffects.embl.de/drugs/123597
+S01EE2106,"Unoprostone",47,0.8,1,0.0,nd2101,http://sideeffects.embl.de/drugs/5636
+nd2107,"S01F - MYDRIATICS AND CYCLOPLEGICS",283,4.81,148,0.49,nd2008,
+nd2108,"S01FA - Anticholinergics",242,4.12,117,0.39,nd2107,
+S01FA2109,"Atropine",178,3.03,85,0.28,nd2108,http://sideeffects.embl.de/drugs/3661
+S01FA2110,"Cyclopentolate",39,0.66,8,0.03,nd2108,http://sideeffects.embl.de/drugs/2905
+S01FA2111,"Homatropine",50,0.85,5,0.02,nd2108,http://sideeffects.embl.de/drugs/3623
+S01FA2112,"N-methylscopolamine",25,0.43,8,0.03,nd2108,http://sideeffects.embl.de/drugs/4120
+S01FA2113,"Scopolamine",74,1.26,5,0.02,nd2108,http://sideeffects.embl.de/drugs/5184
+S01FA2114,"Tropicamide",34,0.58,6,0.02,nd2108,http://sideeffects.embl.de/drugs/5593
+nd2115,"S01FB - Sympathomimetics excl. antiglaucoma preparations",95,1.62,31,0.1,nd2107,
+S01FB2116,"Ephedrine",48,0.82,9,0.03,nd2115,http://sideeffects.embl.de/drugs/5032
+S01FB2117,"Phenylephrine",63,1.07,22,0.07,nd2115,http://sideeffects.embl.de/drugs/4782
+nd2118,"S01G - DECONGESTANTS AND ANTIALLERGICS",300,5.1,115,0.38,nd2008,
+nd2119,"S01GA - Sympathomimetics used as decongestants",85,1.45,35,0.12,nd2118,
+S01GA2120,"Naphazoline",24,0.41,11,0.04,nd2119,http://sideeffects.embl.de/drugs/4436
+S01GA2121,"Phenylephrine",63,1.07,22,0.07,nd2119,http://sideeffects.embl.de/drugs/4782
+S01GA2122,"Tetrahydrozoline",13,0.22,2,0.01,nd2119,http://sideeffects.embl.de/drugs/5419
+nd2123,"S01GX - Other antiallergics",260,4.42,80,0.26,nd2118,
+S01GX2124,"Azelastine",104,1.77,17,0.06,nd2123,http://sideeffects.embl.de/drugs/2267
+S01GX2125,"Emedastine",35,0.6,4,0.01,nd2123,http://sideeffects.embl.de/drugs/3219
+S01GX2126,"Epinastine",12,0.2,9,0.03,nd2123,http://sideeffects.embl.de/drugs/3241
+S01GX2127,"Ketotifen",35,0.6,4,0.01,nd2123,http://sideeffects.embl.de/drugs/3827
+S01GX2128,"Levocabastine",16,0.27,1,0.0,nd2123,http://sideeffects.embl.de/drugs/3915
+S01GX2129,"Lodoxamide",29,0.49,1,0.0,nd2123,http://sideeffects.embl.de/drugs/44564
+S01GX2130,"Nedocromil sodium",48,0.82,7,0.02,nd2123,http://sideeffects.embl.de/drugs/50294
+S01GX2131,"Olopatadine",95,1.62,17,0.06,nd2123,http://sideeffects.embl.de/drugs/60864
+S01GX2132,"Sodium cromoglycate",99,1.68,20,0.07,nd2123,http://sideeffects.embl.de/drugs/2881
+nd2133,"S01H - LOCAL ANESTHETICS",154,2.62,196,0.65,nd2008,
+nd2134,"S01HA - Local anesthetics",154,2.62,196,0.65,nd2133,
+S01HA2135,"Cocaine",11,0.19,1,0.0,nd2134,http://sideeffects.embl.de/drugs/2826
+S01HA2136,"Lidocaine",124,2.11,173,0.57,nd2134,http://sideeffects.embl.de/drugs/3676
+S01HA2137,"Procaine",43,0.73,2,0.01,nd2134,http://sideeffects.embl.de/drugs/4914
+S01HA2138,"Proparacaine",12,0.2,11,0.04,nd2134,http://sideeffects.embl.de/drugs/4935
+S01HA2139,"Tetracaine",31,0.53,9,0.03,nd2134,http://sideeffects.embl.de/drugs/5411
+nd2140,"S01J - DIAGNOSTIC AGENTS",81,1.38,3,0.01,nd2008,
+nd2141,"S01JA - Colouring agents",81,1.38,3,0.01,nd2140,
+S01JA2142,"Fluorescein",81,1.38,3,0.01,nd2141,http://sideeffects.embl.de/drugs/16850
+nd2143,"S01L - OCULAR VASCULAR DISORDER AGENTS",196,3.33,14,0.05,nd2008,
+nd2144,"S01LA - Antineovascularisation agents",196,3.33,14,0.05,nd2143,
+S01LA2145,"Pegaptanib",131,2.23,2,0.01,nd2144,http://sideeffects.embl.de/drugs/56603655
+S01LA2146,"Verteporfin",97,1.65,12,0.04,nd2144,http://sideeffects.embl.de/drugs/5362420
+nd2147,"S01X - OTHER OPHTHALMOLOGICALS",363,6.17,117,0.39,nd2008,
+nd2148,"S01XA - Other ophthalmologicals",363,6.17,117,0.39,nd2147,
+S01XA2149,"Ascorbate",3,0.05,3,0.01,nd2148,http://sideeffects.embl.de/drugs/11020241
+S01XA2150,"Dexpanthenol",11,0.19,1,0.0,nd2148,http://sideeffects.embl.de/drugs/4678
+S01XA2151,"Heparin",45,0.77,38,0.13,nd2148,http://sideeffects.embl.de/drugs/53477714
+S01XA2152,"N-acetylcysteine",51,0.87,16,0.05,nd2148,http://sideeffects.embl.de/drugs/581
+S01XA2153,"Nandrolone",23,0.39,2,0.01,nd2148,http://sideeffects.embl.de/drugs/9904
+S01XA2154,"Retinol",2,0.03,1,0.0,nd2148,http://sideeffects.embl.de/drugs/1071
+S01XA2155,"V 1784",297,5.05,56,0.19,nd2148,http://sideeffects.embl.de/drugs/2909
+nd2156,"S02 - OTOLOGICALS",906,15.41,1174,3.88,nd2007,
+nd2157,"S02A - ANTIINFECTIVES",717,12.19,679,2.24,nd2156,
+nd2158,"S02AA - Antiinfectives",717,12.19,679,2.24,nd2157,
+S02AA2159,"Acetate",5,0.09,11,0.04,nd2158,http://sideeffects.embl.de/drugs/175
+S02AA2160,"Chloramphenicol",52,0.88,9,0.03,nd2158,http://sideeffects.embl.de/drugs/298
+S02AA2161,"Chlorhexidine",52,0.88,18,0.06,nd2158,http://sideeffects.embl.de/drugs/2713
+S02AA2162,"Ciprofloxacin",454,7.72,291,0.96,nd2158,http://sideeffects.embl.de/drugs/2764
+S02AA2163,"Gentamicin",66,1.12,58,0.19,nd2158,http://sideeffects.embl.de/drugs/3467
+S02AA2164,"Miconazole",57,0.97,7,0.02,nd2158,http://sideeffects.embl.de/drugs/4189
+S02AA2165,"Neomycin",21,0.36,9,0.03,nd2158,http://sideeffects.embl.de/drugs/4454
+S02AA2166,"Ofloxacin",435,7.4,254,0.84,nd2158,http://sideeffects.embl.de/drugs/4583
+S02AA2167,"Polymyxin B",16,0.27,5,0.02,nd2158,http://sideeffects.embl.de/drugs/4868
+S02AA2168,"Tetracycline",37,0.63,17,0.06,nd2158,http://sideeffects.embl.de/drugs/25880664
+nd2169,"S02B - CORTICOSTEROIDS",327,5.56,321,1.06,nd2156,
+nd2170,"S02BA - Corticosteroids",327,5.56,321,1.06,nd2169,
+S02BA2171,"Cortisol",197,3.35,113,0.37,nd2170,http://sideeffects.embl.de/drugs/3640
+S02BA2172,"Dexamethasone",215,3.66,124,0.41,nd2170,http://sideeffects.embl.de/drugs/3003
+S02BA2173,"Fluocinolone acetonide",128,2.18,36,0.12,nd2170,http://sideeffects.embl.de/drugs/3381
+S02BA2174,"Prednisolone",109,1.85,48,0.16,nd2170,http://sideeffects.embl.de/drugs/4894
+nd2175,"S02D - OTHER OTOLOGICALS",130,2.21,174,0.58,nd2156,
+nd2176,"S02DA - Analgesics and anesthetics",130,2.21,174,0.58,nd2175,
+S02DA2177,"Cocaine",11,0.19,1,0.0,nd2176,http://sideeffects.embl.de/drugs/2826
+S02DA2178,"Lidocaine",124,2.11,173,0.57,nd2176,http://sideeffects.embl.de/drugs/3676
+nd2179,"S03 - OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS",669,11.38,579,1.91,nd2007,
+nd2180,"S03A - ANTIINFECTIVES",544,9.25,407,1.35,nd2179,
+nd2181,"S03AA - Antiinfectives",544,9.25,407,1.35,nd2180,
+S03AA2182,"Chloramphenicol",52,0.88,9,0.03,nd2181,http://sideeffects.embl.de/drugs/298
+S03AA2183,"Chlorhexidine",52,0.88,18,0.06,nd2181,http://sideeffects.embl.de/drugs/2713
+S03AA2184,"Ciprofloxacin",454,7.72,291,0.96,nd2181,http://sideeffects.embl.de/drugs/2764
+S03AA2185,"Gentamicin",66,1.12,58,0.19,nd2181,http://sideeffects.embl.de/drugs/3467
+S03AA2186,"Neomycin",21,0.36,9,0.03,nd2181,http://sideeffects.embl.de/drugs/4454
+S03AA2187,"Polymyxin B",16,0.27,5,0.02,nd2181,http://sideeffects.embl.de/drugs/4868
+S03AA2188,"Tetracycline",37,0.63,17,0.06,nd2181,http://sideeffects.embl.de/drugs/25880664
+nd2189,"S03B - CORTICOSTEROIDS",232,3.95,172,0.57,nd2179,
+nd2190,"S03BA - Corticosteroids",232,3.95,172,0.57,nd2189,
+S03BA2191,"Dexamethasone",215,3.66,124,0.41,nd2190,http://sideeffects.embl.de/drugs/3003
+S03BA2192,"Prednisolone",109,1.85,48,0.16,nd2190,http://sideeffects.embl.de/drugs/4894
+nd2193,"V - VARIOUS",1069,18.18,460,1.52,null,
+nd2194,"V03 - ALL OTHER THERAPEUTIC PRODUCTS",639,10.87,305,1.01,nd2193,
+nd2195,"V03A - ALL OTHER THERAPEUTIC PRODUCTS",639,10.87,305,1.01,nd2194,
+nd2196,"V03AB - Antidotes",390,6.63,192,0.63,nd2195,
+V03AB2197,"4-methylpyrazole",46,0.78,6,0.02,nd2196,http://sideeffects.embl.de/drugs/3406
+V03AB2198,"Atropine",178,3.03,85,0.28,nd2196,http://sideeffects.embl.de/drugs/3661
+V03AB2199,"Dimercaprol",19,0.32,3,0.01,nd2196,http://sideeffects.embl.de/drugs/3080
+V03AB2200,"EDTA",38,0.65,6,0.02,nd2196,http://sideeffects.embl.de/drugs/6049
+V03AB2201,"Flumazenil",90,1.53,28,0.09,nd2196,http://sideeffects.embl.de/drugs/3373
+V03AB2202,"Hydroxocobalamin",64,1.09,10,0.03,nd2196,http://sideeffects.embl.de/drugs/4479097
+V03AB2203,"Methylene blue",57,0.97,6,0.02,nd2196,http://sideeffects.embl.de/drugs/4139
+V03AB2204,"N-acetylcysteine",51,0.87,16,0.05,nd2196,http://sideeffects.embl.de/drugs/581
+V03AB2205,"Naloxone",47,0.8,22,0.07,nd2196,http://sideeffects.embl.de/drugs/4425
+V03AB2206,"Physostigmine",5,0.09,2,0.01,nd2196,http://sideeffects.embl.de/drugs/4811
+V03AB2207,"Pralidoxime",14,0.24,2,0.01,nd2196,http://sideeffects.embl.de/drugs/5353894
+V03AB2208,"Prussian blue",1,0.02,1,0.0,nd2196,http://sideeffects.embl.de/drugs/25959
+V03AB2209,"Sodium nitrite",7,0.12,1,0.0,nd2196,http://sideeffects.embl.de/drugs/4517618
+V03AB2210,"Sugammadex",56,0.95,3,0.01,nd2196,http://sideeffects.embl.de/drugs/6918584
+V03AB2211,"Thiosulfate",9,0.15,1,0.0,nd2196,http://sideeffects.embl.de/drugs/1084
+nd2212,"V03AC - Iron chelating agents",239,4.06,25,0.08,nd2195,
+V03AC2213,"Deferasirox",104,1.77,15,0.05,nd2212,http://sideeffects.embl.de/drugs/5493381
+V03AC2214,"Deferiprone",110,1.87,2,0.01,nd2212,http://sideeffects.embl.de/drugs/2972
+V03AC2215,"Deferoxamine",104,1.77,8,0.03,nd2212,http://sideeffects.embl.de/drugs/2973
+nd2216,"V03AE - Drugs for treatment of hyperkalemia and hyperphosphatemia",40,0.68,30,0.1,nd2195,
+V03AE2217,"Lanthanum carbonate",11,0.19,4,0.01,nd2216,http://sideeffects.embl.de/drugs/168924
+V03AE2218,"Poly(styrene sulfonate",21,0.36,14,0.05,nd2216,http://sideeffects.embl.de/drugs/168625
+V03AE2219,"Sevelamer",22,0.37,12,0.04,nd2216,http://sideeffects.embl.de/drugs/3085017
+nd2220,"V03AF - Detoxifying agents for antineoplastic treatment",198,3.37,56,0.19,nd2195,
+V03AF2221,"Amifostine",49,0.83,12,0.04,nd2220,http://sideeffects.embl.de/drugs/2141
+V03AF2222,"Dexrazoxane",86,1.46,9,0.03,nd2220,http://sideeffects.embl.de/drugs/30623
+V03AF2223,"Leucovorin",46,0.78,17,0.06,nd2220,http://sideeffects.embl.de/drugs/143
+V03AF2224,"Mesna",76,1.29,13,0.04,nd2220,http://sideeffects.embl.de/drugs/598
+V03AF2225,"Rasburicase",55,0.94,5,0.02,nd2220,http://sideeffects.embl.de/drugs/102258
+nd2226,"V03AH - Drugs for treatment of hypoglycemia",72,1.22,2,0.01,nd2195,
+V03AH2227,"Diazoxide",72,1.22,2,0.01,nd2226,http://sideeffects.embl.de/drugs/3019
+nd2228,"V04 - DIAGNOSTIC AGENTS",295,5.02,66,0.22,nd2193,
+nd2229,"V04C - OTHER DIAGNOSTIC AGENTS",295,5.02,66,0.22,nd2228,
+nd2230,"V04CA - Tests for diabetes",60,1.02,25,0.08,nd2229,
+V04CA2231,"Glucose",37,0.63,24,0.08,nd2230,http://sideeffects.embl.de/drugs/206
+V04CA2232,"Tolbutamide",24,0.41,1,0.0,nd2230,http://sideeffects.embl.de/drugs/5505
+nd2233,"V04CC - Tests for bile duct patency",130,2.21,17,0.06,nd2229,
+V04CC2234,"Asp-Tyr(SO3H)-Met-Gly-Trp-Met-Asp-Phe-NH2",26,0.44,3,0.01,nd2233,http://sideeffects.embl.de/drugs/32800
+V04CC2235,"Mannitol",115,1.96,14,0.05,nd2233,http://sideeffects.embl.de/drugs/453
+nd2236,"V04CD - Tests for pituitary function",31,0.53,3,0.01,nd2229,
+V04CD2237,"Metyrapone",22,0.37,2,0.01,nd2236,http://sideeffects.embl.de/drugs/4174
+V04CD2238,"OCRH",11,0.19,1,0.0,nd2236,http://sideeffects.embl.de/drugs/16132344
+nd2239,"V04CE - Tests for liver functional capacity",37,0.63,24,0.08,nd2229,
+V04CE2240,"Glucose",37,0.63,24,0.08,nd2239,http://sideeffects.embl.de/drugs/206
+nd2241,"V04CG - Tests for gastric secretion",127,2.16,9,0.03,nd2229,
+V04CG2242,"Histamine",95,1.62,3,0.01,nd2241,http://sideeffects.embl.de/drugs/774
+V04CG2243,"Methylene blue",57,0.97,6,0.02,nd2241,http://sideeffects.embl.de/drugs/4139
+nd2244,"V04CH - Tests for renal function and ureteral injuries",10,0.17,1,0.0,nd2229,
+V04CH2245,"P-aminohippurate",10,0.17,1,0.0,nd2244,http://sideeffects.embl.de/drugs/2148
+nd2246,"V04CJ - Tests for thyreoidea function",22,0.37,1,0.0,nd2229,
+V04CJ2247,"Protirelin",22,0.37,1,0.0,nd2246,http://sideeffects.embl.de/drugs/32281
+nd2248,"V04CK - Tests for pancreatic function",33,0.56,7,0.02,nd2229,
+V04CK2249,"Vitrum",33,0.56,7,0.02,nd2248,http://sideeffects.embl.de/drugs/16129665
+nd2250,"V04CM - Tests for fertility disturbances",46,0.78,3,0.01,nd2229,
+V04CM2251,"Gonadorelin",46,0.78,3,0.01,nd2250,http://sideeffects.embl.de/drugs/36523
+nd2252,"V06 - GENERAL NUTRIENTS",37,0.63,24,0.08,nd2193,
+nd2253,"V06D - OTHER NUTRIENTS",37,0.63,24,0.08,nd2252,
+nd2254,"V06DC - Carbohydrates",37,0.63,24,0.08,nd2253,
+V06DC2255,"Glucose",37,0.63,24,0.08,nd2254,http://sideeffects.embl.de/drugs/206
+nd2256,"V08 - CONTRAST MEDIA",667,11.34,93,0.31,nd2193,
+nd2257,"V08A - X-RAY CONTRAST MEDIA, IODINATED",441,7.5,56,0.19,nd2256,
+nd2258,"V08AA - Watersoluble, nephrotropic, high osmolar X-ray contrast media",135,2.3,13,0.04,nd2257,
+V08AA2259,"Diatrizoate",114,1.94,9,0.03,nd2258,http://sideeffects.embl.de/drugs/2140
+V08AA2260,"Sodium iothalamate",70,1.19,4,0.01,nd2258,http://sideeffects.embl.de/drugs/3737
+nd2261,"V08AB - Watersoluble, nephrotropic, low osmolar X-ray contrast media",424,7.21,42,0.14,nd2257,
+V08AB2262,"Iodixanol",130,2.21,3,0.01,nd2261,http://sideeffects.embl.de/drugs/3724
+V08AB2263,"Iohexol",88,1.5,4,0.01,nd2261,http://sideeffects.embl.de/drugs/3730
+V08AB2264,"Iopamidol",170,2.89,3,0.01,nd2261,http://sideeffects.embl.de/drugs/3734
+V08AB2265,"Iopromide",224,3.81,17,0.06,nd2261,http://sideeffects.embl.de/drugs/3736
+V08AB2266,"Iotrolan",77,1.31,2,0.01,nd2261,http://sideeffects.embl.de/drugs/3738
+V08AB2267,"Ioversol",160,2.72,10,0.03,nd2261,http://sideeffects.embl.de/drugs/3741
+V08AB2268,"Ioxaglate",93,1.58,2,0.01,nd2261,http://sideeffects.embl.de/drugs/3742
+V08AB2269,"Ioxilan",53,0.9,1,0.0,nd2261,http://sideeffects.embl.de/drugs/3743
+nd2270,"V08AC - Watersoluble, hepatotropic X-ray contrast media",21,0.36,1,0.0,nd2257,
+V08AC2271,"Iodipamide",21,0.36,1,0.0,nd2270,http://sideeffects.embl.de/drugs/3739
+nd2272,"V08C - MAGNETIC RESONANCE IMAGING CONTRAST MEDIA",449,7.64,36,0.12,nd2256,
+nd2273,"V08CA - Paramagnetic contrast media",449,7.64,36,0.12,nd2272,
+V08CA2274,"Gadobenate dimeglumine",242,4.12,8,0.03,nd2273,http://sideeffects.embl.de/drugs/197281
+V08CA2275,"Gadobutrol",35,0.6,1,0.0,nd2273,http://sideeffects.embl.de/drugs/6102852
+V08CA2276,"Gadodiamide",80,1.36,4,0.01,nd2273,http://sideeffects.embl.de/drugs/60754
+V08CA2277,"Gadofosveset",127,2.16,2,0.01,nd2273,http://sideeffects.embl.de/drugs/11672461
+V08CA2278,"Gadoteridol",61,1.04,4,0.01,nd2273,http://sideeffects.embl.de/drugs/60714
+V08CA2279,"Gadoversetamide",183,3.11,13,0.04,nd2273,http://sideeffects.embl.de/drugs/444013
+V08CA2280,"Gd-DTPA",160,2.72,3,0.01,nd2273,http://sideeffects.embl.de/drugs/55466
+V08CA2281,"Gd-EOB-DTPA",65,1.11,1,0.0,nd2273,http://sideeffects.embl.de/drugs/219084
+nd2282,"V08D - ULTRASOUND CONTRAST MEDIA",38,0.65,1,0.0,nd2256,
+nd2283,"V08DA - Ultrasound contrast media",38,0.65,1,0.0,nd2282,
+V08DA2284,"SonoVue",38,0.65,1,0.0,nd2283,http://sideeffects.embl.de/drugs/17358
+nd2285,"V09 - DIAGNOSTIC RADIOPHARMACEUTICALS",24,0.41,2,0.01,nd2193,
+nd2286,"V09A - CENTRAL NERVOUS SYSTEM",18,0.31,1,0.0,nd2285,
+nd2287,"V09AB - Iodine",18,0.31,1,0.0,nd2286,
+V09AB2288,"FP-CIT",18,0.31,1,0.0,nd2287,http://sideeffects.embl.de/drugs/122197
+nd2289,"V09F - THYROID",7,0.12,1,0.0,nd2285,
+nd2290,"V09FX - Various thyroid diagnostic radiopharmaceuticals",7,0.12,1,0.0,nd2289,
+V09FX2291,"Sodium iodide",7,0.12,1,0.0,nd2290,http://sideeffects.embl.de/drugs/5238
