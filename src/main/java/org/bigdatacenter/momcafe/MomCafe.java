@@ -37,8 +37,8 @@ public class MomCafe {
         HtmlInput button = (HtmlInput)form
                 .getByXPath("//*[@id=\"frmNIDLogin\"]/fieldset/input").get(0);
 
-        inputId.setValueAttribute("#####ID#####");
-        inputPw.setValueAttribute("#####PASSWORD######");
+        inputId.setValueAttribute("dbnis00");
+        inputPw.setValueAttribute("dbnis3258");
         currPage = (HtmlPage)button.click();
 
         if(currPage.asText().contains("Naver Sign in")) {
