@@ -29,24 +29,24 @@ public class MomCafe {
 
         webClient.waitForBackgroundJavaScript(5000);
 
-        HtmlPage currPage = webClient.getPage("https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fwww.naver.com");
+        HtmlPage currPage = webClient.getPage("http://210.99.67.17/ibmcognos/cgi-bin/cognos.cgi?b_action=cognosViewer&ui.action=run&ui.object=storeID(%27i5001f2a124a443aaae4b0cfbb276f1d3%27)&CAMUsername=GUEST1&CAMPassword=GUEST1&fbclid=IwAR30KLwRfIXM4O8XWyiLHRQVUhVFsBT-YLr9yBxuLwxSTC6aOlL0XiGnWjo#");
 
-        HtmlForm form = currPage.getFormByName("frmNIDLogin");
-        HtmlTextInput inputId = form.getInputByName("id");
-        HtmlPasswordInput inputPw = (HtmlPasswordInput)form.getInputByName("pw");
-        HtmlInput button = (HtmlInput)form
-                .getByXPath("//*[@id=\"frmNIDLogin\"]/fieldset/input").get(0);
-
-        inputId.setValueAttribute("dbnis00");
-        inputPw.setValueAttribute("dbnis3258");
-        currPage = (HtmlPage)button.click();
-
-        if(currPage.asText().contains("Naver Sign in")) {
-            System.out.println("cannot login with the id and pw");
-            return;
-        } else {
-            System.out.println("Successfully");
-        }
+//        HtmlForm form = currPage.getFormByName("frmNIDLogin");
+//        HtmlTextInput inputId = form.getInputByName("id");
+//        HtmlPasswordInput inputPw = (HtmlPasswordInput)form.getInputByName("pw");
+//        HtmlInput button = (HtmlInput)form
+//                .getByXPath("//*[@id=\"frmNIDLogin\"]/fieldset/input").get(0);
+//
+//        inputId.setValueAttribute("dbnis00");
+//        inputPw.setValueAttribute("dbnis3258");
+//        currPage = (HtmlPage)button.click();
+//
+//        if(currPage.asText().contains("Naver Sign in")) {
+//            System.out.println("cannot login with the id and pw");
+//            return;
+//        } else {
+//            System.out.println("Successfully");
+//        }
 
         Map<String, String> cookies = new HashMap<>();
         CookieManager cookieManager = webClient.getCookieManager();
@@ -80,85 +80,87 @@ public class MomCafe {
 //        cookies.put("personaconmain|kely0322", "CBAE72AEA54971838C10A83824CD9F50E90F7B7F72670FCDAEE1AAB42C735304");
 //        cookies.put("personacon|kely0322", "32609A2D54AC1C335D6E7D297182182152D4EBFA05532EB0FE9CF2938079337F8573BEE04DD64ED9AEC3CE1567CF805A40F8D069EC7C6DF7B3642537D5E13B2FDF742CDD54489AFBB104A8BFB1C0566E18767A543203FB65");
 
-        Document menuDocument = Jsoup.connect("http://cafe.naver.com/imsanbu")
+        Document menuDocument = Jsoup.connect("http://210.99.67.17/ibmcognos/cgi-bin/cognos.cgi?b_action=cognosViewer&ui.action=run&ui.object=storeID(%27i5001f2a124a443aaae4b0cfbb276f1d3%27)&CAMUsername=GUEST1&CAMPassword=GUEST1&fbclid=IwAR30KLwRfIXM4O8XWyiLHRQVUhVFsBT-YLr9yBxuLwxSTC6aOlL0XiGnWjo#")
                 .cookies(cookies)
-                .post();
+                .get();
 
-        Elements menuElements = menuDocument.select("ul#group146 li");
-
-        for(Element menuElement: menuElements) {
-            String url = menuElement.select("a").attr("href");
-            try {
-                Map<String, String> params = new HashMap<String, String>();
-                String[] urlParts = url.split("\\?");
-                if (urlParts.length > 1) {
-                    String query = urlParts[1];
-                    for (String param : query.split("&")) {
-                        String[] pair = param.split("=");
-                        String key = URLDecoder.decode(pair[0], "UTF-8");
-                        String value = "";
-                        if (pair.length > 1) {
-                            value = URLDecoder.decode(pair[1], "UTF-8");
-                        }
-                        params.put(key, value);
-                    }
-                }
-
-                String clubID = params.get("search.clubid");
-
-                String menuID = params.get("search.menuid");
-
-                for(int page=1; page <= 1000; page ++) {
-                    System.out.println("=======> http://cafe.naver.com/ArticleList.nhn?search.clubid=" + clubID + "&search.menuid=" + menuID + "&search.boardtype=L&search.page=" + page);
-
-                    Document documentList = Jsoup.connect("http://cafe.naver.com/ArticleList.nhn?search.clubid=" + clubID + "&search.menuid=" + menuID + "&search.boardtype=L&search.page=" + page)
-                            .cookies(cookies)
-                            .post();
-
-                    //System.out.println(documentList.select("form[name=ArticleList]").html());
-
-                    Elements trElements = documentList.select("form[name=ArticleList] tr[align=center]");
-
-                    int index = 1;
-                    for(Element trElement: trElements) {
-                        String articleID = trElement.select(".list-count").text();
-                        System.out.println("==========================================");
-                        System.out.println("LOADING =====================> " + index++);
-                        System.out.println("==========================================");
-                        System.out.println(trElement.text());
-                        System.out.println(articleID);
-
-                        System.out.println("http://cafe.naver.com" + trElement.select(".board-list a").attr("href"));
-
-                        Document document1 = Jsoup.connect("http://cafe.naver.com" + trElement.select(".board-list a").attr("href"))
-                                .cookies(cookies)
-                                .post();
-
-                        System.out.println(document1.select(".inbox .tbody").text());
-
-                        Document document = Jsoup.connect("http://cafe.naver.com/CommentView.nhn?search.clubid=" + clubID + "&search.menuid=" + menuID + "&search.articleid=" + articleID + "&search.lastpageview=true&lcs=Y")
-                                .cookies(cookies)
-                                .post();
-
-                        System.out.println(document.body().text());
-
-                        ObjectMapper mapper = new ObjectMapper();
-
-                        String commentJSON = document.body().text();
-
-                        try{
-                            MomResult result = mapper.readValue(commentJSON.trim(), MomResult.class);
-
-                            System.out.println(result.getResult().getList());
-                        }catch (Exception ex){
-                            ex.printStackTrace();
-                        }
-
-                    }
-                }
-            } catch (UnsupportedEncodingException ex) {
-                throw new AssertionError(ex);
-            }
-        }
+        System.out.println(menuDocument);
+//
+//        Elements menuElements = menuDocument.select("ul#group146 li");
+//
+//        for(Element menuElement: menuElements) {
+//            String url = menuElement.select("a").attr("href");
+//            try {
+//                Map<String, String> params = new HashMap<String, String>();
+//                String[] urlParts = url.split("\\?");
+//                if (urlParts.length > 1) {
+//                    String query = urlParts[1];
+//                    for (String param : query.split("&")) {
+//                        String[] pair = param.split("=");
+//                        String key = URLDecoder.decode(pair[0], "UTF-8");
+//                        String value = "";
+//                        if (pair.length > 1) {
+//                            value = URLDecoder.decode(pair[1], "UTF-8");
+//                        }
+//                        params.put(key, value);
+//                    }
+//                }
+//
+//                String clubID = params.get("search.clubid");
+//
+//                String menuID = params.get("search.menuid");
+//
+//                for(int page=1; page <= 1000; page ++) {
+//                    System.out.println("=======> http://cafe.naver.com/ArticleList.nhn?search.clubid=" + clubID + "&search.menuid=" + menuID + "&search.boardtype=L&search.page=" + page);
+//
+//                    Document documentList = Jsoup.connect("http://cafe.naver.com/ArticleList.nhn?search.clubid=" + clubID + "&search.menuid=" + menuID + "&search.boardtype=L&search.page=" + page)
+//                            .cookies(cookies)
+//                            .post();
+//
+//                    //System.out.println(documentList.select("form[name=ArticleList]").html());
+//
+//                    Elements trElements = documentList.select("form[name=ArticleList] tr[align=center]");
+//
+//                    int index = 1;
+//                    for(Element trElement: trElements) {
+//                        String articleID = trElement.select(".list-count").text();
+//                        System.out.println("==========================================");
+//                        System.out.println("LOADING =====================> " + index++);
+//                        System.out.println("==========================================");
+//                        System.out.println(trElement.text());
+//                        System.out.println(articleID);
+//
+//                        System.out.println("http://cafe.naver.com" + trElement.select(".board-list a").attr("href"));
+//
+//                        Document document1 = Jsoup.connect("http://cafe.naver.com" + trElement.select(".board-list a").attr("href"))
+//                                .cookies(cookies)
+//                                .post();
+//
+//                        System.out.println(document1.select(".inbox .tbody").text());
+//
+//                        Document document = Jsoup.connect("http://cafe.naver.com/CommentView.nhn?search.clubid=" + clubID + "&search.menuid=" + menuID + "&search.articleid=" + articleID + "&search.lastpageview=true&lcs=Y")
+//                                .cookies(cookies)
+//                                .post();
+//
+//                        System.out.println(document.body().text());
+//
+//                        ObjectMapper mapper = new ObjectMapper();
+//
+//                        String commentJSON = document.body().text();
+//
+//                        try{
+//                            MomResult result = mapper.readValue(commentJSON.trim(), MomResult.class);
+//
+//                            System.out.println(result.getResult().getList());
+//                        }catch (Exception ex){
+//                            ex.printStackTrace();
+//                        }
+//
+//                    }
+//                }
+//            } catch (UnsupportedEncodingException ex) {
+//                throw new AssertionError(ex);
+//            }
+//        }
     }
 }
